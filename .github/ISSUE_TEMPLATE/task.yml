@@ -1,0 +1,28 @@
+name: Задача команды
+description: Исследование, продукт, разработка, проверка или подготовка сдачи
+title: "[Задача] "
+body:
+  - type: textarea
+    id: result
+    attributes:
+      label: Результат
+      description: Что должно появиться и зачем это нужно?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Критерии готовности
+      description: Как другой участник проверит результат?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Материалы и зависимости
+      description: Ссылки на Wiki, данные, предшествующие задачи.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Итог и проверка
+      description: Заполнить при завершении — результат, ограничения и свидетельство проверки.

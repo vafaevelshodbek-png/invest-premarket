@@ -1,0 +1,23 @@
+name: Ошибка или блокировка
+description: Проблема, мешающая работе сценария или команды
+title: "[Ошибка] "
+labels: [bug]
+body:
+  - type: textarea
+    id: expected
+    attributes:
+      label: Ожидаемый и фактический результат
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Как воспроизвести
+      description: Версия, шаги, безопасные логи и входные данные.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Влияние и следующий шаг
+      description: Что блокируется, кто может помочь, есть ли обходной путь?
