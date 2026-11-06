@@ -1,23 +1,25 @@
 name: Ошибка или блокировка
-description: Проблема, мешающая работе сценария или команды
-title: "[Ошибка] "
-labels: [bug]
+description: Проблема, которая мешает работе продукта или команды
+title: '[Ошибка] '
+labels:
+- bug
 body:
-  - type: textarea
-    id: expected
-    attributes:
-      label: Ожидаемый и фактический результат
-    validations:
-      required: true
-  - type: textarea
-    id: reproduce
-    attributes:
-      label: Как воспроизвести
-      description: Версия, шаги, безопасные логи и входные данные.
-    validations:
-      required: true
-  - type: textarea
-    id: impact
-    attributes:
-      label: Влияние и следующий шаг
-      description: Что блокируется, кто может помочь, есть ли обходной путь?
+- type: textarea
+  id: expected
+  attributes:
+    label: Ожидаемый и фактический результат
+    description: Опишите, что должно было произойти и что получилось.
+  validations:
+    required: true
+- type: textarea
+  id: reproduce
+  attributes:
+    label: Как повторить ошибку
+    description: Укажите версию, шаги, входные данные и безопасные выдержки из журналов.
+  validations:
+    required: true
+- type: textarea
+  id: impact
+  attributes:
+    label: Влияние и следующий шаг
+    description: Укажите, что заблокировано, кто может помочь и есть ли обходной путь.
