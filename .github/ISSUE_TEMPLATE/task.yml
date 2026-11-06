@@ -1,35 +1,42 @@
-name: Задача первого отбора
-description: Подготовка ответа, проверка или отправка заявки
+name: Самостоятельная задача отбора
+description: Работа с целью, результатом, DoD и зависимостями
 title: '[Задача] '
 body:
-- type: input
-  id: form_field
+- type: dropdown
+  id: stream
   attributes:
-    label: Поле формы или подготовительный вопрос
-    description: Укажите номер поля или результат, который нужен для заявки.
+    label: Стрим
+    options:
+    - Рынок и процессы
+    - Продукт и ценность
+    - Данные и система
+    - AI и проверка
+    - Сборка и подача
+- type: textarea
+  id: goal
+  attributes:
+    label: Цель
+    description: Какой вопрос нужно решить и кому нужен результат?
+  validations:
+    required: true
+- type: textarea
+  id: work
+  attributes:
+    label: Что сделать и посмотреть
+    description: Готовые пункты работы, исходные материалы и источники для старта.
+  validations:
+    required: true
 - type: textarea
   id: result
   attributes:
-    label: Результат
-    description: Опишите, что должно появиться по итогам задачи.
+    label: Результат и DoD
+    description: Что передаём дальше и как проверить готовность?
   validations:
     required: true
 - type: textarea
-  id: acceptance
+  id: handoff
   attributes:
-    label: Критерии готовности
-    description: Перечислите признаки, по которым команда примет результат.
-  validations:
-    required: true
-- type: textarea
-  id: context
-  attributes:
-    label: Материалы и зависимости
-    description: Ссылки на существующие ответы, источники и задачи.
-- type: textarea
-  id: evidence
-  attributes:
-    label: Результат и проверка
-    description: При завершении укажите ссылку на результат, основания и ограничения.
+    label: Передача работы
+    description: Ведущий и проверяющий профили, зависимости, получатели результата и поля заявки.
 labels:
 - qualification

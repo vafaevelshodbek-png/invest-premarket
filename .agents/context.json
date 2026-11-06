@@ -23,88 +23,168 @@
     "team_materials": "https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Materials",
     "human_workflow": "https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Team-work"
   },
-  "field_tasks": {
-    "1": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/17",
-    "2": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/4",
-    "3": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/20",
-    "4": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/21",
-    "5": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/22",
-    "6": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/23",
-    "7": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/24",
-    "8": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/3",
-    "9": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/25",
-    "10": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/26",
-    "11": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/27",
-    "12": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/5"
-  },
   "task_index": {
     "team": {
       "number": 1,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/1"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/1",
+      "stream": "Сборка и подача",
+      "suggested_profile": "Капитан"
     },
     "form": {
       "number": 17,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/17"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/17",
+      "stream": "Сборка и подача",
+      "suggested_profile": "Капитан"
+    },
+    "market_map": {
+      "number": 29,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/29",
+      "stream": "Рынок и процессы",
+      "suggested_profile": "Бизнес: рынок"
+    },
+    "tools": {
+      "number": 30,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/30",
+      "stream": "Данные и система",
+      "suggested_profile": "ML: данные"
+    },
+    "roles_jobs": {
+      "number": 31,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/31",
+      "stream": "Рынок и процессы",
+      "suggested_profile": "Бизнес: рынок"
+    },
+    "current_methods": {
+      "number": 32,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/32",
+      "stream": "Рынок и процессы",
+      "suggested_profile": "Бизнес: рынок"
+    },
+    "formats": {
+      "number": 33,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/33",
+      "stream": "Продукт и ценность",
+      "suggested_profile": "Бизнес: продукт"
     },
     "candidates": {
       "number": 18,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/18"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/18",
+      "stream": "Продукт и ценность",
+      "suggested_profile": "Бизнес: продукт"
     },
-    "screen": {
+    "data_fit": {
       "number": 19,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/19"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/19",
+      "stream": "Данные и система",
+      "suggested_profile": "ML: данные"
+    },
+    "ai_fit": {
+      "number": 22,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/22",
+      "stream": "AI и проверка",
+      "suggested_profile": "ML: модели"
     },
     "choose": {
       "number": 2,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/2"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/2",
+      "stream": "Сборка и подача",
+      "suggested_profile": "Вся команда"
     },
-    "idea": {
+    "product_value": {
       "number": 4,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/4"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/4",
+      "stream": "Продукт и ценность",
+      "suggested_profile": "Бизнес: продукт"
     },
     "grounds": {
       "number": 20,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/20"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/20",
+      "stream": "Продукт и ценность",
+      "suggested_profile": "Бизнес: рынок"
     },
-    "scenario": {
+    "scenario_bounds": {
       "number": 21,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/21"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/21",
+      "stream": "Продукт и ценность",
+      "suggested_profile": "Бизнес: продукт"
     },
-    "ai": {
-      "number": 22,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/22"
-    },
-    "approaches": {
-      "number": 23,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/23"
+    "scenario_steps": {
+      "number": 34,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/34",
+      "stream": "Продукт и ценность",
+      "suggested_profile": "ML: модели"
     },
     "data": {
       "number": 3,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/3"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/3",
+      "stream": "Данные и система",
+      "suggested_profile": "ML: данные"
+    },
+    "models": {
+      "number": 23,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/23",
+      "stream": "AI и проверка",
+      "suggested_profile": "ML: модели"
     },
     "architecture": {
       "number": 24,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/24"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/24",
+      "stream": "Данные и система",
+      "suggested_profile": "ML: данные"
+    },
+    "cost": {
+      "number": 35,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/35",
+      "stream": "Данные и система",
+      "suggested_profile": "ML: данные"
+    },
+    "baseline": {
+      "number": 36,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/36",
+      "stream": "AI и проверка",
+      "suggested_profile": "ML: модели"
     },
     "experiment": {
       "number": 25,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/25"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/25",
+      "stream": "AI и проверка",
+      "suggested_profile": "ML: модели"
+    },
+    "business_risks": {
+      "number": 37,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/37",
+      "stream": "Продукт и ценность",
+      "suggested_profile": "Бизнес: рынок"
     },
     "risks": {
       "number": 26,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/26"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/26",
+      "stream": "Сборка и подача",
+      "suggested_profile": "Вся команда"
+    },
+    "assemble": {
+      "number": 38,
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/38",
+      "stream": "Сборка и подача",
+      "suggested_profile": "Бизнес: продукт"
     },
     "extra": {
       "number": 27,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/27"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/27",
+      "stream": "Сборка и подача",
+      "suggested_profile": "Бизнес: продукт"
     },
     "qa": {
       "number": 28,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/28"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/28",
+      "stream": "Сборка и подача",
+      "suggested_profile": "Вся команда"
     },
     "submit": {
       "number": 5,
-      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/5"
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/5",
+      "stream": "Сборка и подача",
+      "suggested_profile": "Капитан"
     }
   },
   "constraints": {
@@ -125,5 +205,129 @@
     "note": "Это исходное уточнение пользователя, текущее состояние необходимо читать в живой Wiki и Issues"
   },
   "legacy_materials": "Старые AI-черновики сохранены в истории Git, не считаются командными исследованиями или решениями",
-  "future_work": "Будущие этапы находятся в условиях программы, в Roadmap только календарные отметки"
+  "future_work": "Будущие этапы находятся в условиях программы, в Roadmap только календарные отметки",
+  "field_work": {
+    "1": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/17"
+    ],
+    "2": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/29",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/31",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/32",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/33",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/18",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/2",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/4"
+    ],
+    "3": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/32",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/20",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/2"
+    ],
+    "4": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/4",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/21",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/34"
+    ],
+    "5": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/22",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/34"
+    ],
+    "6": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/23"
+    ],
+    "7": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/30",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/24",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/35"
+    ],
+    "8": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/19",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/3"
+    ],
+    "9": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/36",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/25"
+    ],
+    "10": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/37",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/35",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/26"
+    ],
+    "11": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/27"
+    ],
+    "12": [
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/1",
+      "https://github.com/vafaevelshodbek-png/invest-premarket/issues/5"
+    ]
+  },
+  "answer_assembly": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/38",
+  "streams": [
+    {
+      "name": "Рынок и процессы",
+      "tasks": [
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/29",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/31",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/32"
+      ]
+    },
+    {
+      "name": "Продукт и ценность",
+      "tasks": [
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/33",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/18",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/4",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/20",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/21",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/34",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/37"
+      ]
+    },
+    {
+      "name": "Данные и система",
+      "tasks": [
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/30",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/19",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/3",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/24",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/35"
+      ]
+    },
+    {
+      "name": "AI и проверка",
+      "tasks": [
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/22",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/23",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/36",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/25"
+      ]
+    },
+    {
+      "name": "Сборка и подача",
+      "tasks": [
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/1",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/17",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/2",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/26",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/38",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/27",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/28",
+        "https://github.com/vafaevelshodbek-png/invest-premarket/issues/5"
+      ]
+    }
+  ],
+  "team_profiles": {
+    "business_finance": 2,
+    "ml_technical": 2,
+    "availability_hours": null,
+    "github_logins": null
+  },
+  "views": {
+    "available_now": "https://github.com/users/vafaevelshodbek-png/projects/1/views/1",
+    "status_board": "https://github.com/users/vafaevelshodbek-png/projects/1/views/2",
+    "by_stream": "https://github.com/users/vafaevelshodbek-png/projects/1/views/6",
+    "deadlines": "https://github.com/users/vafaevelshodbek-png/projects/1/views/3"
+  },
+  "dependencies": "GitHub Issue relationships: blockedBy, прочитать перед началом задачи"
 }
