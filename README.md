@@ -4,6 +4,7 @@
 
 ## Команде
 
+- [График первого этапа до 11 ноября](https://github.com/users/vafaevelshodbek-png/projects/1/views/7)
 - [Можно брать сейчас](https://github.com/users/vafaevelshodbek-png/projects/1/views/1)
 - [Задачи по стримам](https://github.com/users/vafaevelshodbek-png/projects/1/views/6)
 - [Доска по статусам](https://github.com/users/vafaevelshodbek-png/projects/1/views/2)

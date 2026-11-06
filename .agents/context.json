@@ -327,7 +327,14 @@
     "available_now": "https://github.com/users/vafaevelshodbek-png/projects/1/views/1",
     "status_board": "https://github.com/users/vafaevelshodbek-png/projects/1/views/2",
     "by_stream": "https://github.com/users/vafaevelshodbek-png/projects/1/views/6",
-    "deadlines": "https://github.com/users/vafaevelshodbek-png/projects/1/views/3"
+    "deadlines": "https://github.com/users/vafaevelshodbek-png/projects/1/views/3",
+    "first_stage_schedule": "https://github.com/users/vafaevelshodbek-png/projects/1/views/7"
   },
-  "dependencies": "GitHub Issue relationships: blockedBy, прочитать перед началом задачи"
+  "dependencies": "GitHub Issue relationships: blockedBy, прочитать перед началом задачи",
+  "scheduling": {
+    "period_start": "2026-11-06",
+    "deadline": "2026-11-11",
+    "source": "Start date и Target date в Project",
+    "note": "Задачи одного дня выполняются в порядке Blocked by, часовые оценки не заданы"
+  }
 }
