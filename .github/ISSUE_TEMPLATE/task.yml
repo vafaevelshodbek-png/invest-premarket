@@ -1,28 +1,35 @@
-name: Задача команды
-description: Исследование, продукт, разработка, проверка или сдача
+name: Задача первого отбора
+description: Подготовка ответа, проверка или отправка заявки
 title: '[Задача] '
 body:
+- type: input
+  id: form_field
+  attributes:
+    label: Поле формы или подготовительный вопрос
+    description: Укажите номер поля или результат, который нужен для заявки.
 - type: textarea
   id: result
   attributes:
-    label: Что сделать
-    description: Опишите результат и задачу, которую он помогает решить.
+    label: Результат
+    description: Опишите, что должно появиться по итогам задачи.
   validations:
     required: true
 - type: textarea
   id: acceptance
   attributes:
     label: Критерии готовности
-    description: Перечислите признаки, по которым другой участник сможет принять результат.
+    description: Перечислите признаки, по которым команда примет результат.
   validations:
     required: true
 - type: textarea
   id: context
   attributes:
     label: Материалы и зависимости
-    description: Добавьте ссылки на Wiki, данные и задачи, от которых зависит работа.
+    description: Ссылки на существующие ответы, источники и задачи.
 - type: textarea
   id: evidence
   attributes:
     label: Результат и проверка
-    description: При завершении укажите ссылку на результат, способ проверки и ограничения.
+    description: При завершении укажите ссылку на результат, основания и ограничения.
+labels:
+- qualification

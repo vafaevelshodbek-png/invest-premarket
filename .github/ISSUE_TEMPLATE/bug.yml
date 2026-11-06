@@ -1,8 +1,9 @@
 name: Ошибка или блокировка
-description: Проблема, которая мешает работе продукта или команды
+description: Ошибка или блокировка подготовки первого отбора
 title: '[Ошибка] '
 labels:
 - bug
+- qualification
 body:
 - type: textarea
   id: expected
