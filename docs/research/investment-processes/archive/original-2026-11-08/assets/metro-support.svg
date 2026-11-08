@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2800" height="1390" viewBox="0 0 2800 1390" role="img" aria-labelledby="title desc">
+<title id="title">Обеспечивающие функции и точки подключения к карте метро</title>
+<desc id="desc">Аналитическая карта по справочнику исследования. Условные ветки и связи применяются по инструменту и модели деятельности.</desc>
+<rect width="2800" height="1390" fill="#fbfcf9"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="80" y="85" font-size="48" font-weight="700" fill="#203c34" text-anchor="start">Что обеспечивает работу станций</text>
+<text x="80" y="137" font-size="25" font-weight="400" fill="#586d65" text-anchor="start">14 функций · входы из операций и документов → результат функции → применение в процессах</text>
+<rect x="80" y="220" width="820" height="405" rx="20" fill="#f1f4ee" stroke="#d8e1d8" stroke-width="2"/>
+<text x="110" y="268" font-size="31" font-weight="700" fill="#2379a5" text-anchor="start">Риски и обеспечение</text>
+<text x="110" y="320" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S01 · Риски</text>
+<text x="110" y="356" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: оценки, лимиты, нарушения</text>
+<text x="110" y="391" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: P01–P04, P09–P18</text>
+<text x="110" y="471" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S02 · Достаточность обеспечения</text>
+<text x="110" y="507" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: лимит, дефицит, требование</text>
+<text x="110" y="542" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: P05, P09, P15–P16</text>
+<rect x="990" y="220" width="820" height="1040" rx="20" fill="#f1f4ee" stroke="#d8e1d8" stroke-width="2"/>
+<text x="1020" y="268" font-size="31" font-weight="700" fill="#8061b0" text-anchor="start">Контроль</text>
+<text x="1020" y="320" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S03 · Контроль и комплаенс</text>
+<text x="1020" y="356" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: меры и статус исправления</text>
+<text x="1020" y="391" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: Все этапы</text>
+<text x="1020" y="471" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S04 · Конфликт интересов</text>
+<text x="1020" y="507" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: зафиксированный конфликт и решение</text>
+<text x="1020" y="542" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: P04–P07, клиентский сервис</text>
+<text x="1020" y="622" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S05 · Финансовый мониторинг</text>
+<text x="1020" y="658" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: сведения, решение, сообщение</text>
+<text x="1020" y="693" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: Подключение и операции</text>
+<text x="1020" y="773" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S06 · Инсайд и манипулирование</text>
+<text x="1020" y="809" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: доступ, проверка, реагирование</text>
+<text x="1020" y="844" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: P02–P07</text>
+<text x="1020" y="924" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S07 · Контроль спецдепозитария</text>
+<text x="1020" y="960" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: акцепт или несоответствие</text>
+<text x="1020" y="995" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: P07, P10, P24–P25 для ПИФ</text>
+<text x="1020" y="1075" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S08 · Внутренний аудит</text>
+<text x="1020" y="1111" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: выводы, рекомендации, статус</text>
+<text x="1020" y="1146" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: Периодически по процессам</text>
+<rect x="1900" y="220" width="820" height="405" rx="20" fill="#f1f4ee" stroke="#d8e1d8" stroke-width="2"/>
+<text x="1930" y="268" font-size="31" font-weight="700" fill="#c45835" text-anchor="start">Клиентский сервис</text>
+<text x="1930" y="320" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S09 · Клиентский доступ</text>
+<text x="1930" y="356" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: счёт, условия, права доступа</text>
+<text x="1930" y="391" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: До P05 и при изменениях</text>
+<text x="1930" y="471" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S10 · Информация и обращения</text>
+<text x="1930" y="507" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: информация, ответ, действия</text>
+<text x="1930" y="542" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: Подключение, P05, сопровождение, P21</text>
+<rect x="80" y="710" width="820" height="405" rx="20" fill="#f1f4ee" stroke="#d8e1d8" stroke-width="2"/>
+<text x="110" y="758" font-size="31" font-weight="700" fill="#138c97" text-anchor="start">Данные</text>
+<text x="110" y="810" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S11 · Снабжение данными</text>
+<text x="110" y="846" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: доступный обновляемый набор</text>
+<text x="110" y="881" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: P02–P03, P07, P14, контроль</text>
+<text x="110" y="961" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S12 · Качество данных</text>
+<text x="110" y="997" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: проблемы, причины, исправления</text>
+<text x="110" y="1032" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: Все этапы</text>
+<rect x="1900" y="710" width="820" height="405" rx="20" fill="#f1f4ee" stroke="#d8e1d8" stroke-width="2"/>
+<text x="1930" y="758" font-size="31" font-weight="700" fill="#278669" text-anchor="start">Системы</text>
+<text x="1930" y="810" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S13 · Системы и устойчивость</text>
+<text x="1930" y="846" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: восстановление, причины и меры</text>
+<text x="1930" y="881" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: Автоматизированные этапы</text>
+<text x="1930" y="961" font-size="25" font-weight="700" fill="#203c34" text-anchor="start">S14 · Информационная безопасность</text>
+<text x="1930" y="997" font-size="21" font-weight="400" fill="#203c34" text-anchor="start">Выход: защита и реагирование</text>
+<text x="1930" y="1032" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Где: Все этапы</text>
+<text x="80" y="1307" font-size="23" font-weight="400" fill="#203c34" text-anchor="start">S — обеспечивающая функция, а не очередная станция маршрута. Подключения по ID ведут к тем же процессам P.</text>
+<text x="80" y="1351" font-size="21" font-weight="400" fill="#586d65" text-anchor="start">Точные входы, применимость и источники — в карточках справочника. Связи показаны аналитически, по применимой модели.</text>
+</g></svg>
