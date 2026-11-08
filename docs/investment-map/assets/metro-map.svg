@@ -1,0 +1,313 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2800" height="2390" viewBox="0 0 2800 2390" role="img" aria-labelledby="title desc">
+<title id="title">Карта метро инвестиционных процессов: 25 станций</title>
+<desc id="desc">Аналитическая карта по справочнику исследования. Условные ветки и связи применяются по инструменту и модели деятельности.</desc>
+<rect width="2800" height="2390" fill="#fbfcf9"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="80" y="85" font-size="48" font-weight="700" fill="#203c34" text-anchor="start">Карта метро инвестиционных процессов</text>
+<text x="80" y="133" font-size="25" font-weight="400" fill="#586d65" text-anchor="start">25 станций · результаты передаются между процессами · версия 1.0</text>
+<path d="M80,198 h60" stroke="#c45835" stroke-width="12" stroke-linecap="round"/>
+<text x="162" y="206" font-size="23" font-weight="600" fill="#203c34" text-anchor="start">A · Решение и сделка</text>
+<path d="M980,198 h60" stroke="#2379a5" stroke-width="12" stroke-linecap="round"/>
+<text x="1062" y="206" font-size="23" font-weight="600" fill="#203c34" text-anchor="start">B · Обязательства и расчёты</text>
+<path d="M1880,198 h60" stroke="#278669" stroke-width="12" stroke-linecap="round"/>
+<text x="1962" y="206" font-size="23" font-weight="600" fill="#203c34" text-anchor="start">C · Учёт и отчёты</text>
+<path d="M80,251 h60" stroke="#8061b0" stroke-width="12" stroke-linecap="round"/>
+<text x="162" y="259" font-size="23" font-weight="600" fill="#203c34" text-anchor="start">D · Учёт прав</text>
+<path d="M980,251 h60" stroke="#af7a14" stroke-width="12" stroke-linecap="round"/>
+<text x="1062" y="259" font-size="23" font-weight="600" fill="#203c34" text-anchor="start">E · Сопровождение и результат</text>
+<path d="M1880,251 h60" stroke="#138c97" stroke-width="12" stroke-linecap="round"/>
+<text x="1962" y="259" font-size="23" font-weight="600" fill="#203c34" text-anchor="start">F · Операции фонда</text>
+<path d="M160,350 L650,350" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M160,350 L650,350" fill="none" stroke="#c45835" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M446.0,357.0 L456.0,350.0 L446.0,343.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M650,350 L1140,350" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650,350 L1140,350" fill="none" stroke="#c45835" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M936.0,357.0 L946.0,350.0 L936.0,343.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1140,350 L1630,350" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1140,350 L1630,350" fill="none" stroke="#c45835" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1426.0,357.0 L1436.0,350.0 L1426.0,343.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1630,350 L2120,350" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1630,350 L2120,350" fill="none" stroke="#c45835" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1916.0,357.0 L1926.0,350.0 L1916.0,343.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2120,350 L2120,650" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2120,350 L2120,650" fill="none" stroke="#c45835" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2113.0,522.0 L2120.0,532.0 L2127.0,522.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2120,350 L2500,350 L2500,500" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2120,350 L2500,350 L2500,500" fill="none" stroke="#c45835" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 10"/>
+<path d="M2430.0,357.0 L2440.0,350.0 L2430.0,343.0" fill="none" stroke="#c45835" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2500,500 L2320,500 L2120,650" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2500,500 L2320,500 L2120,650" fill="none" stroke="#c45835" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 10"/>
+<path d="M2259.8,536.4 L2256.0,548.0 L2268.2,547.6" fill="none" stroke="#c45835" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2120,650 L2120,990" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2120,650 L2120,990" fill="none" stroke="#2379a5" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2113.0,846.0 L2120.0,856.0 L2127.0,846.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2120,990 L2300,990 L2500,1090" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2120,990 L2300,990 L2500,1090" fill="none" stroke="#2379a5" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2345.315329551507,1020.4839026970027 L2357.390096630006,1018.6950483150029 L2351.5763198885065,1007.9619220230039" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2120,650 L2650,650 L2650,810 L2500,810" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2120,650 L2650,650 L2650,810 L2500,810" fill="none" stroke="#2379a5" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 10"/>
+<path d="M2616.0,657.0 L2626.0,650.0 L2616.0,643.0" fill="none" stroke="#2379a5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2500,810 L2500,1090" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2500,810 L2500,1090" fill="none" stroke="#2379a5" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2493.0,970.0 L2500.0,980.0 L2507.0,970.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2120,990 L1980,990 L1980,820 L1630,820 L1630,650" fill="none" stroke="#fbfcf9" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2120,990 L1980,990 L1980,820 L1630,820 L1630,650" fill="none" stroke="#6f807b" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 10"/>
+<path d="M1800.0,813.0 L1790.0,820.0 L1800.0,827.0" fill="none" stroke="#6f807b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1630,650 L1800,650 L1800,1230 L2600,1230 L2600,1090 L2500,1090" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1630,650 L1800,650 L1800,1230 L2600,1230 L2600,1090 L2500,1090" fill="none" stroke="#2379a5" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2116.0,1237.0 L2126.0,1230.0 L2116.0,1223.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1140,1090 L1140,1270 L2640,1270 L2640,1090 L2500,1090" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1140,1090 L1140,1270 L2640,1270 L2640,1090 L2500,1090" fill="none" stroke="#2379a5" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2152.0,1277.0 L2162.0,1270.0 L2152.0,1263.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2120,650 L1900,650 L1900,1090 L1630,1090" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2120,650 L1900,650 L1900,1090 L1630,1090" fill="none" stroke="#278669" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1893.0,980.0 L1900.0,990.0 L1907.0,980.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2500,1090 L2500,1450" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2500,1090 L2500,1450" fill="none" stroke="#8061b0" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2493.0,1298.0 L2500.0,1308.0 L2507.0,1298.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1630,1090 L1630,1450" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1630,1090 L1630,1450" fill="none" stroke="#278669" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1623.0,1298.0 L1630.0,1308.0 L1637.0,1298.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2500,1450 L1630,1450" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M2500,1450 L1630,1450" fill="none" stroke="#8061b0" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1986.0,1443.0 L1976.0,1450.0 L1986.0,1457.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1630,1450 L1140,1450" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1630,1450 L1140,1450" fill="none" stroke="#278669" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1344.0,1443.0 L1334.0,1450.0 L1344.0,1457.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1630,1450 L1630,1620 L650,1620 L650,1450" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1630,1450 L1630,1620 L650,1620 L650,1450" fill="none" stroke="#278669" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1016.0,1613.0 L1006.0,1620.0 L1016.0,1627.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1630,1450 L1460,1450 L1460,1810 L1140,1810" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1630,1450 L1460,1450 L1460,1810 L1140,1810" fill="none" stroke="#278669" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1453.0,1782.0 L1460.0,1792.0 L1467.0,1782.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1630,1450 L1630,1810" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1630,1450 L1630,1810" fill="none" stroke="#278669" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1623.0,1658.0 L1630.0,1668.0 L1637.0,1658.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1630,1450 L1570,1510 L1570,1650 L390,1650 L390,500 L650,500 L650,650" fill="none" stroke="#fbfcf9" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1630,1450 L1570,1510 L1570,1650 L390,1650 L390,500 L650,500 L650,650" fill="none" stroke="#6f807b" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 10"/>
+<path d="M397.0,1283.9411254969546 L390.0,1273.9411254969546 L383.0,1283.9411254969546" fill="none" stroke="#6f807b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M650,650 L1140,650" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650,650 L1140,650" fill="none" stroke="#af7a14" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M936.0,657.0 L946.0,650.0 L936.0,643.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1140,650 L1380,650 L1380,280 L1630,280 L1630,350" fill="none" stroke="#fbfcf9" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1140,650 L1380,650 L1380,280 L1630,280 L1630,350" fill="none" stroke="#6f807b" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 10"/>
+<path d="M1387.0,340.0 L1380.0,330.0 L1373.0,340.0" fill="none" stroke="#6f807b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M650,650 L650,1090" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650,650 L650,1090" fill="none" stroke="#af7a14" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M643.0,906.0 L650.0,916.0 L657.0,906.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M650,650 L160,650 L160,1090" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650,650 L160,650 L160,1090" fill="none" stroke="#af7a14" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M153.0,710.0 L160.0,720.0 L167.0,710.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M650,650 L650,870 L1140,870 L1140,1090" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650,650 L650,870 L1140,870 L1140,1090" fill="none" stroke="#af7a14" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M980.0,877.0 L990.0,870.0 L980.0,863.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1630,1450 L2050,1450 L2050,1730 L650,1730 L650,1810" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1630,1450 L2050,1450 L2050,1730 L650,1730 L650,1810" fill="none" stroke="#138c97" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1450.0,1723.0 L1440.0,1730.0 L1450.0,1737.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M650,1810 L160,1810" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650,1810 L160,1810" fill="none" stroke="#138c97" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M364.0,1803.0 L354.0,1810.0 L364.0,1817.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160,1810 L160,1970 L2720,1970 L2720,1000 L2580,1000 L2500,1090" fill="none" stroke="#fbfcf9" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M160,1810 L160,1970 L2720,1970 L2720,1000 L2580,1000 L2500,1090" fill="none" stroke="#6f807b" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 10"/>
+<path d="M2362.2495674727534,1977.0 L2372.2495674727534,1970.0 L2362.2495674727534,1963.0" fill="none" stroke="#6f807b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M650,1810 L900,1810 L900,1945 L2000,1945 L2000,1810 L1630,1810" fill="none" stroke="#fbfcf9" stroke-width="20" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M650,1810 L900,1810 L900,1945 L2000,1945 L2000,1810 L1630,1810" fill="none" stroke="#138c97" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1701.0,1952.0 L1711.0,1945.0 L1701.0,1938.0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="p01"><title>P01. Цели и ограничения. Результат: план или мандат</title>
+<circle cx="160" cy="350" r="14" fill="#fbfcf9" stroke="#c45835" stroke-width="5"/>
+<rect x="16.0" y="378" width="288.0" height="96" rx="7" fill="#fbfcf9"/>
+<text x="160" y="401" font-size="20" font-weight="700" fill="#c45835" text-anchor="middle">P01</text>
+<text x="160" y="433" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Цели и ограничения</text>
+<text x="160" y="463" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">план или мандат</text>
+</g>
+<g id="p02"><title>P02. Сведения для решения. Результат: данные и документы</title>
+<circle cx="650" cy="350" r="14" fill="#fbfcf9" stroke="#c45835" stroke-width="5"/>
+<rect x="485.5" y="378" width="329.0" height="96" rx="7" fill="#fbfcf9"/>
+<text x="650" y="401" font-size="20" font-weight="700" fill="#c45835" text-anchor="middle">P02</text>
+<text x="650" y="433" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Сведения для решения</text>
+<text x="650" y="463" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">данные и документы</text>
+</g>
+<g id="p03"><title>P03. Анализ инструмента. Результат: оценки и сценарии</title>
+<circle cx="1140" cy="350" r="14" fill="#fbfcf9" stroke="#c45835" stroke-width="5"/>
+<rect x="995.5" y="378" width="289.1" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1140" y="401" font-size="20" font-weight="700" fill="#c45835" text-anchor="middle">P03</text>
+<text x="1140" y="433" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Анализ инструмента</text>
+<text x="1140" y="463" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">оценки и сценарии</text>
+</g>
+<g id="p04"><title>P04. Выбор действия. Результат: решение с параметрами</title>
+<circle cx="1630" cy="350" r="14" fill="#fbfcf9" stroke="#c45835" stroke-width="5"/>
+<rect x="1505.0" y="378" width="250.0" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1630" y="401" font-size="20" font-weight="700" fill="#c45835" text-anchor="middle">P04</text>
+<text x="1630" y="433" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Выбор действия</text>
+<text x="1630" y="463" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">решение с параметрами</text>
+</g>
+<g id="p05"><title>P05. Поручение. Результат: приём либо отказ</title>
+<circle cx="2120" cy="350" r="14" fill="#fbfcf9" stroke="#c45835" stroke-width="5"/>
+<rect x="1902.7" y="366" width="185.3" height="96" rx="7" fill="#fbfcf9"/>
+<text x="2080" y="389" font-size="20" font-weight="700" fill="#c45835" text-anchor="end">P05</text>
+<text x="2080" y="421" font-size="23" font-weight="700" fill="#203c34" text-anchor="end">Поручение</text>
+<text x="2080" y="451" font-size="18" font-weight="400" fill="#586d65" text-anchor="end">приём либо отказ</text>
+</g>
+<g id="p06"><title>P06. Первичное размещение. Результат: результат заявки</title>
+<circle cx="2500" cy="500" r="14" fill="#fbfcf9" stroke="#c45835" stroke-width="5"/>
+<rect x="2331.3" y="528" width="337.4" height="96" rx="7" fill="#fbfcf9"/>
+<text x="2500" y="551" font-size="20" font-weight="700" fill="#c45835" text-anchor="middle">P06</text>
+<text x="2500" y="583" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Первичное размещение</text>
+<text x="2500" y="613" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">результат заявки</text>
+</g>
+<g id="p07"><title>P07. Сделка. Результат: сделки и остаток поручения</title>
+<circle cx="2120" cy="650" r="24" fill="#fbfcf9" stroke="#203c34" stroke-width="4"/>
+<circle cx="2120" cy="650" r="14" fill="#fbfcf9" stroke="#c45835" stroke-width="5"/>
+<rect x="2152.0" y="666" width="288.0" height="96" rx="7" fill="#fbfcf9"/>
+<text x="2160" y="689" font-size="20" font-weight="700" fill="#c45835" text-anchor="start">P07</text>
+<text x="2160" y="721" font-size="23" font-weight="700" fill="#203c34" text-anchor="start">Сделка</text>
+<text x="2160" y="751" font-size="18" font-weight="400" fill="#586d65" text-anchor="start">сделки и остаток поручения</text>
+</g>
+<g id="p08"><title>P08. Подтверждение OTC. Результат: инструкции или расхождения</title>
+<circle cx="2500" cy="810" r="14" fill="#fbfcf9" stroke="#2379a5" stroke-width="5"/>
+<rect x="2165.1" y="826" width="302.9" height="96" rx="7" fill="#fbfcf9"/>
+<text x="2460" y="849" font-size="20" font-weight="700" fill="#2379a5" text-anchor="end">P08</text>
+<text x="2460" y="881" font-size="23" font-weight="700" fill="#203c34" text-anchor="end">Подтверждение OTC</text>
+<text x="2460" y="911" font-size="18" font-weight="400" fill="#586d65" text-anchor="end">инструкции или расхождения</text>
+</g>
+<g id="p09"><title>P09. Клиринг. Результат: обязательства и требования</title>
+<circle cx="2120" cy="990" r="14" fill="#fbfcf9" stroke="#2379a5" stroke-width="5"/>
+<rect x="1975.3" y="1018" width="289.4" height="96" rx="7" fill="#fbfcf9"/>
+<text x="2120" y="1041" font-size="20" font-weight="700" fill="#2379a5" text-anchor="middle">P09</text>
+<text x="2120" y="1073" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Клиринг</text>
+<text x="2120" y="1103" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">обязательства и требования</text>
+</g>
+<g id="p10"><title>P10. Расчёты. Результат: движения либо неисполнение</title>
+<circle cx="2500" cy="1090" r="24" fill="#fbfcf9" stroke="#203c34" stroke-width="4"/>
+<circle cx="2500" cy="1090" r="14" fill="#fbfcf9" stroke="#2379a5" stroke-width="5"/>
+<rect x="2162.8" y="1106" width="305.2" height="96" rx="7" fill="#fbfcf9"/>
+<text x="2460" y="1129" font-size="20" font-weight="700" fill="#2379a5" text-anchor="end">P10</text>
+<text x="2460" y="1161" font-size="23" font-weight="700" fill="#203c34" text-anchor="end">Расчёты</text>
+<text x="2460" y="1191" font-size="18" font-weight="400" fill="#586d65" text-anchor="end">движения либо неисполнение</text>
+</g>
+<g id="p11"><title>P11. Учёт прав. Результат: записи и выписки</title>
+<circle cx="2500" cy="1450" r="14" fill="#fbfcf9" stroke="#8061b0" stroke-width="5"/>
+<rect x="2407.2" y="1478" width="185.6" height="96" rx="7" fill="#fbfcf9"/>
+<text x="2500" y="1501" font-size="20" font-weight="700" fill="#8061b0" text-anchor="middle">P11</text>
+<text x="2500" y="1533" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Учёт прав</text>
+<text x="2500" y="1563" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">записи и выписки</text>
+</g>
+<g id="p12"><title>P12. Внутренний учёт. Результат: связанные записи операций</title>
+<circle cx="1630" cy="1090" r="14" fill="#fbfcf9" stroke="#278669" stroke-width="5"/>
+<rect x="1312.2" y="1106" width="285.8" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1590" y="1129" font-size="20" font-weight="700" fill="#278669" text-anchor="end">P12</text>
+<text x="1590" y="1161" font-size="23" font-weight="700" fill="#203c34" text-anchor="end">Внутренний учёт</text>
+<text x="1590" y="1191" font-size="18" font-weight="400" fill="#586d65" text-anchor="end">связанные записи операций</text>
+</g>
+<g id="p13"><title>P13. Сверка. Результат: совпадения и расхождения</title>
+<circle cx="1630" cy="1450" r="24" fill="#fbfcf9" stroke="#203c34" stroke-width="4"/>
+<circle cx="1630" cy="1450" r="14" fill="#fbfcf9" stroke="#278669" stroke-width="5"/>
+<rect x="1662.0" y="1466" width="279.3" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1670" y="1489" font-size="20" font-weight="700" fill="#278669" text-anchor="start">P13</text>
+<text x="1670" y="1521" font-size="23" font-weight="700" fill="#203c34" text-anchor="start">Сверка</text>
+<text x="1670" y="1551" font-size="18" font-weight="400" fill="#586d65" text-anchor="start">совпадения и расхождения</text>
+</g>
+<g id="p14"><title>P14. Состояние портфеля. Результат: стоимость и отклонения</title>
+<circle cx="650" cy="650" r="14" fill="#fbfcf9" stroke="#af7a14" stroke-width="5"/>
+<rect x="682.0" y="666" width="293.3" height="96" rx="7" fill="#fbfcf9"/>
+<text x="690" y="689" font-size="20" font-weight="700" fill="#af7a14" text-anchor="start">P14</text>
+<text x="690" y="721" font-size="23" font-weight="700" fill="#203c34" text-anchor="start">Состояние портфеля</text>
+<text x="690" y="751" font-size="18" font-weight="400" fill="#586d65" text-anchor="start">стоимость и отклонения</text>
+</g>
+<g id="p15"><title>P15. Фондирование, обеспечение. Результат: план и распоряжения</title>
+<circle cx="1630" cy="650" r="14" fill="#fbfcf9" stroke="#2379a5" stroke-width="5"/>
+<rect x="1428.3" y="515" width="403.4" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1630" y="538" font-size="20" font-weight="700" fill="#2379a5" text-anchor="middle">P15</text>
+<text x="1630" y="570" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Фондирование, обеспечение</text>
+<text x="1630" y="600" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">план и распоряжения</text>
+</g>
+<g id="p16"><title>P16. Исполнение договора. Результат: обязательства и статус</title>
+<circle cx="1140" cy="1090" r="24" fill="#fbfcf9" stroke="#203c34" stroke-width="4"/>
+<circle cx="1140" cy="1090" r="14" fill="#fbfcf9" stroke="#2379a5" stroke-width="5"/>
+<rect x="799.0" y="1106" width="309.0" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1100" y="1129" font-size="20" font-weight="700" fill="#2379a5" text-anchor="end">P16</text>
+<text x="1100" y="1161" font-size="23" font-weight="700" fill="#203c34" text-anchor="end">Исполнение договора</text>
+<text x="1100" y="1191" font-size="18" font-weight="400" fill="#586d65" text-anchor="end">обязательства и статус</text>
+</g>
+<g id="p17"><title>P17. Выплаты и события. Результат: причитающееся и результат</title>
+<circle cx="650" cy="1090" r="14" fill="#fbfcf9" stroke="#af7a14" stroke-width="5"/>
+<rect x="505.1" y="1118" width="289.7" height="96" rx="7" fill="#fbfcf9"/>
+<text x="650" y="1141" font-size="20" font-weight="700" fill="#af7a14" text-anchor="middle">P17</text>
+<text x="650" y="1173" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Выплаты и события</text>
+<text x="650" y="1203" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">причитающееся и результат</text>
+</g>
+<g id="p18"><title>P18. Волеизъявление. Результат: инструкция и статус участия</title>
+<circle cx="160" cy="1090" r="14" fill="#fbfcf9" stroke="#af7a14" stroke-width="5"/>
+<rect x="12.9" y="1118" width="294.1" height="96" rx="7" fill="#fbfcf9"/>
+<text x="160" y="1141" font-size="20" font-weight="700" fill="#af7a14" text-anchor="middle">P18</text>
+<text x="160" y="1173" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Волеизъявление</text>
+<text x="160" y="1203" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">инструкция и статус участия</text>
+</g>
+<g id="p19"><title>P19. Бухгалтерский учёт. Результат: проводки и финансовый результат</title>
+<circle cx="1140" cy="1450" r="14" fill="#fbfcf9" stroke="#278669" stroke-width="5"/>
+<rect x="964.2" y="1478" width="351.7" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1140" y="1501" font-size="20" font-weight="700" fill="#278669" text-anchor="middle">P19</text>
+<text x="1140" y="1533" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Бухгалтерский учёт</text>
+<text x="1140" y="1563" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">проводки и финансовый результат</text>
+</g>
+<g id="p20"><title>P20. Налоги. Результат: расчёт и исполнение обязанностей</title>
+<circle cx="650" cy="1450" r="14" fill="#fbfcf9" stroke="#278669" stroke-width="5"/>
+<rect x="473.0" y="1315" width="353.9" height="96" rx="7" fill="#fbfcf9"/>
+<text x="650" y="1338" font-size="20" font-weight="700" fill="#278669" text-anchor="middle">P20</text>
+<text x="650" y="1370" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Налоги</text>
+<text x="650" y="1400" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">расчёт и исполнение обязанностей</text>
+</g>
+<g id="p21"><title>P21. Отчёт клиенту. Результат: отчёт или выписка</title>
+<circle cx="1140" cy="1810" r="14" fill="#fbfcf9" stroke="#278669" stroke-width="5"/>
+<rect x="1035.0" y="1838" width="210.0" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1140" y="1861" font-size="20" font-weight="700" fill="#278669" text-anchor="middle">P21</text>
+<text x="1140" y="1893" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Отчёт клиенту</text>
+<text x="1140" y="1923" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">отчёт или выписка</text>
+</g>
+<g id="p22"><title>P22. Внешняя отчётность. Результат: сообщение и статус приёма</title>
+<circle cx="1630" cy="1810" r="24" fill="#fbfcf9" stroke="#203c34" stroke-width="4"/>
+<circle cx="1630" cy="1810" r="14" fill="#fbfcf9" stroke="#278669" stroke-width="5"/>
+<rect x="1485.0" y="1838" width="289.9" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1630" y="1861" font-size="20" font-weight="700" fill="#278669" text-anchor="middle">P22</text>
+<text x="1630" y="1893" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Внешняя отчётность</text>
+<text x="1630" y="1923" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">сообщение и статус приёма</text>
+</g>
+<g id="p23"><title>P23. Оценка результата. Результат: доходность и качество исполнения</title>
+<circle cx="1140" cy="650" r="14" fill="#fbfcf9" stroke="#af7a14" stroke-width="5"/>
+<rect x="962.6" y="678" width="354.9" height="96" rx="7" fill="#fbfcf9"/>
+<text x="1140" y="701" font-size="20" font-weight="700" fill="#af7a14" text-anchor="middle">P23</text>
+<text x="1140" y="733" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Оценка результата</text>
+<text x="1140" y="763" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">доходность и качество исполнения</text>
+</g>
+<g id="p24"><title>P24. Оценка имущества фонда. Результат: СЧА и стоимость пая</title>
+<circle cx="650" cy="1810" r="14" fill="#fbfcf9" stroke="#138c97" stroke-width="5"/>
+<rect x="466.1" y="1838" width="367.8" height="96" rx="7" fill="#fbfcf9"/>
+<text x="650" y="1861" font-size="20" font-weight="700" fill="#138c97" text-anchor="middle">P24</text>
+<text x="650" y="1893" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Оценка имущества фонда</text>
+<text x="650" y="1923" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">СЧА и стоимость пая</text>
+</g>
+<g id="p25"><title>P25. Операции с паями. Результат: паи, компенсация либо отказ</title>
+<circle cx="160" cy="1810" r="14" fill="#fbfcf9" stroke="#138c97" stroke-width="5"/>
+<rect x="11.3" y="1675" width="297.5" height="96" rx="7" fill="#fbfcf9"/>
+<text x="160" y="1698" font-size="20" font-weight="700" fill="#138c97" text-anchor="middle">P25</text>
+<text x="160" y="1730" font-size="23" font-weight="700" fill="#203c34" text-anchor="middle">Операции с паями</text>
+<text x="160" y="1760" font-size="18" font-weight="400" fill="#586d65" text-anchor="middle">паи, компенсация либо отказ</text>
+</g>
+<path d="M1630,350 V310 H1810" fill="none" stroke="#6f807b" stroke-width="4" stroke-dasharray="9 8"/>
+<text x="1830" y="317" font-size="17" font-weight="400" fill="#586d65" text-anchor="start">Удерживать / отказаться</text>
+<rect x="80" y="2050" width="2640" height="245" rx="24" fill="#edf2ec"/>
+<text x="120" y="2103" font-size="30" font-weight="700" fill="#203c34" text-anchor="start">Как читать карту</text>
+<circle cx="140" cy="2150" r="13" fill="#fbfcf9" stroke="#278669" stroke-width="5"/>
+<text x="180" y="2158" font-size="22" font-weight="400" fill="#203c34" text-anchor="start">Станция P · один процесс, подпись ниже — его результат</text>
+<circle cx="140" cy="2210" r="23" fill="#fbfcf9" stroke="#203c34" stroke-width="3"/>
+<circle cx="140" cy="2210" r="13" fill="#fbfcf9" stroke="#278669" stroke-width="4"/>
+<text x="180" y="2218" font-size="22" font-weight="400" fill="#203c34" text-anchor="start">Двойной круг · общий процесс нескольких линий</text>
+<path d="M1450,2150 h80" stroke="#2379a5" stroke-width="10"/>
+<path d="M1490.0,2157.0 L1500.0,2150.0 L1490.0,2143.0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1560" y="2158" font-size="22" font-weight="400" fill="#203c34" text-anchor="start">Сплошная линия · выбранная передача результата</text>
+<path d="M1450,2210 h80" stroke="#6f807b" stroke-width="5" stroke-dasharray="10 8"/>
+<path d="M1490.0,2217.0 L1500.0,2210.0 L1490.0,2203.0" fill="none" stroke="#6f807b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1560" y="2218" font-size="22" font-weight="400" fill="#203c34" text-anchor="start">Пунктир · условная ветка, обновление или обратная связь</text>
+<text x="120" y="2265" font-size="20" font-weight="400" fill="#586d65" text-anchor="start">Цвет задаёт вид работы. Пересечение без станции не означает переход.</text>
+<text x="80" y="2341" font-size="23" font-weight="400" fill="#586d65" text-anchor="start">Показаны выбранные связи, а не обязательная цепочка. Обеспечивающие функции S01–S14 — на отдельной схеме.</text>
+</g></svg>

@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1620" viewBox="0 0 1440 1620" role="img" aria-labelledby="title desc">
+<title id="title">Три связанных слоя инвестиционной деятельности</title>
+<desc id="desc">Инструмент задаёт права и условия. Эти условия определяют применимость процессов подготовки решения, заключения сделки, исполнения обязательств, сопровождения и параллельного учёта. Результаты возвращаются в пересмотр решения. Риск, контроль, сервис, данные и системы дают ограничения, сведения и поддержку нескольким группам процессов. Для каждой обеспечивающей функции указаны связанные группы.</desc>
+<defs>
+<marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L9 4.5 L0 9 Z" fill="#698274" /></marker>
+<marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0 0 L10 5 L0 10 Z" fill="#2d728a" /></marker>
+<style>text{font-family:"DejaVu Sans",Arial,sans-serif} .quiet{fill:#55695e}</style>
+</defs>
+<rect x="0" y="0" width="1440" height="1620" rx="0" fill="#fbfcf9" stroke="none" />
+<text x="48" y="57" font-size="31" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="48" dy="0">Инвестиционная деятельность: три связанных слоя</tspan></text>
+<text x="48" y="91" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="48" dy="0">Инструмент задаёт условия · Процессы создают результаты · Функции обеспечивают работу</tspan></text>
+<rect x="32" y="125" width="1376" height="357" rx="18" fill="#eef3e8" stroke="#dde5d7" />
+<text x="56" y="165" font-size="27" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="56" dy="0">1. С чем работают?</tspan></text>
+<text x="1390" y="164" font-size="18" font-weight="400" fill="#55695e" text-anchor="end"><tspan x="1390" dy="0">Права, активы и договоры</tspan></text>
+<rect x="56" y="186" width="308" height="98" rx="12" fill="#ffffff" stroke="#d9e2d3" />
+<text x="72" y="220" font-size="23" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="72" dy="0">Акции</tspan></text>
+<text x="72" y="254" font-size="17" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="72" dy="0">Доля в компании</tspan></text>
+<rect x="396" y="186" width="308" height="98" rx="12" fill="#ffffff" stroke="#d9e2d3" />
+<text x="412" y="220" font-size="23" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="412" dy="0">Облигации</tspan></text>
+<text x="412" y="254" font-size="17" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="412" dy="0">Долговое требование</tspan></text>
+<rect x="736" y="186" width="308" height="98" rx="12" fill="#ffffff" stroke="#d9e2d3" />
+<text x="752" y="220" font-size="23" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="752" dy="0">Фонды</tspan></text>
+<text x="752" y="245" font-size="17" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="752" dy="0">Пай инвестора</tspan><tspan x="752" dy="23">и активы фонда</tspan></text>
+<rect x="1076" y="186" width="308" height="98" rx="12" fill="#ffffff" stroke="#d9e2d3" />
+<text x="1092" y="220" font-size="23" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="1092" dy="0">Валюта</tspan></text>
+<text x="1092" y="254" font-size="17" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="1092" dy="0">Обмен валют</tspan></text>
+<rect x="226" y="301" width="308" height="98" rx="12" fill="#ffffff" stroke="#d9e2d3" />
+<text x="242" y="328" font-size="21" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="242" dy="0">Производные</tspan><tspan x="242" dy="24">инструменты</tspan></text>
+<text x="242" y="383" font-size="16" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="242" dy="0">Контракт на актив/показатель</tspan></text>
+<rect x="566" y="301" width="308" height="98" rx="12" fill="#ffffff" stroke="#d9e2d3" />
+<text x="582" y="335" font-size="23" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="582" dy="0">Денежный рынок</tspan></text>
+<text x="582" y="360" font-size="17" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="582" dy="0">Разместить или</tspan><tspan x="582" dy="23">привлечь деньги</tspan></text>
+<rect x="906" y="301" width="308" height="98" rx="12" fill="#ffffff" stroke="#d9e2d3" />
+<text x="922" y="335" font-size="23" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="922" dy="0">Металлы</tspan></text>
+<text x="922" y="360" font-size="17" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="922" dy="0">Прямое вложение,</tspan><tspan x="922" dy="23">пай или ПФИ</tspan></text>
+<text x="720" y="446" font-size="19" font-weight="500" fill="#344d3c" text-anchor="middle"><tspan x="720" dy="0">Для выбранного инструмента определяем права, потоки, валюту, сроки и способ сделки</tspan></text>
+<path d="M720 482 V540" fill="none" stroke="#698274" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)" />
+<text x="748" y="516" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="748" dy="0">Эти условия определяют применимые действия</tspan></text>
+<rect x="32" y="548" width="1376" height="546" rx="18" fill="#edf3f4" stroke="#d5e2e5" />
+<text x="56" y="589" font-size="27" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="56" dy="0">2. Какую работу выполняют и что получают?</tspan></text>
+<rect x="56" y="666" width="308" height="165" rx="12" fill="#ffffff" stroke="#ccdee2" />
+<text x="74" y="693" font-size="14" font-weight="600" fill="#2d728a" text-anchor="start"><tspan x="74" dy="0">РЕШЕНИЕ</tspan></text>
+<text x="74" y="730" font-size="22" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="74" dy="0">Подготовить</tspan><tspan x="74" dy="27">решение</tspan></text>
+<text x="74" y="791" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="74" dy="0">Результат: действие</tspan><tspan x="74" dy="24">с параметрами</tspan></text>
+<rect x="396" y="666" width="308" height="165" rx="12" fill="#ffffff" stroke="#ccdee2" />
+<text x="414" y="693" font-size="14" font-weight="600" fill="#2d728a" text-anchor="start"><tspan x="414" dy="0">СДЕЛКА</tspan></text>
+<text x="414" y="730" font-size="22" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="414" dy="0">Заключить</tspan><tspan x="414" dy="27">сделку</tspan></text>
+<text x="414" y="791" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="414" dy="0">Результат: сделки</tspan><tspan x="414" dy="24">и инструкции</tspan></text>
+<rect x="736" y="666" width="308" height="165" rx="12" fill="#ffffff" stroke="#ccdee2" />
+<text x="754" y="693" font-size="14" font-weight="600" fill="#2d728a" text-anchor="start"><tspan x="754" dy="0">РАСЧЁТЫ</tspan></text>
+<text x="754" y="730" font-size="20" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="754" dy="0">Рассчитать и исполнить</tspan><tspan x="754" dy="27">обязательства</tspan></text>
+<text x="754" y="791" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="754" dy="0">Результат: обязательства,</tspan><tspan x="754" dy="24">подтверждения расчётов</tspan></text>
+<rect x="1076" y="666" width="308" height="165" rx="12" fill="#ffffff" stroke="#ccdee2" />
+<text x="1094" y="693" font-size="14" font-weight="600" fill="#2d728a" text-anchor="start"><tspan x="1094" dy="0">ПОЗИЦИЯ</tspan></text>
+<text x="1094" y="730" font-size="22" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="1094" dy="0">Сопроводить</tspan><tspan x="1094" dy="27">позицию</tspan></text>
+<text x="1094" y="791" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="1094" dy="0">Результат: выплаты,</tspan><tspan x="1094" dy="24">изменения и оценка</tspan></text>
+<path d="M367 749 H390" fill="none" stroke="#2d728a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-blue)" />
+<path d="M707 749 H730" fill="none" stroke="#2d728a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-blue)" />
+<path d="M1047 749 H1070" fill="none" stroke="#2d728a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-blue)" />
+<path d="M1230 666 V636 H210 V660" fill="none" stroke="#2d728a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-blue)" marker-start="url(#arrow-blue)" />
+<rect x="430" y="615" width="580" height="28" rx="4" fill="#edf3f4" stroke="none" />
+<text x="720" y="636" font-size="17" font-weight="400" fill="#2d728a" text-anchor="middle">Пересмотр решения ↔ сохранение позиции</text>
+<path d="M550 834 V925" fill="none" stroke="#698274" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 6" marker-end="url(#arrow)" />
+<path d="M890 834 V925" fill="none" stroke="#698274" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 6" marker-end="url(#arrow)" />
+<path d="M1230 834 V925" fill="none" stroke="#698274" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 6" marker-end="url(#arrow)" />
+<rect x="348" y="867" width="860" height="29" rx="4" fill="#edf3f4" stroke="none" />
+<text x="777" y="888" font-size="18" font-weight="400" fill="#55695e" text-anchor="middle"><tspan x="777" dy="0">Учёт создаёт и обновляет записи после сделок, расчётов и событий</tspan></text>
+<rect x="56" y="932" width="1328" height="103" rx="12" fill="#ffffff" stroke="#ccdee2" />
+<text x="80" y="968" font-size="14" font-weight="600" fill="#2d728a" text-anchor="start"><tspan x="80" dy="0">УЧЁТ</tspan></text>
+<text x="80" y="1007" font-size="23" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="80" dy="0">Учесть, сверить и сообщить</tspan></text>
+<text x="780" y="962" font-size="19" font-weight="500" fill="#24372f" text-anchor="start"><tspan x="780" dy="0">Результат: сверенные позиции, записи и отчёты</tspan></text>
+<text x="780" y="990" font-size="16" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="780" dy="0">Депозитарный и внутренний учёт</tspan><tspan x="780" dy="23">Бухгалтерский и налоговый учёт</tspan></text>
+<text x="720" y="1071" font-size="18" font-weight="400" fill="#55695e" text-anchor="middle"><tspan x="720" dy="0">У фондов есть отдельные процессы оценки имущества и операций с паями: P24–P25</tspan></text>
+<path d="M700 1158 V1102" fill="none" stroke="#698274" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)" />
+<text x="748" y="1122" font-size="17" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="748" dy="0">Данные, ограничения и поддержка</tspan></text>
+<rect x="32" y="1165" width="1376" height="397" rx="18" fill="#f3efe6" stroke="#e3dccd" />
+<text x="56" y="1207" font-size="27" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="56" dy="0">3. Что обеспечивает выполнение работы?</tspan></text>
+<rect x="56" y="1230" width="428" height="136" rx="12" fill="#ffffff" stroke="#e2dac9" />
+<text x="72" y="1261" font-size="24" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="72" dy="0">Риск</tspan></text>
+<text x="72" y="1292" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="72" dy="0">Оценки риска и лимиты</tspan></text>
+<text x="72" y="1347" font-size="16" font-weight="500" fill="#705c35" text-anchor="start"><tspan x="72" dy="0">Решение · Сделка · Позиция</tspan></text>
+<rect x="506" y="1230" width="428" height="136" rx="12" fill="#ffffff" stroke="#e2dac9" />
+<text x="522" y="1261" font-size="24" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="522" dy="0">Контроль</tspan></text>
+<text x="522" y="1292" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="522" dy="0">Проверки, согласования,</tspan><tspan x="522" dy="23">реакция на нарушения</tspan></text>
+<text x="522" y="1347" font-size="16" font-weight="500" fill="#705c35" text-anchor="start"><tspan x="522" dy="0">Сделка · Расчёты · Учёт</tspan></text>
+<rect x="956" y="1230" width="428" height="136" rx="12" fill="#ffffff" stroke="#e2dac9" />
+<text x="972" y="1261" font-size="24" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="972" dy="0">Клиентский сервис</tspan></text>
+<text x="972" y="1292" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="972" dy="0">Доступ, информация и ответы</tspan></text>
+<text x="972" y="1347" font-size="16" font-weight="500" fill="#705c35" text-anchor="start"><tspan x="972" dy="0">Сделка · Позиция · Учёт</tspan></text>
+<rect x="281" y="1385" width="428" height="136" rx="12" fill="#ffffff" stroke="#e2dac9" />
+<text x="297" y="1416" font-size="24" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="297" dy="0">Данные</tspan></text>
+<text x="297" y="1447" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="297" dy="0">Доступные и проверенные сведения</tspan></text>
+<text x="297" y="1502" font-size="16" font-weight="500" fill="#705c35" text-anchor="start"><tspan x="297" dy="0">Все группы процессов</tspan></text>
+<rect x="731" y="1385" width="428" height="136" rx="12" fill="#ffffff" stroke="#e2dac9" />
+<text x="747" y="1416" font-size="24" font-weight="600" fill="#24372f" text-anchor="start"><tspan x="747" dy="0">Системы</tspan></text>
+<text x="747" y="1447" font-size="18" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="747" dy="0">Работающие каналы,</tspan><tspan x="747" dy="23">защита и восстановление</tspan></text>
+<text x="747" y="1502" font-size="16" font-weight="500" fill="#705c35" text-anchor="start"><tspan x="747" dy="0">Все группы процессов</tspan></text>
+<text x="720" y="1545" font-size="16" font-weight="400" fill="#705c35" text-anchor="middle"><tspan x="720" dy="0">Подпись внизу каждой карточки показывает связанные группы. Функции применяются по модели деятельности.</tspan></text>
+<text x="48" y="1594" font-size="16" font-weight="400" fill="#55695e" text-anchor="start"><tspan x="48" dy="0">Группы процессов не являются обязательными последовательными шагами. Применимость зависит от инструмента и сделки.</tspan></text>
+<path d="M720 1102 V1158" fill="none" stroke="#698274" stroke-width="2" marker-end="url(#arrow)" /><text x="748" y="1147" font-size="17" fill="#55695e">Сведения об операциях и состоянии</text></svg>

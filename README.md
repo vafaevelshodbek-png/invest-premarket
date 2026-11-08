@@ -4,6 +4,7 @@
 
 ## Команде
 
+- [Карта инвестиционных процессов и порядок изучения](docs/investment-map/README.md)
 - [График первого этапа до 11 ноября](https://github.com/users/vafaevelshodbek-png/projects/1/views/7)
 - [Можно брать сейчас](https://github.com/users/vafaevelshodbek-png/projects/1/views/1)
 - [Задачи по стримам](https://github.com/users/vafaevelshodbek-png/projects/1/views/6)
