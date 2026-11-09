@@ -336,5 +336,38 @@
     "deadline": "2026-11-11",
     "source": "Start date и Target date в Project",
     "note": "Задачи одного дня выполняются в порядке Blocked by, часовые оценки не заданы"
+  },
+  "research_results": {
+    "market_map": {
+      "issue": 29,
+      "overview": "docs/research/investment-processes/README.md",
+      "details": [
+        "docs/research/investment-processes/markets.md",
+        "docs/research/investment-processes/details.md"
+      ],
+      "accepted_pr": 40
+    },
+    "participants": {
+      "issue": 31,
+      "overview": "docs/research/investment-processes/participants-summary.md",
+      "details": [
+        "docs/research/investment-processes/participants.md",
+        "docs/research/investment-processes/participant-cases.md"
+      ],
+      "accepted_pr": 41
+    },
+    "api_mcp": {
+      "issue": 30,
+      "canonical_url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/30",
+      "status_at_2026_11_09": "in_review",
+      "scope": "Documentary review, not verified account access or live API execution"
+    }
+  },
+  "result_finalization": {
+    "rules": "AGENTS.md",
+    "catalog": "docs/research/README.md",
+    "wiki": "https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Research",
+    "issue_results_heading": "Опубликованный результат",
+    "dependent_issue_inputs_heading": "Готовые входные материалы"
   }
 }
