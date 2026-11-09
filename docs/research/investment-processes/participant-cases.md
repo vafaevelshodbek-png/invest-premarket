@@ -367,4 +367,6 @@
 | Основание и статус | [Электронный мэтчинг НРД](https://www.nsd.ru/services/depozitariy/operatsii-s-tsennymi-bumagami/vnebirzhevye-raschety/elektronnyy-metching/), описание и различающиеся поля. Действия сотрудника моделируются. **Рабочая ситуация: модель.** |
 | Дополнительная проверка | Обезличенные инструкции, сообщение и известная причина расхождения. Сначала проверяется, что именно уже делает существующий сервис. |
 
+[Сравнение форматов для всех 16 ситуаций по №33](product-formats-summary.md) подготовлено для проверки 9 ноября 2026 года. Место работы, инициатор, подтверждение и ограничения каждого варианта раскрыты в [карточках форматов](product-formats.md).
+
 Все карточки относятся к документальному сопоставлению в [№31](https://github.com/vafaevelshodbek-png/invest-premarket/issues/31). Разбор текущих инструментов, аналогов и затруднений относится к [№32](https://github.com/vafaevelshodbek-png/invest-premarket/issues/32), сравнение форматов использования к [№33](https://github.com/vafaevelshodbek-png/invest-premarket/issues/33).
