@@ -1,0 +1,221 @@
+{
+  "baseline_commit": "c1ba6b4053c178e3ea38b2237c970fae60ff981d",
+  "comparison": "Git blob identity after checkout filters, including Windows line endings",
+  "errors": [],
+  "protected_files_unchanged": [
+    ".agents/context.json",
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/task.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".gitignore",
+    "AGENTS.md",
+    "README.md",
+    "docs/research/investment-processes/archive/original-2026-11-08/README.md",
+    "docs/research/investment-processes/archive/original-2026-11-08/assets/metro-data.json",
+    "docs/research/investment-processes/archive/original-2026-11-08/assets/metro-map.png",
+    "docs/research/investment-processes/archive/original-2026-11-08/assets/metro-map.svg",
+    "docs/research/investment-processes/archive/original-2026-11-08/assets/metro-support.png",
+    "docs/research/investment-processes/archive/original-2026-11-08/assets/metro-support.svg",
+    "docs/research/investment-processes/archive/original-2026-11-08/assets/overview.png",
+    "docs/research/investment-processes/archive/original-2026-11-08/assets/overview.svg",
+    "docs/research/investment-processes/archive/original-2026-11-08/metro.md",
+    "docs/research/investment-processes/archive/original-2026-11-08/overview-guide.md",
+    "docs/research/investment-processes/archive/original-2026-11-08/process-study.md",
+    "docs/research/investment-processes/archive/original-2026-11-08/processes.md",
+    "docs/research/investment-processes/archive/original-2026-11-08/report.md",
+    "docs/research/investment-processes/archive/original-2026-11-08/sources.md",
+    "docs/research/investment-processes/assets/instruments.svg",
+    "docs/research/investment-processes/assets/market-routes.svg",
+    "docs/research/investment-processes/assets/processes.svg",
+    "docs/research/investment-processes/assets/support.svg",
+    "docs/research/investment-processes/assets/work.svg",
+    "docs/research/investment-processes/details.md",
+    "docs/research/investment-processes/maintenance/completeness-audit.md",
+    "docs/research/investment-processes/maintenance/original-sha256.json",
+    "docs/research/investment-processes/maintenance/process-coverage.md",
+    "docs/research/investment-processes/maintenance/revision-plan.md",
+    "docs/research/investment-processes/markets.md"
+  ],
+  "processes": [
+    "p01",
+    "p02",
+    "p03",
+    "p04",
+    "p05",
+    "p06",
+    "p07",
+    "p08",
+    "p09",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p15",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08",
+    "s09",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14"
+  ],
+  "cases": [
+    {
+      "anchor": "bonds",
+      "number": 1,
+      "title": "Инвестор сравнивает облигации",
+      "table_sha256": "c683138d90a7998c99a71a7da87c7b90ffe8ca8c0e32c9f68300395091ffbdf9",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "disclosure",
+      "number": 2,
+      "title": "Аналитик пересматривает оценку после раскрытия",
+      "table_sha256": "858e516adf5d068a7c8e2a8ecebe016937f1839fac7e8d008cec36aff99c083e",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "portfolio",
+      "number": 3,
+      "title": "Управляющий пересматривает портфель",
+      "table_sha256": "ce3baf70786699fcfeeadba40f6aeb014826891ad306fbfa400e465b29fe3dd4",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "execution",
+      "number": 4,
+      "title": "Трейдер брокера сопровождает частичное исполнение",
+      "table_sha256": "ea74a309a72d71b5abb781877c29034fe6aafd652125d9a52460b6a439466bdb",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "corporate-action",
+      "number": 5,
+      "title": "Специалист депозитария передаёт волеизъявление",
+      "table_sha256": "71fcfe07ef56f8322d52a6cdc0e2273af0058fcbe650a233d4b1150f68aa6a63",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "payment",
+      "number": 6,
+      "title": "Поддержка брокера выясняет статус купона",
+      "table_sha256": "137bbf84d0a3450b89e4f244f3645476de5a0f0db52165ea08ad9e6a96485f15",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "reconciliation",
+      "number": 7,
+      "title": "Специалист брокера разбирает расхождение учёта",
+      "table_sha256": "a62a3673692811cbb3a10d3e1e6ed4dc59d77f71d4b0cec95d25575402508094",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "collateral",
+      "number": 8,
+      "title": "Казначей покрывает потребность в обеспечении",
+      "table_sha256": "58014f26d2efd8759d3ce50031864d3f37d5e0a20d05ac249386b58dd0984345",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "fund-redemption",
+      "number": 9,
+      "title": "Сотрудник УК сопровождает погашение пая",
+      "table_sha256": "fab353b0c4bf9dd92544f0e0052d86ab527c19d66279475c16d90859bfd14a39",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "data-quality",
+      "number": 10,
+      "title": "Специалист качества разбирает спорную цену",
+      "table_sha256": "6d478dad0b383e52552d6990fa9aad0aeb9a94f2e80d0a5ac35310c2915d26f1",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "risk-breach",
+      "number": 11,
+      "title": "Риск-менеджер разбирает превышение ограничения",
+      "table_sha256": "b6f3f08c1eef4354a14d2fd36ed1df70e56701e22f9b78b709ecd9f86f67bcdd",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "access",
+      "number": 12,
+      "title": "Специалист брокера проверяет допуск к операции",
+      "table_sha256": "ce254afa66d49c9605fdf191f547946eb65b06400373c9174d8c877cfaeb7552",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "control",
+      "number": 13,
+      "title": "Контролёр разбирает несоответствие операции",
+      "table_sha256": "1fe8f18a8eefd44da655be5a565554e0adeef3948fd2a12870e16850ddf59a58",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "systems",
+      "number": 14,
+      "title": "Инженер восстанавливает поток операций",
+      "table_sha256": "becdb464a691f2038a4f289f6e1c9197c6e837ff55579998c0f1cdcf28634025",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "fund-valuation",
+      "number": 15,
+      "title": "Специалист УК рассчитывает стоимость имущества фонда",
+      "table_sha256": "8b0050d6f747cccb7271db5d19aded6b0c17d60f171d976a4bd0f7a2034ad40d",
+      "preserved": true,
+      "overview_occurrences": 1
+    },
+    {
+      "anchor": "matching",
+      "number": 16,
+      "title": "Расчётный специалист устраняет несовпадение инструкций",
+      "table_sha256": "23747ceb374c71fe887ce79d5b9c814fb4597c2b27523d89496924c65002c9c9",
+      "preserved": true,
+      "overview_occurrences": 1
+    }
+  ],
+  "local_links_checked": 199,
+  "first_pass": [
+    "bonds",
+    "disclosure",
+    "matching"
+  ],
+  "limitations": [
+    "Link checks cover edited Markdown and its local targets.",
+    "No claim of complete source verification or user comprehension testing.",
+    "No GitHub branch or issue state is changed by this script."
+  ]
+}
