@@ -460,4 +460,3 @@ Python и другие языки с SDK перечислены в докуме�
 - [Ограничения использования API](https://developer.tbank.ru/invest/intro/faq).
 - [Периоды запросов исторических свечей](https://developer.tbank.ru/invest/intro/intro/load_history).
 - [Денежные типы данных](https://developer.tbank.ru/invest/intro/intro/faq_custom_types).
-
