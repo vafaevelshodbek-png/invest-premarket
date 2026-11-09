@@ -1,0 +1,285 @@
+{
+  "baseline_commit": "468659dfbf25b7572d4ba33c2f8f8de66e9b863d",
+  "source_issue": 30,
+  "original_sha256": "9a62bd299384e855f3003331601b10ee9a6763dc79792d0431f5b7f2bec10f9a",
+  "matrix": [
+    {
+      "source_row": 1,
+      "methods": "UsersService: GetAccounts, GetUserTariff",
+      "anchor": "accounts",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 2,
+      "methods": "InstrumentsService: FindInstrument, GetInstrumentBy, Shares, Bonds, Etfs и другие типы",
+      "anchor": "instruments",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 3,
+      "methods": "TradingSchedules и торговые статусы",
+      "anchor": "schedule",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 4,
+      "methods": "MarketDataService: GetCandles",
+      "anchor": "candles",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 5,
+      "methods": "GetLastPrices, GetOrderBook, GetLastTrades, GetTechAnalysis",
+      "anchor": "quotes",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 6,
+      "methods": "Рыночные потоки и потоки состояния счета",
+      "anchor": "streams",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 7,
+      "methods": "OperationsService: GetPortfolio, GetPositions",
+      "anchor": "portfolio",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 8,
+      "methods": "GetOperationsByCursor",
+      "anchor": "operations",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 9,
+      "methods": "GetBrokerReport, GetDividendsForeignIssuer",
+      "anchor": "reports",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 10,
+      "methods": "GetDividends, GetBondCoupons, GetAccruedInterests, GetAssetReports",
+      "anchor": "payments",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 11,
+      "methods": "News",
+      "anchor": "news",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 12,
+      "methods": "GetAssetFundamentals",
+      "anchor": "fundamentals",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 13,
+      "methods": "GetConsensusForecasts",
+      "anchor": "forecasts",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 14,
+      "methods": "OrdersService: PostOrder, CancelOrder, ReplaceOrder, GetOrderState, GetOrders",
+      "anchor": "orders",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 15,
+      "methods": "GetOrderPrice, GetMaxLots",
+      "anchor": "order-estimate",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 16,
+      "methods": "StopOrdersService: PostStopOrder, GetStopOrders, CancelStopOrder",
+      "anchor": "stop-orders",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 17,
+      "methods": "SandboxService: OpenSandboxAccount, SandboxPayIn, GetSandboxPortfolio, PostSandboxOrder и другие",
+      "anchor": "sandbox",
+      "all_five_fields_preserved": true
+    },
+    {
+      "source_row": 18,
+      "methods": "T-Invest MCP",
+      "anchor": "mcp",
+      "all_five_fields_preserved": true
+    }
+  ],
+  "original_sources": [
+    {
+      "source": "S01",
+      "url": "https://developer.tbank.ru/invest/intro/intro",
+      "retained": true
+    },
+    {
+      "source": "S02",
+      "url": "https://developer.tbank.ru/invest/intro/developer/protocols/",
+      "retained": true
+    },
+    {
+      "source": "S03",
+      "url": "https://developer.tbank.ru/invest/intro/intro/token",
+      "retained": true
+    },
+    {
+      "source": "S04",
+      "url": "https://developer.tbank.ru/invest/intro/developer/network",
+      "retained": true
+    },
+    {
+      "source": "S05",
+      "url": "https://developer.tbank.ru/invest/intro/intro/limits",
+      "retained": true
+    },
+    {
+      "source": "S06",
+      "url": "https://developer.tbank.ru/invest/api/users-service-get-user-tariff",
+      "retained": true
+    },
+    {
+      "source": "S07",
+      "url": "https://developer.tbank.ru/invest/api/instruments-service",
+      "retained": true
+    },
+    {
+      "source": "S08",
+      "url": "https://developer.tbank.ru/invest/services/instruments/head-instruments",
+      "retained": true
+    },
+    {
+      "source": "S09",
+      "url": "https://developer.tbank.ru/invest/services/quotes/faq_marketdata/",
+      "retained": true
+    },
+    {
+      "source": "S10",
+      "url": "https://developer.tbank.ru/invest/api/market-data-service-get-candles",
+      "retained": true
+    },
+    {
+      "source": "S11",
+      "url": "https://developer.tbank.ru/invest/services/quotes/marketdata",
+      "retained": true
+    },
+    {
+      "source": "S12",
+      "url": "https://developer.tbank.ru/invest/services/operations/methods",
+      "retained": true
+    },
+    {
+      "source": "S13",
+      "url": "https://developer.tbank.ru/invest/api/operations-service-get-operations-by-cursor",
+      "retained": true
+    },
+    {
+      "source": "S14",
+      "url": "https://developer.tbank.ru/invest/services/operations/operations_problems",
+      "retained": true
+    },
+    {
+      "source": "S15",
+      "url": "https://developer.tbank.ru/invest/services/orders/methods",
+      "retained": true
+    },
+    {
+      "source": "S16",
+      "url": "https://developer.tbank.ru/invest/services/stop-orders/stoporders",
+      "retained": true
+    },
+    {
+      "source": "S17",
+      "url": "https://developer.tbank.ru/invest/intro/developer/sandbox",
+      "retained": true
+    },
+    {
+      "source": "S18",
+      "url": "https://developer.tbank.ru/invest/intro/developer/sandbox/url_difference",
+      "retained": true
+    },
+    {
+      "source": "S19",
+      "url": "https://developer.tbank.ru/invest/api/sandbox-service",
+      "retained": true
+    },
+    {
+      "source": "S20",
+      "url": "https://developer.tbank.ru/invest/release/latest",
+      "retained": true
+    },
+    {
+      "source": "S21",
+      "url": "https://developer.tbank.ru/invest/mcp",
+      "retained": true
+    },
+    {
+      "source": "S22",
+      "url": "https://habr.com/ru/companies/tbank/articles/1086714/",
+      "retained": true
+    },
+    {
+      "source": "S23",
+      "url": "https://developer.tbank.ru/invest/services/instruments/methods",
+      "retained": true
+    },
+    {
+      "source": "S24",
+      "url": "https://modelcontextprotocol.io/specification/2025-06-18/server/tools",
+      "retained": true
+    },
+    {
+      "source": "S25",
+      "url": "https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Hackathon#требования-первого-отбора",
+      "retained": true
+    },
+    {
+      "source": "S26",
+      "url": "https://cdn.tbank.ru/static/documents/promo-invest-premarket.pdf",
+      "retained": true
+    },
+    {
+      "source": "S27",
+      "url": "https://developer.tbank.ru/invest/intro/developer/speedup",
+      "retained": true
+    },
+    {
+      "source": "S28",
+      "url": "https://developer.tbank.ru/invest/services/operations/faq_operations",
+      "retained": true
+    },
+    {
+      "source": "S29",
+      "url": "https://developer.tbank.ru/invest/api/operations-service-get-broker-report",
+      "retained": true
+    },
+    {
+      "source": "S30",
+      "url": "https://developer.tbank.ru/invest/services/accounts/users",
+      "retained": true
+    },
+    {
+      "source": "S31",
+      "url": "https://developer.tbank.ru/invest/services/instruments/faq_instruments",
+      "retained": true
+    },
+    {
+      "source": "S32",
+      "url": "https://developer.tbank.ru/invest/intro/developer/protocols/ws",
+      "retained": true
+    }
+  ],
+  "original_pending_checks_retained": 6,
+  "candle_intervals": 16,
+  "local_links_checked": 29,
+  "errors": [],
+  "limitations": [
+    "Preservation and links do not establish source accuracy or account access.",
+    "External source verification methods and gaps are documented in audit.md."
+  ]
+}
