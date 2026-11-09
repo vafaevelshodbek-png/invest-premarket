@@ -362,8 +362,6 @@
       "details": [
         "docs/research/invest-api/reference.md"
       ],
-      "audit": "docs/research/invest-api/maintenance/audit.md",
-      "source_archive": "docs/research/invest-api/maintenance/archive/issue-30-2026-11-09.md",
       "status_at_2026_11_09": "in_review",
       "scope": "Documentary review, not verified account access or live API execution"
     }
