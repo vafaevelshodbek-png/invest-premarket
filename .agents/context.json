@@ -365,6 +365,16 @@
       "accepted_pr": 43,
       "status_at_2026_11_09": "accepted",
       "scope": "Documentary review, not verified account access or live API execution"
+    },
+    "current_methods": {
+      "issue": 32,
+      "overview": "docs/research/investment-processes/current-methods-summary.md",
+      "details": [
+        "docs/research/investment-processes/current-methods.md",
+        "docs/research/investment-processes/current-methods-sources.md"
+      ],
+      "status": "in_review",
+      "scope": "Documentary comparison of all 16 model situations from issue 31; supplier capabilities are separate from unverified user difficulties and demand"
     }
   },
   "result_finalization": {
