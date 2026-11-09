@@ -358,7 +358,10 @@
     },
     "api_mcp": {
       "issue": 30,
-      "canonical_url": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/30",
+      "overview": "docs/research/invest-api/README.md",
+      "details": [
+        "docs/research/invest-api/reference.md"
+      ],
       "status_at_2026_11_09": "in_review",
       "scope": "Documentary review, not verified account access or live API execution"
     }
