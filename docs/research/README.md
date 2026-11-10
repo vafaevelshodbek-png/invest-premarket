@@ -1,3 +1,5 @@
+[Проверка данных и роли AI для кандидатов, №19 и №22](investment-processes/candidate-checks-summary.md): материал от 10 ноября 2026 года на проверке. [Источники и доступ](investment-processes/candidate-data-check.md), [сравнение с обычными способами](investment-processes/candidate-ai-check.md).
+
 # Исследования
 
 | Исследование | Содержание | Задача |

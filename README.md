@@ -11,6 +11,7 @@
 - [Доска по статусам](https://github.com/users/vafaevelshodbek-png/projects/1/views/2)
 - [Wiki](https://github.com/vafaevelshodbek-png/invest-premarket/wiki)
 - [Условия и поля формы](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Hackathon#требования-первого-отбора)
+- [Данные и роль AI для кандидатов, №19 и №22](docs/research/investment-processes/candidate-checks-summary.md): результат на проверке.
 - [Продукт и заявка](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Product)
 - [Как работаем](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Team-work)
 - [Roadmap сроков](https://github.com/users/vafaevelshodbek-png/projects/1/views/3)
