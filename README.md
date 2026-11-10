@@ -12,6 +12,7 @@
 - [Wiki](https://github.com/vafaevelshodbek-png/invest-premarket/wiki)
 - [Условия и поля формы](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Hackathon#требования-первого-отбора)
 - [Продукт и заявка](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Product)
+- [Рекомендация по выбору идеи, №2](docs/product/README.md): ожидает подтверждения команды.
 - [Как работаем](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Team-work)
 - [Roadmap сроков](https://github.com/users/vafaevelshodbek-png/projects/1/views/3)
 

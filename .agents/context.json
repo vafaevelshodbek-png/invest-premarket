@@ -263,6 +263,17 @@
     ]
   },
   "answer_assembly": "https://github.com/vafaevelshodbek-png/invest-premarket/issues/38",
+  "product_results": {
+    "idea_decision": {
+      "issue": 2,
+      "overview": "docs/product/README.md",
+      "details": ["docs/product/idea-decision.md"],
+      "status_at_2026_11_10": "awaiting_team_confirmation",
+      "proposed_candidate": "A",
+      "selected_candidate": null,
+      "input_review_prs": [44, 45, 46, 47]
+    }
+  },
   "streams": [
     {
       "name": "Рынок и процессы",
