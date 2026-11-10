@@ -367,7 +367,10 @@
       "status_at_2026_11_09": "in_review",
       "candidate_count": 2,
       "scope": "Proposals for data and AI checks, not a team-selected idea or confirmed demand",
-      "input_review_prs": [44, 45]
+      "input_review_prs": [
+        44,
+        45
+      ]
     },
     "participants": {
       "issue": 31,
@@ -396,7 +399,10 @@
       ],
       "status_at_2026_11_10": "in_review",
       "scope": "Four classes of conventional alternatives for both candidates, not measured AI superiority",
-      "input_review_prs": [44, 46]
+      "input_review_prs": [
+        44,
+        46
+      ]
     },
     "api_mcp": {
       "issue": 30,
@@ -425,5 +431,33 @@
     "wiki": "https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Research",
     "issue_results_heading": "Опубликованный результат",
     "dependent_issue_inputs_heading": "Готовые входные материалы"
+  },
+  "product_results": {
+    "status_at_2026_11_10": "proposed_awaiting_team_confirmation",
+    "selected_candidate": "A: disclosure changes linked to analyst model assumptions",
+    "decision_issue": 2,
+    "overview": "docs/product/README.md",
+    "files": {
+      "product": "docs/product/product.md",
+      "system": "docs/product/system.md",
+      "evaluation": "docs/product/evaluation.md",
+      "application_draft": "docs/product/application.md"
+    },
+    "issues": {
+      "4": "docs/product/product.md#idea",
+      "20": "docs/product/product.md#grounds",
+      "21": "docs/product/product.md#passport",
+      "34": "docs/product/product.md#steps",
+      "37": "docs/product/product.md#business-risks",
+      "3": "docs/product/system.md#data",
+      "23": "docs/product/system.md#models",
+      "24": "docs/product/system.md#architecture",
+      "35": "docs/product/system.md#cost",
+      "36": "docs/product/evaluation.md#baseline",
+      "25": "docs/product/evaluation.md#experiment",
+      "26": "docs/product/evaluation.md#risks",
+      "38": "docs/product/application.md"
+    },
+    "not_done": "Team confirmation, cross-review (#28), platform limits (#17), submission (#5)"
   }
 }
