@@ -378,6 +378,26 @@
       ],
       "accepted_pr": 41
     },
+    "candidate_data": {
+      "issue": 19,
+      "overview": "docs/research/investment-processes/candidate-checks-summary.md",
+      "details": [
+        "docs/research/investment-processes/candidate-data-check.md"
+      ],
+      "status_at_2026_11_10": "in_review",
+      "scope": "Public source inspection and candidate access assessment, not verified private data or live API integration",
+      "candidate_review_pr": 46
+    },
+    "ai_comparison": {
+      "issue": 22,
+      "overview": "docs/research/investment-processes/candidate-checks-summary.md",
+      "details": [
+        "docs/research/investment-processes/candidate-ai-check.md"
+      ],
+      "status_at_2026_11_10": "in_review",
+      "scope": "Four classes of conventional alternatives for both candidates, not measured AI superiority",
+      "input_review_prs": [44, 46]
+    },
     "api_mcp": {
       "issue": 30,
       "overview": "docs/research/invest-api/README.md",
