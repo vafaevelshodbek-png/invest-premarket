@@ -11,3 +11,7 @@
 | [Данные и роль AI для кандидатов](investment-processes/candidate-checks-summary.md) | [Источники и доступ](investment-processes/candidate-data-check.md), [сравнение с обычными способами](investment-processes/candidate-ai-check.md) | [№19](https://github.com/vafaevelshodbek-png/invest-premarket/issues/19), [№22](https://github.com/vafaevelshodbek-png/invest-premarket/issues/22) | [PR №47](https://github.com/vafaevelshodbek-png/invest-premarket/pull/47) |
 
 Все материалы документальные. Рабочие ситуации являются моделями, пользовательские затруднения и спрос не подтверждены интервью. Доступ конкретного аккаунта к API и MCP не проверялся. Выбор между кандидатами A и B делается в [№2](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2).
+
+## На проверке
+
+[Новый поиск продукта](../product-discovery/README.md): общий roadmap и [итерация Л](../product-discovery/iterations/2026-11-12-l/README.md), три направления, концепция «Разбор заявки» и план проверки. A и B исключены из этой итерации. Это не принятый выбор и не подтверждение спроса. Получатель: [№2](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2).
