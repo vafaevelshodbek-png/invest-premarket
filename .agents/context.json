@@ -338,6 +338,17 @@
     "note": "Задачи одного дня выполняются в порядке Blocked by, часовые оценки не заданы"
   },
   "research_results": {
+    "product_formats": {
+      "issue": 33,
+      "overview": "docs/research/investment-processes/product-formats-summary.md",
+      "details": [
+        "docs/research/investment-processes/product-formats.md",
+        "docs/research/investment-processes/product-formats-sources.md"
+      ],
+      "status_at_2026_11_09": "in_review",
+      "scope": "Conditional product formats for 16 model situations, not a selected interface or verified demand",
+      "current_methods_review_pr": 44
+    },
     "market_map": {
       "issue": 29,
       "overview": "docs/research/investment-processes/README.md",
