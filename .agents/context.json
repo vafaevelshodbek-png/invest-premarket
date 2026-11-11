@@ -438,5 +438,19 @@
     "wiki": "https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Research",
     "issue_results_heading": "Опубликованный результат",
     "dependent_issue_inputs_heading": "Готовые входные материалы"
-  }
+  },
+  "current_discovery": {
+    "decision_issue":  2,
+    "roadmap":  "docs/product-discovery/roadmap.md",
+    "excluded_candidates":  [
+                                "A",
+                                "B"
+                            ],
+    "directory":  "docs/product-discovery",
+    "iteration":  "docs/product-discovery/iterations/2026-11-12-l/README.md",
+    "note":  "New discovery 2026-11-12. Historical results and task mapping preserved. Earlier checks do not validate new candidates.",
+    "team_selected":  false,
+    "status":  "proposal_under_review",
+    "overview":  "docs/product-discovery/README.md"
+}
 }
