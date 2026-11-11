@@ -46,6 +46,8 @@
 
 Выводы используются для [формирования кандидатов в №18](https://github.com/vafaevelshodbek-png/invest-premarket/issues/18). Далее проверяются [данные в №19](https://github.com/vafaevelshodbek-png/invest-premarket/issues/19) с использованием готового [№30](https://github.com/vafaevelshodbek-png/invest-premarket/issues/30) и [роль AI в №22](https://github.com/vafaevelshodbek-png/invest-premarket/issues/22). Затем [команда выбирает направление в №2](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2).
 
+[Два кандидата по №18 и причины ограничения списка](candidates-summary.md) подготовлены для проверки 9 ноября 2026 года. В [карточках](candidates.md) сохранены шесть пунктов описания идеи, основания, предполагаемая роль AI и открытые вопросы.
+
 После выбора прорабатываются продукт, сценарий, данные, архитектура, план проверки и риски. Эти материалы переходят в [черновик заявки](https://github.com/vafaevelshodbek-png/invest-premarket/issues/38), её [проверку](https://github.com/vafaevelshodbek-png/invest-premarket/issues/28) и [подачу](https://github.com/vafaevelshodbek-png/invest-premarket/issues/5).
 
 Дата редакции: 8 ноября 2026 года.

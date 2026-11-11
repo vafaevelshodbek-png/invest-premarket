@@ -358,6 +358,17 @@
       ],
       "accepted_pr": 40
     },
+    "candidates": {
+      "issue": 18,
+      "overview": "docs/research/investment-processes/candidates-summary.md",
+      "details": [
+        "docs/research/investment-processes/candidates.md"
+      ],
+      "status_at_2026_11_09": "in_review",
+      "candidate_count": 2,
+      "scope": "Proposals for data and AI checks, not a team-selected idea or confirmed demand",
+      "input_review_prs": [44, 45]
+    },
     "participants": {
       "issue": 31,
       "overview": "docs/research/investment-processes/participants-summary.md",
