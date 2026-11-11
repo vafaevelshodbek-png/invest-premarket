@@ -1,12 +1,12 @@
 # Инвест. Премаркет
 
-**Цель:** подготовить заявку SIGNAL IN до 11 ноября 2026 года.
+**Цель:** подготовить заявку SIGNAL IN до 18 ноября 2026 года, рабочий срок команды 15 ноября.
 
 ## Команде
 
 - [Исследования](docs/research/README.md)
 - [Кандидаты A и B, №18](docs/research/investment-processes/candidates-summary.md)
-- [График первого этапа до 11 ноября](https://github.com/users/vafaevelshodbek-png/projects/1/views/7)
+- [График первого этапа](https://github.com/users/vafaevelshodbek-png/projects/1/views/7)
 - [Можно брать сейчас](https://github.com/users/vafaevelshodbek-png/projects/1/views/1)
 - [Задачи по стримам](https://github.com/users/vafaevelshodbek-png/projects/1/views/6)
 - [Доска по статусам](https://github.com/users/vafaevelshodbek-png/projects/1/views/2)

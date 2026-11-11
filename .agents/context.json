@@ -3,7 +3,7 @@
   "repository": "https://github.com/vafaevelshodbek-png/invest-premarket",
   "project": "https://github.com/users/vafaevelshodbek-png/projects/1",
   "current_stage": "SIGNAL IN",
-  "stage_deadline": "2026-11-11",
+  "stage_deadline": "2026-11-18",
   "scope": "Подготовка и отправка заявки первого отбора",
   "authoritative_sources": {
     "requirements": "https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Hackathon#требования-первого-отбора",
@@ -333,9 +333,11 @@
   "dependencies": "GitHub Issue relationships: blockedBy, прочитать перед началом задачи",
   "scheduling": {
     "period_start": "2026-11-06",
-    "deadline": "2026-11-11",
+    "deadline": "2026-11-18",
     "source": "Start date и Target date в Project",
-    "note": "Задачи одного дня выполняются в порядке Blocked by, часовые оценки не заданы"
+    "note": "Задачи одного дня выполняются в порядке Blocked by, часовые оценки не заданы",
+    "team_target": "2026-11-15",
+    "deadline_source": "Перенос с 11 на 18 ноября сообщили организаторы, передано участником команды 11 ноября 2026 года. Сверить на платформе"
   },
   "research_results": {
     "product_formats": {
