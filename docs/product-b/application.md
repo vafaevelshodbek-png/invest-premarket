@@ -92,4 +92,6 @@
 
 ## Поле 11
 
-Оставить пустым.
+> https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-b/README.md
+
+Обзор варианта B. Ссылка работает после мерджа PR №50, перед вставкой открыть её без входа в GitHub.
