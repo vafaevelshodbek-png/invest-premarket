@@ -345,9 +345,10 @@
         "docs/research/investment-processes/product-formats.md",
         "docs/research/investment-processes/product-formats-sources.md"
       ],
-      "status_at_2026_11_09": "in_review",
       "scope": "Conditional product formats for 16 model situations, not a selected interface or verified demand",
-      "current_methods_review_pr": 44
+      "current_methods_review_pr": 44,
+      "status_at_2026_11_11": "accepted",
+      "accepted_pr": 45
     },
     "market_map": {
       "issue": 29,
@@ -364,13 +365,14 @@
       "details": [
         "docs/research/investment-processes/candidates.md"
       ],
-      "status_at_2026_11_09": "in_review",
       "candidate_count": 2,
       "scope": "Proposals for data and AI checks, not a team-selected idea or confirmed demand",
       "input_review_prs": [
         44,
         45
-      ]
+      ],
+      "status_at_2026_11_11": "accepted",
+      "accepted_pr": 46
     },
     "participants": {
       "issue": 31,
@@ -387,9 +389,10 @@
       "details": [
         "docs/research/investment-processes/candidate-data-check.md"
       ],
-      "status_at_2026_11_10": "in_review",
       "scope": "Public source inspection and candidate access assessment, not verified private data or live API integration",
-      "candidate_review_pr": 46
+      "candidate_review_pr": 46,
+      "status_at_2026_11_11": "accepted",
+      "accepted_pr": 47
     },
     "ai_comparison": {
       "issue": 22,
@@ -397,12 +400,13 @@
       "details": [
         "docs/research/investment-processes/candidate-ai-check.md"
       ],
-      "status_at_2026_11_10": "in_review",
       "scope": "Four classes of conventional alternatives for both candidates, not measured AI superiority",
       "input_review_prs": [
         44,
         46
-      ]
+      ],
+      "status_at_2026_11_11": "accepted",
+      "accepted_pr": 47
     },
     "api_mcp": {
       "issue": 30,
@@ -421,8 +425,9 @@
         "docs/research/investment-processes/current-methods.md",
         "docs/research/investment-processes/current-methods-sources.md"
       ],
-      "status": "in_review",
-      "scope": "Documentary comparison of all 16 model situations from issue 31; supplier capabilities are separate from unverified user difficulties and demand"
+      "scope": "Documentary comparison of all 16 model situations from issue 31; supplier capabilities are separate from unverified user difficulties and demand",
+      "status_at_2026_11_11": "accepted",
+      "accepted_pr": 44
     }
   },
   "result_finalization": {
