@@ -5,6 +5,7 @@
 ## Команде
 
 - [Исследования](docs/research/README.md)
+- [Продукт A и черновик заявки](docs/product/README.md): выбор предложен, ждёт подтверждения команды в №2.
 - [Кандидаты A и B, №18](docs/research/investment-processes/candidates-summary.md)
 - [График первого этапа](https://github.com/users/vafaevelshodbek-png/projects/1/views/7)
 - [Можно брать сейчас](https://github.com/users/vafaevelshodbek-png/projects/1/views/1)
