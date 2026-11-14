@@ -347,10 +347,28 @@
         "docs/research/investment-processes/product-formats.md",
         "docs/research/investment-processes/product-formats-sources.md"
       ],
-      "scope": "Conditional product formats for 16 model situations, not a selected interface or verified demand",
-      "current_methods_review_pr": 44,
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 45
+      "scope": "Comparison of 26 model situations: 11 client scenarios in detail and 15 professional scenarios briefly. Product formats are proposals, not a selected interface or verified demand.",
+      "accepted_pr": 56,
+      "scenario_count": 26,
+      "detailed_client_scenarios": [
+        1,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "previous_accepted_prs": [
+        45
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "current_methods_pr": 55
     },
     "market_map": {
       "issue": 29,
@@ -365,16 +383,33 @@
       "issue": 18,
       "overview": "docs/research/investment-processes/candidates-summary.md",
       "details": [
-        "docs/research/investment-processes/candidates.md"
+        "docs/research/investment-processes/candidates.md",
+        "docs/research/investment-processes/candidate-sources.md"
       ],
-      "candidate_count": 2,
-      "scope": "Proposals for data and AI checks, not a team-selected idea or confirmed demand",
-      "input_review_prs": [
-        44,
-        45
+      "candidate_count": 10,
+      "scope": "Ten client and private-trader proposals for new data and AI checks, not a selected product or verified demand",
+      "accepted_pr": 57,
+      "candidate_ids": [
+        "К3",
+        "К5",
+        "К7",
+        "К8",
+        "К9",
+        "К10",
+        "К11",
+        "К12",
+        "К13",
+        "К14"
       ],
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 46
+      "previous_accepted_prs": [
+        46
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "input_prs": [
+        55,
+        56
+      ]
     },
     "participants": {
       "issue": 31,
@@ -383,32 +418,63 @@
         "docs/research/investment-processes/participants.md",
         "docs/research/investment-processes/participant-cases.md"
       ],
-      "accepted_pr": 41
+      "accepted_pr": 55,
+      "scenario_count": 26,
+      "client_scenarios": {
+        "range": "17-26",
+        "count": 10,
+        "tracks": [
+          "AI-агент помощник для клиентов",
+          "Новый пользовательский опыт",
+          "AI-торговый робот"
+        ],
+        "url": "docs/research/investment-processes/participant-cases.md#client-scenarios",
+        "status": "accepted",
+        "date": "2026-11-14",
+        "accepted_pr": 55
+      },
+      "previous_accepted_prs": [
+        41
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted"
     },
     "candidate_data": {
       "issue": 19,
-      "overview": "docs/research/investment-processes/candidate-checks-summary.md",
+      "overview": "docs/research/investment-processes/candidate-data-summary.md",
       "details": [
-        "docs/research/investment-processes/candidate-data-check.md"
+        "docs/research/investment-processes/candidate-data-check.md",
+        "docs/research/investment-processes/candidate-data-sources.md"
       ],
-      "scope": "Public source inspection and candidate access assessment, not verified private data or live API integration",
-      "candidate_review_pr": 46,
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 47
+      "scope": "New access assessment for ten candidates, documentary inspection and public X5 sample, not live API access or verified private datasets",
+      "accepted_pr": 58,
+      "previous_accepted_prs": [
+        47
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "candidate_pr": 57
     },
     "ai_comparison": {
       "issue": 22,
-      "overview": "docs/research/investment-processes/candidate-checks-summary.md",
+      "overview": "docs/research/investment-processes/candidate-ai-summary.md",
       "details": [
-        "docs/research/investment-processes/candidate-ai-check.md"
+        "docs/research/investment-processes/candidate-ai-check.md",
+        "docs/research/investment-processes/candidate-ai-sources.md",
+        "docs/research/investment-processes/candidate-ai-costs.md"
       ],
-      "scope": "Four classes of conventional alternatives for both candidates, not measured AI superiority",
-      "input_review_prs": [
-        44,
-        46
+      "scope": "Ten client candidates, complete agent workflows versus four conventional alternatives, and indicative operating and implementation costs, not measured superiority",
+      "accepted_pr": 59,
+      "previous_accepted_prs": [
+        47
       ],
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 47
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "input_prs": [
+        55,
+        57,
+        58
+      ]
     },
     "api_mcp": {
       "issue": 30,
@@ -416,9 +482,13 @@
       "details": [
         "docs/research/invest-api/reference.md"
       ],
-      "accepted_pr": 43,
-      "status_at_2026_11_09": "accepted",
-      "scope": "Documentary review, not verified account access or live API execution"
+      "accepted_pr": 53,
+      "scope": "Documentary review, not verified account access or live API execution",
+      "previous_accepted_prs": [
+        43
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted"
     },
     "current_methods": {
       "issue": 32,
@@ -427,9 +497,22 @@
         "docs/research/investment-processes/current-methods.md",
         "docs/research/investment-processes/current-methods-sources.md"
       ],
-      "scope": "Documentary comparison of all 16 model situations from issue 31; supplier capabilities are separate from unverified user difficulties and demand",
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 44
+      "scope": "Documentary comparison of 26 model situations from issue 31, including 10 client scenarios in three hackathon tracks. Supplier capabilities are separate from unverified user difficulties and demand.",
+      "accepted_pr": 55,
+      "scenario_count": 26,
+      "previous_accepted_prs": [
+        44
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted"
+    },
+    "hackathon_fit": {
+      "issue": 2,
+      "overview": "docs/research/hackathon-fit/README.md",
+      "accepted_pr": 51,
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "scope": "Documentary context and author proposals, not additional proven SIGNAL IN exclusions or a team selection"
     }
   },
   "result_finalization": {
@@ -438,5 +521,21 @@
     "wiki": "https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Research",
     "issue_results_heading": "Опубликованный результат",
     "dependent_issue_inputs_heading": "Готовые входные материалы"
+  },
+  "product_discovery": {
+    "index": "docs/product-discovery/README.md",
+    "existing_roadmap": "docs/product-discovery/roadmap.md",
+    "iterations": {
+      "z": {
+        "date": "2026-11-14",
+        "overview": "docs/product-discovery/iterations/2026-11-14-z/README.md",
+        "accepted_pr": 54,
+        "status": "published_proposal_not_selected",
+        "application": "docs/product-discovery/iterations/2026-11-14-z/application.md"
+      }
+    },
+    "selection_issue": 2,
+    "selection_confirmed": false,
+    "excluded_draft_pr": 52
   }
 }
