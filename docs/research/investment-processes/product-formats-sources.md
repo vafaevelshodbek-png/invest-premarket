@@ -9,8 +9,8 @@
 ## Входные материалы
 
 - [Условия №33](https://github.com/vafaevelshodbek-png/invest-premarket/issues/33): сравнить место работы, форму результата, инициатора, подтверждение, следующий шаг и ограничения перехода.
-- [Ситуации №31](https://github.com/vafaevelshodbek-png/invest-premarket/blob/01478fa644da62262681401b22e731cd3e0d7e48/docs/research/investment-processes/participant-cases.md) и [разбор №32](https://github.com/vafaevelshodbek-png/invest-premarket/blob/01478fa644da62262681401b22e731cd3e0d7e48/docs/research/investment-processes/current-methods.md): 26 историй из согласованной пользователем редакции [PR №55](https://github.com/vafaevelshodbek-png/invest-premarket/pull/55). На момент подготовки PR открыт, в main остаётся прежняя версия.
-- [Возможности и ограничения №30](https://github.com/vafaevelshodbek-png/invest-premarket/blob/f3d93e1f25750dfde820dac2d02ab511188ad035/docs/research/invest-api/reference.md): границы данных, MCP и учебного контура.
+- [Ситуации №31](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/participant-cases.md) и [разбор №32](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/current-methods.md): 26 историй из согласованной пользователем редакции [PR №55](https://github.com/vafaevelshodbek-png/invest-premarket/pull/55). Материалы приняты в main.
+- [Возможности и ограничения №30](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/invest-api/reference.md): границы данных, MCP и учебного контура.
 - [Рынки и инструменты №29](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/markets.md): сохранены различия клиентского счёта, портфеля ДУ и операций фонда.
 
 ## Клиентские форматы
@@ -61,7 +61,7 @@
 
 <a name="f06"></a>
 
-**F06. [Платформа ПИФ НРД](https://www.nsd.ru/faq/156-fz/):** электронные и смешанные каналы передачи заявок.
+**F06. [Платформа ПИФ НРД](https://www.nsd.ru/faq/156-fz/):** электронная передача заявок в контуре НРД. С 1 марта 2026 года бумажный путь прекращён, при отсутствии электронного взаимодействия НРД отказывает в передаче. Внутренние ручные этапы УК этим источником не подтверждены.
 
 <a name="f07"></a>
 
@@ -85,7 +85,7 @@
 
 <a name="f18"></a>
 
-**F18. [Сравнение по №32](https://github.com/vafaevelshodbek-png/invest-premarket/blob/01478fa644da62262681401b22e731cd3e0d7e48/docs/research/investment-processes/current-methods.md):** для кратких историй сохранены входы, разделение ролей и действующие альтернативы. Новый поиск внутренних рабочих мест не проводился.
+**F18. [Сравнение по №32](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/current-methods.md):** для кратких историй сохранены входы, разделение ролей и действующие альтернативы. Новый поиск внутренних рабочих мест не проводился.
 
 <a name="f03"></a>
 

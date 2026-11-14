@@ -5,8 +5,8 @@
 ## Исходные материалы
 
 - [Условия №19](https://github.com/vafaevelshodbek-png/invest-premarket/issues/19) и отношения Blocked by: №18 и №30. Комментариев на момент чтения нет.
-- [Десять кандидатов №18](https://github.com/vafaevelshodbek-png/invest-premarket/blob/616316ad6bd9adba8eedc310c15931f06717c7d5/docs/research/investment-processes/candidates.md), опубликованы в PR №57. Идентификаторы: К3, К5, К7–К14.
-- [Согласованный разбор №30](https://github.com/vafaevelshodbek-png/invest-premarket/blob/f3d93e1f25750dfde820dac2d02ab511188ad035/docs/research/invest-api/reference.md), PR №53. Использован как вход, ключевые ограничения перепроверены по официальной документации.
+- [Десять кандидатов №18](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/candidates.md), опубликованы в PR №57. Идентификаторы: К3, К5, К7–К14.
+- [Согласованный разбор №30](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/invest-api/reference.md), PR №53. Использован как вход, ключевые ограничения перепроверены по официальной документации.
 
 Предыдущие материалы №19 о кандидатах A/B не читались и не использовались для выводов. Даты, объёмы и ограничения первой пробы в карточках являются предложенным сужением проверки, а не данными о проведённом эксперименте.
 

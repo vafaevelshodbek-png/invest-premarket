@@ -5,10 +5,10 @@
 ## Материалы проекта
 
 - [Требования №18](https://github.com/vafaevelshodbek-png/invest-premarket/issues/18): небольшой набор сравнимых предложений с шестью пунктами идеи, ролью AI и открытыми вопросами.
-- [Ситуации №31](https://github.com/vafaevelshodbek-png/invest-premarket/blob/01478fa644da62262681401b22e731cd3e0d7e48/docs/research/investment-processes/participant-cases.md) и [сравнение №32](https://github.com/vafaevelshodbek-png/invest-premarket/blob/01478fa644da62262681401b22e731cd3e0d7e48/docs/research/investment-processes/current-methods.md): задачи, текущие способы и гипотезы затруднений.
-- [Форматы №33](https://github.com/vafaevelshodbek-png/invest-premarket/blob/e0ba5c57a958661c96e64b4545ee13a7607a93fd/docs/research/investment-processes/product-formats.md): размещение результата, действия пользователя и ограничения подключения.
-- [Разбор данных №30](https://github.com/vafaevelshodbek-png/invest-premarket/blob/f3d93e1f25750dfde820dac2d02ab511188ad035/docs/research/invest-api/reference.md): рыночный контекст, собственный счёт, неполнота истории, ограничения учебного контура.
-- [Параллельный список идей PR №54](https://github.com/vafaevelshodbek-png/invest-premarket/blob/6c69edc589f4013121bda76d25ab7a9d00141b1f/docs/product-discovery/iterations/2026-11-14-z/ideas.md): фактчекер, корпоративные события, тренажёр и событийная торговля уже представлены в работе команды. Их оценки и утверждения о новизне здесь не принимаются за доказанные результаты.
+- [Ситуации №31](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/participant-cases.md) и [сравнение №32](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/current-methods.md): задачи, текущие способы и гипотезы затруднений.
+- [Форматы №33](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/product-formats.md): размещение результата, действия пользователя и ограничения подключения.
+- [Разбор данных №30](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/invest-api/reference.md): рыночный контекст, собственный счёт, неполнота истории, ограничения учебного контура.
+- [Параллельный список идей PR №54](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-14-z/ideas.md): фактчекер, корпоративные события, тренажёр и событийная торговля уже представлены в работе команды. Их оценки и утверждения о новизне здесь не принимаются за доказанные результаты.
 
 ## Внешние основания
 

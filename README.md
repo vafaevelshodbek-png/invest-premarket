@@ -1,26 +1,23 @@
 # Инвест. Премаркет
 
-**Цель:** подготовить заявку SIGNAL IN до 18 ноября 2026 года, рабочий срок команды 15 ноября.
+Первый отбор SIGNAL IN: заявка до 18 ноября 2026 года, рабочий срок команды 15 ноября. Выбор продукта ещё не подтверждён, заявка не отправлена.
 
-## Команде
+## С чего начать
 
-- [Исследования](docs/research/README.md)
-- [Итерация З: 18 идей под хакатон и черновик заявки](docs/product-discovery/iterations/2026-11-14-z/README.md): на проверке.
-- [Кандидаты A и B, №18](docs/research/investment-processes/candidates-summary.md)
-- [График первого этапа](https://github.com/users/vafaevelshodbek-png/projects/1/views/7)
-- [Можно брать сейчас](https://github.com/users/vafaevelshodbek-png/projects/1/views/1)
-- [Задачи по стримам](https://github.com/users/vafaevelshodbek-png/projects/1/views/6)
-- [Доска по статусам](https://github.com/users/vafaevelshodbek-png/projects/1/views/2)
-- [Wiki](https://github.com/vafaevelshodbek-png/invest-premarket/wiki)
-- [Условия и поля формы](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Hackathon#требования-первого-отбора)
-- [Данные и роль AI для кандидатов, №19 и №22](docs/research/investment-processes/candidate-checks-summary.md)
-- [Продукт и заявка](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Product)
-- [Как работаем](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Team-work)
-- [Roadmap сроков](https://github.com/users/vafaevelshodbek-png/projects/1/views/3)
+| Нужно | Где смотреть |
+|---|---|
+| Понять условия и поля формы | [Условия хакатона](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Hackathon#требования-первого-отбора) |
+| Использовать готовые исследования | [Каталог исследований](docs/research/README.md) |
+| Сравнить текущие варианты | [Десять кандидатов](docs/research/investment-processes/candidates-summary.md), [данные и роль AI](docs/research/investment-processes/candidate-checks-summary.md) |
+| Посмотреть продуктовые предложения | [Поиск продукта](docs/product-discovery/README.md), [итерация З и черновик заявки](docs/product-discovery/iterations/2026-11-14-z/README.md) |
+| Увидеть состояние ответов | [Продукт и заявка](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Product) |
+| Найти следующую работу | [Можно брать](https://github.com/users/vafaevelshodbek-png/projects/1/views/1), [по стримам](https://github.com/users/vafaevelshodbek-png/projects/1/views/6), [по статусам](https://github.com/users/vafaevelshodbek-png/projects/1/views/2) |
+| Посмотреть расписание | [График первого этапа](https://github.com/users/vafaevelshodbek-png/projects/1/views/7), [Roadmap сроков](https://github.com/users/vafaevelshodbek-png/projects/1/views/3) |
+| Разобраться в правилах команды | [Главная Wiki](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Home), [как работаем](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Team-work) |
 
-Команда включает два бизнес-финансовых и два ML-технических профиля. В карточках указаны рекомендуемые ведущие и проверяющие, персональные назначения пока не сделаны.
+Два бизнес-финансовых и два ML-технических профиля совместно готовят заявку. Документальные исследования, предложения продукта, подтверждённый выбор и результаты испытаний имеют отдельные статусы.
 
 ## ИИ-агентам
 
-- [AGENTS.md](AGENTS.md): правила чтения, декомпозиции и внесения изменений.
-- [.agents/context.json](.agents/context.json): указатель задач, стримов и связей с полями формы.
+- [Правила работы](AGENTS.md).
+- [Указатель задач, результатов и связей с полями формы](.agents/context.json).

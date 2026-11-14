@@ -5,9 +5,9 @@
 ## Материалы проекта
 
 - [Условия №22](https://github.com/vafaevelshodbek-png/invest-premarket/issues/22): четыре класса альтернатив, вклад AI и проверяемое преимущество. Зависимости: №18 и №32.
-- [Десять кандидатов №18](https://github.com/vafaevelshodbek-png/invest-premarket/blob/616316ad6bd9adba8eedc310c15931f06717c7d5/docs/research/investment-processes/candidates.md), PR №57.
-- [Клиентские сценарии и текущие способы №32](https://github.com/vafaevelshodbek-png/invest-premarket/blob/01478fa644da62262681401b22e731cd3e0d7e48/docs/research/investment-processes/current-methods.md), PR №55.
-- [Доступность данных №19](https://github.com/vafaevelshodbek-png/invest-premarket/blob/bc93864d270c9bb92a3b37474d8cbbdabc95b26e/docs/research/investment-processes/candidate-data-summary.md), PR №58.
+- [Десять кандидатов №18](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/candidates.md), PR №57.
+- [Клиентские сценарии и текущие способы №32](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/current-methods.md), PR №55.
+- [Доступность данных №19](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/candidate-data-summary.md), PR №58.
 
 Предыдущая оценка A/B не использовалась. Применимость способов, диапазоны труда и нагрузки являются нашими оценками, источники не доказывают преимущество наших продуктов.
 

@@ -348,9 +348,7 @@
         "docs/research/investment-processes/product-formats-sources.md"
       ],
       "scope": "Comparison of 26 model situations: 11 client scenarios in detail and 15 professional scenarios briefly. Product formats are proposals, not a selected interface or verified demand.",
-      "current_methods_review_pr": 44,
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 45,
+      "accepted_pr": 56,
       "scenario_count": 26,
       "detailed_client_scenarios": [
         1,
@@ -365,14 +363,12 @@
         25,
         26
       ],
-      "revision": {
-        "date": "2026-11-14",
-        "branch": "codex/issue-33-client-formats",
-        "review_pr": 56,
-        "status": "published_for_review",
-        "input_pr": 55,
-        "input_commit": "01478fa644da62262681401b22e731cd3e0d7e48"
-      }
+      "previous_accepted_prs": [
+        45
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "current_methods_pr": 55
     },
     "market_map": {
       "issue": 29,
@@ -392,12 +388,7 @@
       ],
       "candidate_count": 10,
       "scope": "Ten client and private-trader proposals for new data and AI checks, not a selected product or verified demand",
-      "input_review_prs": [
-        55,
-        56
-      ],
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 46,
+      "accepted_pr": 57,
       "candidate_ids": [
         "К3",
         "К5",
@@ -410,12 +401,15 @@
         "К13",
         "К14"
       ],
-      "revision_at_2026_11_14": {
-        "status": "pull_request_open",
-        "review_pr": 57,
-        "replaces": "A/B from PR 46 after merge",
-        "data_checks": "Old A/B checks in issues 19 and 22 do not apply to this set"
-      }
+      "previous_accepted_prs": [
+        46
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "input_prs": [
+        55,
+        56
+      ]
     },
     "participants": {
       "issue": 31,
@@ -424,7 +418,7 @@
         "docs/research/investment-processes/participants.md",
         "docs/research/investment-processes/participant-cases.md"
       ],
-      "accepted_pr": 41,
+      "accepted_pr": 55,
       "scenario_count": 26,
       "client_scenarios": {
         "range": "17-26",
@@ -435,10 +429,15 @@
           "AI-торговый робот"
         ],
         "url": "docs/research/investment-processes/participant-cases.md#client-scenarios",
-        "status": "published_for_review",
+        "status": "accepted",
         "date": "2026-11-14",
-        "review_pr": 55
-      }
+        "accepted_pr": 55
+      },
+      "previous_accepted_prs": [
+        41
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted"
     },
     "candidate_data": {
       "issue": 19,
@@ -448,16 +447,13 @@
         "docs/research/investment-processes/candidate-data-sources.md"
       ],
       "scope": "New access assessment for ten candidates, documentary inspection and public X5 sample, not live API access or verified private datasets",
-      "candidate_review_pr": 57,
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 47,
-      "revision_at_2026_11_14": {
-        "status": "pull_request_open",
-        "review_pr": 58,
-        "candidate_count": 10,
-        "replaces": "A/B data assessment from PR 47 after merge",
-        "legacy_joint_summary": "Old shared summary also covers issue 22 and is not the new data assessment"
-      }
+      "accepted_pr": 58,
+      "previous_accepted_prs": [
+        47
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "candidate_pr": 57
     },
     "ai_comparison": {
       "issue": 22,
@@ -468,20 +464,17 @@
         "docs/research/investment-processes/candidate-ai-costs.md"
       ],
       "scope": "Ten client candidates, complete agent workflows versus four conventional alternatives, and indicative operating and implementation costs, not measured superiority",
-      "input_review_prs": [
+      "accepted_pr": 59,
+      "previous_accepted_prs": [
+        47
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "input_prs": [
         55,
         57,
         58
-      ],
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 47,
-      "revision_at_2026_11_14": {
-        "status": "pull_request_open",
-        "review_pr": 59,
-        "candidate_count": 10,
-        "cost_assumptions": "Published model rates, estimated tokens and person-hours, no measured prototype costs",
-        "replaces": "A/B AI assessment from PR 47 after merge"
-      }
+      ]
     },
     "api_mcp": {
       "issue": 30,
@@ -489,9 +482,13 @@
       "details": [
         "docs/research/invest-api/reference.md"
       ],
-      "accepted_pr": 43,
-      "status_at_2026_11_09": "accepted",
-      "scope": "Documentary review, not verified account access or live API execution"
+      "accepted_pr": 53,
+      "scope": "Documentary review, not verified account access or live API execution",
+      "previous_accepted_prs": [
+        43
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted"
     },
     "current_methods": {
       "issue": 32,
@@ -501,15 +498,21 @@
         "docs/research/investment-processes/current-methods-sources.md"
       ],
       "scope": "Documentary comparison of 26 model situations from issue 31, including 10 client scenarios in three hackathon tracks. Supplier capabilities are separate from unverified user difficulties and demand.",
-      "status_at_2026_11_11": "accepted",
-      "accepted_pr": 44,
+      "accepted_pr": 55,
       "scenario_count": 26,
-      "revision": {
-        "date": "2026-11-14",
-        "branch": "codex/issue-31-32-client-scenarios",
-        "status": "published_for_review",
-        "review_pr": 55
-      }
+      "previous_accepted_prs": [
+        44
+      ],
+      "accepted_date": "2026-11-14",
+      "status": "accepted"
+    },
+    "hackathon_fit": {
+      "issue": 2,
+      "overview": "docs/research/hackathon-fit/README.md",
+      "accepted_pr": 51,
+      "accepted_date": "2026-11-14",
+      "status": "accepted",
+      "scope": "Documentary context and author proposals, not additional proven SIGNAL IN exclusions or a team selection"
     }
   },
   "result_finalization": {
@@ -518,5 +521,21 @@
     "wiki": "https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Research",
     "issue_results_heading": "Опубликованный результат",
     "dependent_issue_inputs_heading": "Готовые входные материалы"
+  },
+  "product_discovery": {
+    "index": "docs/product-discovery/README.md",
+    "existing_roadmap": "docs/product-discovery/roadmap.md",
+    "iterations": {
+      "z": {
+        "date": "2026-11-14",
+        "overview": "docs/product-discovery/iterations/2026-11-14-z/README.md",
+        "accepted_pr": 54,
+        "status": "published_proposal_not_selected",
+        "application": "docs/product-discovery/iterations/2026-11-14-z/application.md"
+      }
+    },
+    "selection_issue": 2,
+    "selection_confirmed": false,
+    "excluded_draft_pr": 52
   }
 }
