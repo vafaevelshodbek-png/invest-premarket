@@ -365,16 +365,35 @@
       "issue": 18,
       "overview": "docs/research/investment-processes/candidates-summary.md",
       "details": [
-        "docs/research/investment-processes/candidates.md"
+        "docs/research/investment-processes/candidates.md",
+        "docs/research/investment-processes/candidate-sources.md"
       ],
-      "candidate_count": 2,
-      "scope": "Proposals for data and AI checks, not a team-selected idea or confirmed demand",
+      "candidate_count": 10,
+      "scope": "Ten client and private-trader proposals for new data and AI checks, not a selected product or verified demand",
       "input_review_prs": [
-        44,
-        45
+        55,
+        56
       ],
       "status_at_2026_11_11": "accepted",
-      "accepted_pr": 46
+      "accepted_pr": 46,
+      "candidate_ids": [
+        "К3",
+        "К5",
+        "К7",
+        "К8",
+        "К9",
+        "К10",
+        "К11",
+        "К12",
+        "К13",
+        "К14"
+      ],
+      "revision_at_2026_11_14": {
+        "status": "pull_request_open",
+        "review_pr": 57,
+        "replaces": "A/B from PR 46 after merge",
+        "data_checks": "Old A/B checks in issues 19 and 22 do not apply to this set"
+      }
     },
     "participants": {
       "issue": 31,
