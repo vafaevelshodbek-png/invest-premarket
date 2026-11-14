@@ -461,17 +461,27 @@
     },
     "ai_comparison": {
       "issue": 22,
-      "overview": "docs/research/investment-processes/candidate-checks-summary.md",
+      "overview": "docs/research/investment-processes/candidate-ai-summary.md",
       "details": [
-        "docs/research/investment-processes/candidate-ai-check.md"
+        "docs/research/investment-processes/candidate-ai-check.md",
+        "docs/research/investment-processes/candidate-ai-sources.md",
+        "docs/research/investment-processes/candidate-ai-costs.md"
       ],
-      "scope": "Four classes of conventional alternatives for both candidates, not measured AI superiority",
+      "scope": "Ten client candidates, complete agent workflows versus four conventional alternatives, and indicative operating and implementation costs, not measured superiority",
       "input_review_prs": [
-        44,
-        46
+        55,
+        57,
+        58
       ],
       "status_at_2026_11_11": "accepted",
-      "accepted_pr": 47
+      "accepted_pr": 47,
+      "revision_at_2026_11_14": {
+        "status": "pull_request_open",
+        "review_pr": 59,
+        "candidate_count": 10,
+        "cost_assumptions": "Published model rates, estimated tokens and person-hours, no measured prototype costs",
+        "replaces": "A/B AI assessment from PR 47 after merge"
+      }
     },
     "api_mcp": {
       "issue": 30,
