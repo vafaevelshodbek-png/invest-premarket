@@ -394,8 +394,9 @@
           "AI-торговый робот"
         ],
         "url": "docs/research/investment-processes/participant-cases.md#client-scenarios",
-        "status": "prepared_for_pull_request",
-        "date": "2026-11-14"
+        "status": "published_for_review",
+        "date": "2026-11-14",
+        "review_pr": 55
       }
     },
     "candidate_data": {
@@ -447,7 +448,8 @@
       "revision": {
         "date": "2026-11-14",
         "branch": "codex/issue-31-32-client-scenarios",
-        "status": "prepared_for_pull_request"
+        "status": "published_for_review",
+        "review_pr": 55
       }
     }
   },
