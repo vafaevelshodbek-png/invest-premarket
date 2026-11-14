@@ -1,0 +1,38 @@
+--- a/Research.md
++++ b/Research.md
+@@ -5,7 +5,7 @@
+ | Исследование | Содержание | Задача | Текущая версия |
+ |---|---|---|---|
+ | [Карта инвестиционной деятельности](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/README.md) | [Рынки и инструменты](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/markets.md), [процессы и передачи результатов](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/details.md) | [№29](https://github.com/vafaevelshodbek-png/invest-premarket/issues/29) | [PR №40](https://github.com/vafaevelshodbek-png/invest-premarket/pull/40) |
+-| [Участники и их работа](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/participants-summary.md) | [Роли по процессам](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/participants.md), [26 ситуаций, включая 10 клиентских](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/participant-cases.md) | [№31](https://github.com/vafaevelshodbek-png/invest-premarket/issues/31) | [PR №55](https://github.com/vafaevelshodbek-png/invest-premarket/pull/55), исходная карта в [№41](https://github.com/vafaevelshodbek-png/invest-premarket/pull/41) |
++| [Участники и их работа](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/participants-summary.md) | [Роли по процессам](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/participants.md), [26 ситуаций, включая 11 клиентских](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/participant-cases.md) | [№31](https://github.com/vafaevelshodbek-png/invest-premarket/issues/31) | [PR №55](https://github.com/vafaevelshodbek-png/invest-premarket/pull/55), исходная карта в [№41](https://github.com/vafaevelshodbek-png/invest-premarket/pull/41) |
+ | [Возможности API, MCP и ограничения среды](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/invest-api/README.md) | [Возможности, права, лимиты и условия подключения](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/invest-api/reference.md) | [№30](https://github.com/vafaevelshodbek-png/invest-premarket/issues/30) | [PR №53](https://github.com/vafaevelshodbek-png/invest-premarket/pull/53) |
+ | [Текущие способы, аналоги и затруднения](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/current-methods-summary.md) | [Сравнение 26 ситуаций](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/current-methods.md), [источники и ограничения](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/current-methods-sources.md) | [№32](https://github.com/vafaevelshodbek-png/invest-premarket/issues/32) | [PR №55](https://github.com/vafaevelshodbek-png/invest-premarket/pull/55) |
+ | [Форматы продукта для рабочих ситуаций](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/product-formats-summary.md) | [26 ситуаций, 11 клиентских подробно](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/product-formats.md), [основания](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/product-formats-sources.md) | [№33](https://github.com/vafaevelshodbek-png/invest-premarket/issues/33) | [PR №56](https://github.com/vafaevelshodbek-png/invest-premarket/pull/56) |
+@@ -16,6 +16,12 @@
+ 
+ Материалы документальные. Рабочие ситуации и ожидаемая польза являются моделями и гипотезами. Интервью, сравнительные испытания, доступ конкретного аккаунта к API и MCP не подтверждены. Принятие документов не означает выбор продукта, который фиксируется командой в [№2](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2).
+ 
++## На проверке
++
++[Полный путь частного инвестора](https://github.com/vafaevelshodbek-png/invest-premarket/blob/docs/retail-investors-cjm-20261115/docs/research/investment-processes/retail-investors-summary.md), [PR интеграции](PR_URL_PENDING): 50 сценариев исходного HTML, 12 встроены в 10 действующих карточек, 38 добавлены отдельно. [Сегменты и поведение](https://github.com/vafaevelshodbek-png/invest-premarket/blob/docs/retail-investors-cjm-20261115/docs/research/investment-processes/retail-investors-analysis.md), [карта сценариев](https://github.com/vafaevelshodbek-png/invest-premarket/blob/docs/retail-investors-cjm-20261115/docs/research/investment-processes/retail-investors-cjm.md), [51 источник и ограничения](https://github.com/vafaevelshodbek-png/invest-premarket/blob/docs/retail-investors-cjm-20261115/docs/research/investment-processes/retail-investors-sources.md). Связанные задачи: [№31](https://github.com/vafaevelshodbek-png/invest-premarket/issues/31), [№32](https://github.com/vafaevelshodbek-png/invest-premarket/issues/32), [№33](https://github.com/vafaevelshodbek-png/invest-premarket/issues/33), [№18](https://github.com/vafaevelshodbek-png/invest-premarket/issues/18).
++
++Материал находится на проверке. Новые интервью, спрос, преимущество AI и доступ к API не подтверждены. Десять кандидатов и выбор в №2 сохраняются. [Соответствия и сохранность исходника](https://github.com/vafaevelshodbek-png/invest-premarket/blob/docs/retail-investors-cjm-20261115/docs/research/investment-processes/maintenance/retail-investors-coverage.md).
++
+ ## Продуктовые предложения
+ 
+ [Общий раздел поиска продукта](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/README.md) связывает исследования с предложениями. В нём находятся существующий [roadmap](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/roadmap.md) и [итерация З](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-14-z/README.md), опубликованная в [PR №54](https://github.com/vafaevelshodbek-png/invest-premarket/pull/54): 18 идей и черновик одной концепции с планом проверки и ответами формы. Это материалы для обсуждения, выбор команды и готовая к отправке заявка пока отсутствуют.
+
+--- a/Sources.md
++++ b/Sources.md
+@@ -25,6 +25,10 @@
+ - [Aladdin Copilot](https://www.blackrock.com/aladdin/platforms/products/aladdin-copilot)
+ - [Morgan Stanley Debrief](https://www.morganstanley.com/press-releases/ai-at-morgan-stanley-debrief-launch/)
+ 
++## Источники материала на проверке
++
++[Частные инвесторы: метод и реестр 51 источника](https://github.com/vafaevelshodbek-png/invest-premarket/blob/docs/retail-investors-cjm-20261115/docs/research/investment-processes/retail-investors-sources.md), [PR интеграции](PR_URL_PENDING). Срез публикаций на 14 ноября 2026 года. Даты чтения и ограничения доступа перенесены из исходного исследования, они не означают повторную проверку всех внешних публикаций при интеграции.
++
+ ## Источники принятых исследований
+ 
+ - [Аналоги и текущие способы](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/current-methods-sources.md).

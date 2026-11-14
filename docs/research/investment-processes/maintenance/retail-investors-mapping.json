@@ -1,0 +1,697 @@
+{
+  "source_file": "Russia_Retail_Investors_CJM.html",
+  "source_sha256": "ea5ec458e721b48d80d4fdaa679e8ffb4034f97644f35b9aa3daf24048e1cc4e",
+  "source_cutoff": "2026-11-14",
+  "integration_date": "2026-11-15",
+  "base_commit": "4d05d1152876a5bc698f5dc4a9263636722aaba5",
+  "scenarios": [
+    {
+      "id": "S01",
+      "name": "Связать инвестиции с жизненной целью",
+      "owner": "retail-investors-cases.md#ri-s01",
+      "decision": "Добавлен",
+      "relation": "Ситуация 19, К13",
+      "reason": "Постановка жизненной цели предшествует конкретному плану денег к дате."
+    },
+    {
+      "id": "S02",
+      "name": "Сравнить инвестицию с резервом и погашением долга",
+      "owner": "retail-investors-cases.md#ri-s02",
+      "decision": "Добавлен",
+      "relation": "Ситуация 19",
+      "reason": "Резерв и долг учитывают средства и обязательства за пределами брокера."
+    },
+    {
+      "id": "S03",
+      "name": "Определить личные ограничения риска",
+      "owner": "retail-investors-cases.md#ri-s03",
+      "decision": "Добавлен",
+      "relation": "Ситуация 21",
+      "reason": "Личные ограничения задаются до выбора конкретной сделки."
+    },
+    {
+      "id": "S04",
+      "name": "Выбрать брокера для конкретных задач",
+      "owner": "retail-investors-cases.md#ri-s04",
+      "decision": "Добавлен",
+      "relation": "Ситуация 12",
+      "reason": "Клиент выбирает посредника, сотрудник брокера проверяет допуск."
+    },
+    {
+      "id": "S05",
+      "name": "Открыть брокерский счёт",
+      "owner": "retail-investors-cases.md#ri-s05",
+      "decision": "Добавлен",
+      "relation": "Ситуация 12",
+      "reason": "Открытие отношений отличается от проверки доступа к одной операции."
+    },
+    {
+      "id": "S06",
+      "name": "Выбрать тип счёта и проверить последствия",
+      "owner": "retail-investors-cases.md#ri-s06",
+      "decision": "Добавлен",
+      "relation": "К11",
+      "reason": "Выбор типа счёта предшествует подготовке налогового комплекта за период."
+    },
+    {
+      "id": "S07",
+      "name": "Настроить основной и запасной интерфейс доступа",
+      "owner": "retail-investors-cases.md#ri-s07",
+      "decision": "Добавлен",
+      "relation": "Ситуация 14",
+      "reason": "Клиент настраивает интерфейс, инженер восстанавливает внутреннюю систему."
+    },
+    {
+      "id": "S08",
+      "name": "Разобраться в сложном инструменте перед тестированием",
+      "owner": "retail-investors-cases.md#ri-s08",
+      "decision": "Добавлен",
+      "relation": "Ситуация 12, К7",
+      "reason": "Понимание продукта и тест допуска не тождественны тренировке решения."
+    },
+    {
+      "id": "S09",
+      "name": "Внести первую сумму и проверить её зачисление",
+      "owner": "retail-investors-cases.md#ri-s09",
+      "decision": "Добавлен",
+      "relation": "К10",
+      "reason": "Первое зачисление является входом в путь, расхождение при зачислении передаётся в К10."
+    },
+    {
+      "id": "S10",
+      "name": "Настроить регулярное пополнение",
+      "owner": "retail-investors-cases.md#ri-s10",
+      "decision": "Добавлен",
+      "relation": "Ситуация 19, К13",
+      "reason": "Регулярный перевод управляет повторением взносов, а не составом портфеля."
+    },
+    {
+      "id": "S11",
+      "name": "Разместить временно свободные деньги",
+      "owner": "retail-investors-cases.md#ri-s11",
+      "decision": "Добавлен",
+      "relation": "Ситуация 19",
+      "reason": "Временное размещение заканчивается доступностью денег к расходу."
+    },
+    {
+      "id": "S12",
+      "name": "Сохранить и отфильтровать новую инвестиционную идею",
+      "owner": "retail-investors-cases.md#ri-s12",
+      "decision": "Добавлен",
+      "relation": "К5",
+      "reason": "Фильтрация потока идей предшествует проверке конкретного утверждения."
+    },
+    {
+      "id": "S13",
+      "name": "Проверить достоверность инвестиционного сообщения",
+      "owner": "candidates.md#ri-s13",
+      "decision": "Объединён",
+      "relation": "К5",
+      "reason": "Проверка чужого сообщения уже является самостоятельным результатом К5."
+    },
+    {
+      "id": "S14",
+      "name": "Выделить значимые для своего портфеля события",
+      "owner": "retail-investors-cases.md#ri-s14",
+      "decision": "Добавлен",
+      "relation": "Ситуация 18",
+      "reason": "Отбор значимых событий предшествует разбору одной уже выбранной новости."
+    },
+    {
+      "id": "S15",
+      "name": "Разобрать отчётность компании перед покупкой акции",
+      "owner": "retail-investors-cases.md#ri-s15",
+      "decision": "Добавлен",
+      "relation": "Ситуация 2, К8",
+      "reason": "Частный инвестор проверяет покупку, аналитик обновляет профессиональную оценку, робот исполняет стратегию."
+    },
+    {
+      "id": "S16",
+      "name": "Проверить дивидендную идею",
+      "owner": "retail-investors-cases.md#ri-s16",
+      "decision": "Добавлен",
+      "relation": "К3",
+      "reason": "Проверяется основание дивидендного тезиса, а не только денежные последствия сделки."
+    },
+    {
+      "id": "S17",
+      "name": "Проверить кредитный риск облигации",
+      "owner": "retail-investors-cases.md#ri-s17",
+      "decision": "Добавлен",
+      "relation": "Ситуация 20",
+      "reason": "Кредитный риск эмитента отличается от объяснения условий выпуска."
+    },
+    {
+      "id": "S18",
+      "name": "Сопоставить условия выпусков облигаций",
+      "owner": "participant-cases.md#ri-s18",
+      "decision": "Объединён",
+      "relation": "Ситуация 1",
+      "reason": "Сопоставление выпусков совпадает с результатом ситуации 1."
+    },
+    {
+      "id": "S19",
+      "name": "Выбрать фонд по задаче и издержкам",
+      "owner": "retail-investors-cases.md#ri-s19",
+      "decision": "Добавлен",
+      "relation": "Ситуация 9",
+      "reason": "Клиент выбирает фонд, сотрудник УК обрабатывает погашение пая."
+    },
+    {
+      "id": "S20",
+      "name": "Подготовить краткосрочный торговый план",
+      "owner": "participant-cases.md#ri-s20",
+      "decision": "Объединён",
+      "relation": "Ситуация 24",
+      "reason": "Краткосрочный план включён как ручной вариант подготовки стратегии, запуск робота не подразумевается."
+    },
+    {
+      "id": "S21",
+      "name": "Принять решение об участии в IPO",
+      "owner": "retail-investors-cases.md#ri-s21",
+      "decision": "Добавлен",
+      "relation": "К5, К3",
+      "reason": "Аллокация и ограничения первичного размещения образуют отдельную развилку."
+    },
+    {
+      "id": "S22",
+      "name": "Выбрать готовую стратегию или сопровождение",
+      "owner": "retail-investors-cases.md#ri-s22",
+      "decision": "Добавлен",
+      "relation": "Ситуация 25",
+      "reason": "Выбор готовой услуги не равен запуску своей торговой программы."
+    },
+    {
+      "id": "S23",
+      "name": "Определить размер новой позиции в общем портфеле",
+      "owner": "participant-cases.md#ri-s23",
+      "decision": "Объединён",
+      "relation": "Ситуация 21",
+      "reason": "Размер позиции уточняет уже существующую примерку сделки."
+    },
+    {
+      "id": "S24",
+      "name": "Проверить заявку до отправки",
+      "owner": "participant-cases.md#ri-s24",
+      "decision": "Объединён",
+      "relation": "Ситуация 22",
+      "reason": "Проверка черновика поручения уже описана, разговорный ввод остаётся одним из способов."
+    },
+    {
+      "id": "S25",
+      "name": "Разместить и сопровождать условную заявку",
+      "owner": "retail-investors-cases.md#ri-s25",
+      "decision": "Добавлен",
+      "relation": "Ситуация 22",
+      "reason": "После проверки черновика начинается сопровождение действующего условия."
+    },
+    {
+      "id": "S26",
+      "name": "Разобрать частичное исполнение, отказ или зависшую заявку",
+      "owner": "retail-investors-cases.md#ri-s26",
+      "decision": "Добавлен",
+      "relation": "Ситуация 4",
+      "reason": "Клиент выясняет судьбу своей заявки, трейдер брокера сопровождает исполнение поручения."
+    },
+    {
+      "id": "S27",
+      "name": "Контролировать обеспечение позиции с плечом",
+      "owner": "retail-investors-cases.md#ri-s27",
+      "decision": "Добавлен",
+      "relation": "Ситуация 8",
+      "reason": "Маржинальная позиция клиента отличается от обеспечения казначейства."
+    },
+    {
+      "id": "S28",
+      "name": "Подготовиться к окончанию фьючерсной позиции",
+      "owner": "retail-investors-cases.md#ri-s28",
+      "decision": "Добавлен",
+      "relation": "Ситуация 25",
+      "reason": "Окончание срочного контракта требует отдельного решения, робот необязателен."
+    },
+    {
+      "id": "S29",
+      "name": "Реагировать на неожиданную новость",
+      "owner": "participant-cases.md#ri-s29",
+      "decision": "Объединён",
+      "relation": "Ситуация 18",
+      "reason": "Реакция на новость относится к существующему разбору события по собственной позиции."
+    },
+    {
+      "id": "S30",
+      "name": "Проверить портфель и осознанно ничего не менять",
+      "owner": "retail-investors-cases.md#ri-s30",
+      "decision": "Добавлен",
+      "relation": "Ситуация 17",
+      "reason": "Осознанное сохранение позиции отличается от объяснения изменения стоимости счёта."
+    },
+    {
+      "id": "S31",
+      "name": "Проверить поступление купона или дивиденда",
+      "owner": "candidates.md#ri-s31",
+      "decision": "Объединён",
+      "relation": "К10",
+      "reason": "Проверка конкретной выплаты является частным случаем сверки своего счёта."
+    },
+    {
+      "id": "S32",
+      "name": "Выбрать действие по оферте облигации",
+      "owner": "candidates.md#ri-s32",
+      "decision": "Объединён",
+      "relation": "К3",
+      "reason": "Выбор по оферте уже включён в К3, повторная карточка не создаётся."
+    },
+    {
+      "id": "S33",
+      "name": "Разобрать погашение или нарушение выплаты по облигации",
+      "owner": "retail-investors-cases.md#ri-s33",
+      "decision": "Добавлен",
+      "relation": "К10",
+      "reason": "Дефолт или погашение требуют решений по инструменту, а не только поиска причины отсутствующего платежа."
+    },
+    {
+      "id": "S34",
+      "name": "Вернуть портфель к собственным целевым долям",
+      "owner": "retail-investors-cases.md#ri-s34",
+      "decision": "Добавлен",
+      "relation": "Ситуация 3, К3",
+      "reason": "Частный инвестор восстанавливает целевые доли, управляющий ДУ действует в иной услуге."
+    },
+    {
+      "id": "S35",
+      "name": "Пересмотреть позицию при просадке",
+      "owner": "retail-investors-cases.md#ri-s35",
+      "decision": "Добавлен",
+      "relation": "К3",
+      "reason": "Пересмотр тезиса при просадке может закончиться сохранением позиции."
+    },
+    {
+      "id": "S36",
+      "name": "Оценить действующую готовую стратегию и отключиться",
+      "owner": "retail-investors-cases.md#ri-s36",
+      "decision": "Добавлен",
+      "relation": "Ситуация 26",
+      "reason": "Клиент оценивает готовую услугу или фонд, владелец робота контролирует собственную программу."
+    },
+    {
+      "id": "S37",
+      "name": "Разобрать собственные решения и результат периода",
+      "owner": "retail-investors-cases.md#ri-s37",
+      "decision": "Добавлен",
+      "relation": "Ситуация 17, К7",
+      "reason": "Ретроспектива своих решений отличается от разложения стоимости и учебной попытки."
+    },
+    {
+      "id": "S38",
+      "name": "Сверить брокерский отчёт с интерфейсом и банковскими операциями",
+      "owner": "candidates.md#ri-s38",
+      "decision": "Объединён",
+      "relation": "К10",
+      "reason": "Сверка отчёта и интерфейса относится к уже существующей диагностике расхождений."
+    },
+    {
+      "id": "S39",
+      "name": "Подготовить сведения для налоговой сверки между брокерами",
+      "owner": "candidates.md#ri-s39",
+      "decision": "Объединён",
+      "relation": "К11",
+      "reason": "Межброкерский налоговый комплект совпадает с результатом К11."
+    },
+    {
+      "id": "S40",
+      "name": "Проверить и подтвердить инвестиционный налоговый вычет",
+      "owner": "retail-investors-cases.md#ri-s40",
+      "decision": "Добавлен",
+      "relation": "К11",
+      "reason": "Подтверждение права на вычет имеет отдельный документальный маршрут."
+    },
+    {
+      "id": "S41",
+      "name": "Подготовить плановый вывод денег",
+      "owner": "participant-cases.md#ri-s41",
+      "decision": "Объединён",
+      "relation": "Ситуация 19",
+      "reason": "Плановый вывод включён как завершение подготовки денег к дате."
+    },
+    {
+      "id": "S42",
+      "name": "Получить деньги при внезапной потребности",
+      "owner": "participant-cases.md#ri-s42",
+      "decision": "Объединён",
+      "relation": "Ситуация 19",
+      "reason": "Внезапная потребность добавлена как исключение того же пути вывода."
+    },
+    {
+      "id": "S43",
+      "name": "Перевести бумаги между брокерами",
+      "owner": "retail-investors-cases.md#ri-s43",
+      "decision": "Добавлен",
+      "relation": "Ситуация 16",
+      "reason": "Клиент инициирует перевод, расчётный специалист устраняет несовпадение инструкций."
+    },
+    {
+      "id": "S44",
+      "name": "Обратиться в поддержку с конкретным исключением",
+      "owner": "retail-investors-cases.md#ri-s44",
+      "decision": "Добавлен",
+      "relation": "К10, ситуация 6",
+      "reason": "Обращение по произвольному исключению шире сверки счёта или разбора купона сотрудником."
+    },
+    {
+      "id": "S45",
+      "name": "Приостановить инвестиции или закрыть отношения с брокером",
+      "owner": "retail-investors-cases.md#ri-s45",
+      "decision": "Добавлен",
+      "relation": "Ситуация 19",
+      "reason": "Прекращение отношений требует завершения обслуживания и отдельного решения."
+    },
+    {
+      "id": "S46",
+      "name": "Вернуться после длительного перерыва",
+      "owner": "retail-investors-cases.md#ri-s46",
+      "decision": "Добавлен",
+      "relation": "Ситуация 23",
+      "reason": "Возврат после перерыва не предполагает, что человек впервые видит сделку."
+    },
+    {
+      "id": "S47",
+      "name": "Настроить собственный инструмент через API",
+      "owner": "retail-investors-cases.md#ri-s47",
+      "decision": "Добавлен",
+      "relation": "Ситуация 14, К12",
+      "reason": "Подключение своего инструмента отличается от восстановления инфраструктуры и испытания торговой логики."
+    },
+    {
+      "id": "S48",
+      "name": "Получить унаследованные ценные бумаги",
+      "owner": "retail-investors-cases.md#ri-s48",
+      "decision": "Добавлен",
+      "relation": "Ситуация 5",
+      "reason": "Наследование включает иной правовой маршрут, чем обычное волеизъявление владельца."
+    },
+    {
+      "id": "S49",
+      "name": "Разобрать инвестиции через зарубежную инфраструктуру",
+      "owner": "retail-investors-cases.md#ri-s49",
+      "decision": "Добавлен",
+      "relation": "К11",
+      "reason": "Зарубежная инфраструктура меняет доступ и хранение, налоговая сверка покрывает лишь часть пути."
+    },
+    {
+      "id": "S50",
+      "name": "Различить прямые криптоактивы и биржевую экспозицию",
+      "owner": "retail-investors-cases.md#ri-s50",
+      "decision": "Добавлен",
+      "relation": "К14",
+      "reason": "Прямое владение криптоактивом и биржевая экспозиция различаются правами и инфраструктурой."
+    }
+  ],
+  "sources": [
+    {
+      "id": "M01",
+      "url": "https://www.moex.com/n105753",
+      "existing_locations": []
+    },
+    {
+      "id": "M02",
+      "url": "https://www.cbr.ru/Collection/Collection/File/62294/review_broker_Q2_2026.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "M03",
+      "url": "https://www.cbr.ru/Collection/Collection/File/61013/review_broker_Q1_2026.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "M04",
+      "url": "https://www.cbr.ru/Collection/Collection/File/59712/review_broker_Q4_2025.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "M05",
+      "url": "https://www.cbr.ru/Collection/Collection/File/62503/ORFR_2026-10.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "M06",
+      "url": "https://www.cbr.ru/analytics/szpp/fin_literacy/research/fin_ed_5/",
+      "existing_locations": []
+    },
+    {
+      "id": "M07",
+      "url": "https://cu.ru/tpost/bgnv6aipu1-tsentralnii-universitet-sostavil-portret",
+      "existing_locations": []
+    },
+    {
+      "id": "M08",
+      "url": "https://www.moex.com/files/4webdzwsy7qyvy527swcqge2mq",
+      "existing_locations": []
+    },
+    {
+      "id": "M09",
+      "url": "https://www.cbr.ru/calendar/",
+      "existing_locations": []
+    },
+    {
+      "id": "M10",
+      "url": "https://www.cbr.ru/Collection/Collection/File/62329/rewiew_uk_26Q2.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "M11",
+      "url": "https://cu.ru/tpost/o1fhlt4t71-vibor-28-mln-chastnih-investorov-v-2025",
+      "existing_locations": []
+    },
+    {
+      "id": "M12",
+      "url": "https://www.cbr.ru/press/event/?id=32653",
+      "existing_locations": [
+        "../../product-discovery/iterations/2026-11-14-z/concept.md#grounds",
+        "../hackathon-fit/README.md#s8"
+      ]
+    },
+    {
+      "id": "B01",
+      "url": "https://frankrg.com/news/investor-i-ego-kriterii-vybora-finansovogo-partnera-v-2026-godu",
+      "existing_locations": []
+    },
+    {
+      "id": "B02",
+      "url": "https://frankrg.com/wp-content/uploads/2025/12/9fa78b403df7.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "B03",
+      "url": "https://www.cbr.ru/analytics/szpp/fin_literacy/issledovanie-investicionnoy-gramotnosti/",
+      "existing_locations": [
+        "candidate-sources.md#s03"
+      ]
+    },
+    {
+      "id": "B04",
+      "url": "https://www.cbr.ru/Content/Document/File/193591/report_20260615.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "B05",
+      "url": "https://www.cbr.ru/Collection/Collection/File/59449/rewiew_uk_25Q3.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "B06",
+      "url": "https://www.finam.ru/publications/item/bolshe-chem-chat-bot-issledovanie-finama-pokazalo-pochemu-chatgpt-bespolezen-dlya-treyderov-i-kakoy-ii-im-nuzhen-na-samom-dele-20260413-1157/",
+      "existing_locations": []
+    },
+    {
+      "id": "B07",
+      "url": "https://frankrg.com/news/investory-prodemonstrirovali-blizkij-k-vysokomu-uroven-doveriya-k-investicionnym-kompaniyam",
+      "existing_locations": []
+    },
+    {
+      "id": "B08",
+      "url": "https://frankrg.com/wp-content/uploads/2024/12/2f35c21c6214.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "B09",
+      "url": "https://naufor.ru/download/2025/Control_28112025/prez/Zaitsev_Komarova.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "B10",
+      "url": "https://press-release.ru/branches/finance/_hh_ru_31_08_2026_17_49/",
+      "existing_locations": []
+    },
+    {
+      "id": "B11",
+      "url": "https://monocle.ru/monocle/2026/09/kto-kak-investiruyet/",
+      "existing_locations": []
+    },
+    {
+      "id": "B12",
+      "url": "https://1prime.ru/20260624/investory-871023304.html",
+      "existing_locations": []
+    },
+    {
+      "id": "C01",
+      "url": "https://arqatech.com/ru/products/quik/terminals/user-applications/webquik/",
+      "existing_locations": []
+    },
+    {
+      "id": "C02",
+      "url": "https://www.tbank.ru/invest/help/services/terminal/about/",
+      "existing_locations": []
+    },
+    {
+      "id": "C03",
+      "url": "https://developer.tbank.ru/invest/services/orders/methods",
+      "existing_locations": [
+        "../invest-api/reference.md#stop-orders"
+      ]
+    },
+    {
+      "id": "C04",
+      "url": "https://developer.tbank.ru/invest/services/operations/methods",
+      "existing_locations": [
+        "../invest-api/reference.md#reports",
+        "candidate-data-sources.md#d05"
+      ]
+    },
+    {
+      "id": "C05",
+      "url": "https://developer.tbank.ru/invest/services/accounts/head-account",
+      "existing_locations": []
+    },
+    {
+      "id": "C06",
+      "url": "https://www.vtb.ru/personal/investicii/schet-v-plyuse/",
+      "existing_locations": []
+    },
+    {
+      "id": "C07",
+      "url": "https://www.sberbank.ru/ru/person/investments/broker_service",
+      "existing_locations": []
+    },
+    {
+      "id": "C08",
+      "url": "https://www.finam.ru/publications/item/kak-otsenit-uspeshnost-strategii-servisa-finam-avtosledovanie-20250408-1405/",
+      "existing_locations": []
+    },
+    {
+      "id": "C09",
+      "url": "https://www.cbr.ru/Content/Document/File/128198/report_20211015.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "C10",
+      "url": "https://www.cbr.ru/Content/Document/File/152781/report_20230822.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "C11",
+      "url": "https://www.fca.org.uk/publication/research-notes/research-note-digital-engagement-practices-trading-apps-experiment.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "C12",
+      "url": "https://www.fca.org.uk/publication/research/behaviourally-informed-risk-warnings.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "C13",
+      "url": "https://www.tbank.ru/invest/help/educate/broker-report/about/read-n-get/",
+      "existing_locations": [
+        "candidate-data-sources.md#d06",
+        "candidate-sources.md#s10"
+      ]
+    },
+    {
+      "id": "C14",
+      "url": "https://developer.tbank.ru/invest/intro/faq",
+      "existing_locations": [
+        "../invest-api/reference.md#sandbox-details",
+        "candidate-data-sources.md#d11"
+      ]
+    },
+    {
+      "id": "R01",
+      "url": "https://www.cbr.ru/Content/Document/File/170760/analytic_note_20241227_dip.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "R02",
+      "url": "https://www.finjournal-nifi.ru/images/FILES/Journal/Archive/2024/4/statii/06_4_2024_v16.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "R03",
+      "url": "https://www.cbr.ru/StaticHtml/File/41186/info_2021-10-06.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "R04",
+      "url": "https://www.tbank.ru/invest/help/educate/tax-issues/automatically/tax-withholding/",
+      "existing_locations": [
+        "candidate-sources.md#s11"
+      ]
+    },
+    {
+      "id": "R05",
+      "url": "https://www.tbank.ru/invest/help/educate/how-it-works/ways-to-invest/bonds-profit/",
+      "existing_locations": [
+        "../../product-discovery/iterations/2026-11-14-z/concept.md#grounds",
+        "../hackathon-fit/README.md#s3",
+        "candidate-data-sources.md#d10",
+        "candidate-sources.md#s04",
+        "current-methods-sources.md#s01",
+        "product-formats-sources.md#f14"
+      ]
+    },
+    {
+      "id": "R06",
+      "url": "https://developer.tbank.ru/invest/services/instruments/methods",
+      "existing_locations": [
+        "../invest-api/README.md",
+        "../invest-api/reference.md#news",
+        "../invest-api/reference.md#streams",
+        "candidate-data-sources.md#d02",
+        "candidate-sources.md#s02"
+      ]
+    },
+    {
+      "id": "R07",
+      "url": "https://www.nalog.gov.ru/rn32/news/seminar/16664377/",
+      "existing_locations": []
+    },
+    {
+      "id": "R08",
+      "url": "https://www.cbr.ru/Collection/Collection/File/60978/4q_2025_1q_2026.pdf",
+      "existing_locations": []
+    },
+    {
+      "id": "R09",
+      "url": "https://www.tbank.ru/invest/social/profile/Frank.K/392bf442-0ec4-473b-b49a-b7252abeb036/",
+      "existing_locations": []
+    },
+    {
+      "id": "R10",
+      "url": "https://www.tbank.ru/invest/help/educate/dep-transfer/about/inheritance/",
+      "existing_locations": []
+    },
+    {
+      "id": "R11",
+      "url": "https://alfabank.ru/news/t/release/alfa-investitsii-uskorili-veb-terminal-i-dobavili-sinkhronizatsiyu-grafikov/",
+      "existing_locations": []
+    },
+    {
+      "id": "R12",
+      "url": "https://bcs.ru/markets",
+      "existing_locations": []
+    },
+    {
+      "id": "R13",
+      "url": "https://spbexchange.ru/stocks/russian/",
+      "existing_locations": []
+    }
+  ]
+}
