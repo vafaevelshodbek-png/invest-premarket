@@ -347,10 +347,32 @@
         "docs/research/investment-processes/product-formats.md",
         "docs/research/investment-processes/product-formats-sources.md"
       ],
-      "scope": "Conditional product formats for 16 model situations, not a selected interface or verified demand",
+      "scope": "Comparison of 26 model situations: 11 client scenarios in detail and 15 professional scenarios briefly. Product formats are proposals, not a selected interface or verified demand.",
       "current_methods_review_pr": 44,
       "status_at_2026_11_11": "accepted",
-      "accepted_pr": 45
+      "accepted_pr": 45,
+      "scenario_count": 26,
+      "detailed_client_scenarios": [
+        1,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "revision": {
+        "date": "2026-11-14",
+        "branch": "codex/issue-33-client-formats",
+        "review_pr": 56,
+        "status": "published_for_review",
+        "input_pr": 55,
+        "input_commit": "01478fa644da62262681401b22e731cd3e0d7e48"
+      }
     },
     "market_map": {
       "issue": 29,

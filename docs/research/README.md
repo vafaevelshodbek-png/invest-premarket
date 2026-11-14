@@ -12,3 +12,5 @@
 | [Какие идеи подходят хакатону Т-Банка](hackathon-fit/README.md) | [Оценка идей](hackathon-fit/README.md#ideas), [источники](hackathon-fit/README.md#sources) | [№2](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2) | На проверке |
 
 Все материалы документальные. Рабочие ситуации являются моделями, пользовательские затруднения и спрос не подтверждены интервью. Доступ конкретного аккаунта к API и MCP не проверялся. Выбор между кандидатами A и B делается в [№2](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2).
+
+Новая редакция [№33](https://github.com/vafaevelshodbek-png/invest-premarket/issues/33) опубликована в [PR №56](https://github.com/vafaevelshodbek-png/invest-premarket/pull/56): [обзор форматов](investment-processes/product-formats-summary.md) и [26 ситуаций, включая 11 клиентских подробно](investment-processes/product-formats.md). Редакция согласована пользователем, PR пока открыт.
