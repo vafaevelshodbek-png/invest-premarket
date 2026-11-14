@@ -442,14 +442,22 @@
     },
     "candidate_data": {
       "issue": 19,
-      "overview": "docs/research/investment-processes/candidate-checks-summary.md",
+      "overview": "docs/research/investment-processes/candidate-data-summary.md",
       "details": [
-        "docs/research/investment-processes/candidate-data-check.md"
+        "docs/research/investment-processes/candidate-data-check.md",
+        "docs/research/investment-processes/candidate-data-sources.md"
       ],
-      "scope": "Public source inspection and candidate access assessment, not verified private data or live API integration",
-      "candidate_review_pr": 46,
+      "scope": "New access assessment for ten candidates, documentary inspection and public X5 sample, not live API access or verified private datasets",
+      "candidate_review_pr": 57,
       "status_at_2026_11_11": "accepted",
-      "accepted_pr": 47
+      "accepted_pr": 47,
+      "revision_at_2026_11_14": {
+        "status": "pull_request_open",
+        "review_pr": 58,
+        "candidate_count": 10,
+        "replaces": "A/B data assessment from PR 47 after merge",
+        "legacy_joint_summary": "Old shared summary also covers issue 22 and is not the new data assessment"
+      }
     },
     "ai_comparison": {
       "issue": 22,
