@@ -539,7 +539,8 @@
       "new_scenario_count": 38,
       "source_count": 51,
       "scope": "Documentary CJM integration, not measured behavior frequencies, validated demand, AI advantage, verified API access, or a team product selection",
-      "publication_package": "docs/research/investment-processes/maintenance/retail-investors-publication.md"
+      "publication_package": "docs/research/investment-processes/maintenance/retail-investors-publication.md",
+      "review_pr": 61
     }
   },
   "result_finalization": {
