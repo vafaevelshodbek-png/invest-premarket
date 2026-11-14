@@ -5,6 +5,7 @@
 ## Команде
 
 - [Исследования](docs/research/README.md)
+- [Итерация З: 18 идей под хакатон и черновик заявки](docs/product-discovery/iterations/2026-11-14-z/README.md): на проверке.
 - [Кандидаты A и B, №18](docs/research/investment-processes/candidates-summary.md)
 - [График первого этапа](https://github.com/users/vafaevelshodbek-png/projects/1/views/7)
 - [Можно брать сейчас](https://github.com/users/vafaevelshodbek-png/projects/1/views/1)
