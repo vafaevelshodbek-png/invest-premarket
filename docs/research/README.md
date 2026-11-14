@@ -10,7 +10,6 @@
 | [Кандидаты продукта](investment-processes/candidates-summary.md) | [Полные карточки](investment-processes/candidates.md) | [№18](https://github.com/vafaevelshodbek-png/invest-premarket/issues/18) | [PR №46](https://github.com/vafaevelshodbek-png/invest-premarket/pull/46) |
 | [Данные и роль AI для кандидатов](investment-processes/candidate-checks-summary.md) | [Источники и доступ](investment-processes/candidate-data-check.md), [сравнение с обычными способами](investment-processes/candidate-ai-check.md) | [№19](https://github.com/vafaevelshodbek-png/invest-premarket/issues/19), [№22](https://github.com/vafaevelshodbek-png/invest-premarket/issues/22) | [PR №47](https://github.com/vafaevelshodbek-png/invest-premarket/pull/47) |
 
-Все материалы документальные. Рабочие ситуации являются моделями, пользовательские затруднения и спрос не подтверждены интервью. Доступ конкретного аккаунта к API и MCP не проверялся. Выбор идеи фиксируется в [№2](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2).
-
-
 Новая редакция [№18](https://github.com/vafaevelshodbek-png/invest-premarket/issues/18): [десять клиентских кандидатов](investment-processes/candidates-summary.md), [карточки](investment-processes/candidates.md) и [основания](investment-processes/candidate-sources.md). Подготовлена в [PR №57](https://github.com/vafaevelshodbek-png/invest-premarket/pull/57), ожидает объединения. Строка PR №46 выше относится к прежней редакции A/B. Проверки №19 и №22 для неё не подтверждают осуществимость нового набора.
+
+Все материалы документальные. Рабочие ситуации являются моделями, пользовательские затруднения и спрос не подтверждены интервью. Доступ конкретного аккаунта к API и MCP не проверялся. Выбор идеи фиксируется в [№2](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2).
