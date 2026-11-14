@@ -46,6 +46,12 @@ class SourceParser(HTMLParser):
 archive = P / 'archive/retail-investors-2026-11-15/Russia_Retail_Investors_CJM.html'
 raw = archive.read_bytes()
 check(hashlib.sha256(raw).hexdigest() == mapping['source_sha256'], 'Archive SHA-256 mismatch')
+# Check the stored Git blob as well: core.autocrlf must not normalize this archive.
+arch_rel = archive.relative_to(ROOT).as_posix()
+blob = subprocess.run(['git', 'show', 'HEAD:' + arch_rel], cwd=ROOT, capture_output=True)
+if blob.returncode == 0:
+    check(hashlib.sha256(blob.stdout).hexdigest() == mapping['source_sha256'],
+          'Committed archive blob does not preserve the supplied bytes')
 source_html = raw.decode('utf-8')
 scenario_json = re.search(r'<script\b[^>]*\bid="scenario-data"[^>]*>(.*?)</script>', source_html, re.S)
 source_scenarios = json.loads(scenario_json.group(1))
