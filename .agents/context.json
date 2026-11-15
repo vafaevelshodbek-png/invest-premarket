@@ -342,14 +342,13 @@
   "research_results": {
     "product_formats": {
       "issue": 33,
-      "overview": "docs/research/investment-processes/product-formats-summary.md",
+      "overview": "docs/research/investment-processes/retail-investors-summary.md",
       "details": [
-        "docs/research/investment-processes/product-formats.md",
-        "docs/research/investment-processes/product-formats-sources.md"
+        "docs/research/investment-processes/retail-investors-cjm.md",
+        "docs/research/investment-processes/retail-investors-cases.md"
       ],
-      "scope": "Comparison of 26 model situations: 11 client scenarios in detail and 15 professional scenarios briefly. Product formats are proposals, not a selected interface or verified demand.",
+      "scope": "Private-investor research unified by lifecycle; historical staff processes and proposals archived",
       "accepted_pr": 56,
-      "scenario_count": 26,
       "detailed_client_scenarios": [
         1,
         17,
@@ -368,16 +367,19 @@
       ],
       "accepted_date": "2026-11-14",
       "status": "accepted",
-      "current_methods_pr": 55
+      "current_methods_pr": 55,
+      "current_reader_entry": "docs/research/investment-processes/retail-investors-summary.md"
     },
     "market_map": {
       "issue": 29,
-      "overview": "docs/research/investment-processes/README.md",
+      "overview": "docs/research/investment-processes/retail-investors-summary.md",
       "details": [
-        "docs/research/investment-processes/markets.md",
-        "docs/research/investment-processes/details.md"
+        "docs/research/investment-processes/retail-investors-cjm.md",
+        "docs/research/investment-processes/retail-investors-cases.md"
       ],
-      "accepted_pr": 40
+      "accepted_pr": 40,
+      "current_reader_entry": "docs/research/investment-processes/retail-investors-summary.md",
+      "scope": "Private-investor research unified by lifecycle; historical staff processes and proposals archived"
     },
     "candidates": {
       "issue": 18,
@@ -391,13 +393,12 @@
     },
     "participants": {
       "issue": 31,
-      "overview": "docs/research/investment-processes/participants-summary.md",
+      "overview": "docs/research/investment-processes/retail-investors-summary.md",
       "details": [
-        "docs/research/investment-processes/participants.md",
-        "docs/research/investment-processes/participant-cases.md"
+        "docs/research/investment-processes/retail-investors-cjm.md",
+        "docs/research/investment-processes/retail-investors-cases.md"
       ],
       "accepted_pr": 55,
-      "scenario_count": 26,
       "client_scenarios": {
         "range": "17-26",
         "count": 10,
@@ -415,7 +416,9 @@
         41
       ],
       "accepted_date": "2026-11-14",
-      "status": "accepted"
+      "status": "accepted",
+      "current_reader_entry": "docs/research/investment-processes/retail-investors-summary.md",
+      "scope": "Private-investor research unified by lifecycle; historical staff processes and proposals archived"
     },
     "candidate_data": {
       "issue": 19,
@@ -453,19 +456,19 @@
     },
     "current_methods": {
       "issue": 32,
-      "overview": "docs/research/investment-processes/current-methods-summary.md",
+      "overview": "docs/research/investment-processes/retail-investors-summary.md",
       "details": [
-        "docs/research/investment-processes/current-methods.md",
-        "docs/research/investment-processes/current-methods-sources.md"
+        "docs/research/investment-processes/retail-investors-cjm.md",
+        "docs/research/investment-processes/retail-investors-cases.md"
       ],
-      "scope": "Documentary comparison of 26 model situations from issue 31, including 10 client scenarios in three hackathon tracks. Supplier capabilities are separate from unverified user difficulties and demand.",
+      "scope": "Private-investor research unified by lifecycle; historical staff processes and proposals archived",
       "accepted_pr": 55,
-      "scenario_count": 26,
       "previous_accepted_prs": [
         44
       ],
       "accepted_date": "2026-11-14",
-      "status": "accepted"
+      "status": "accepted",
+      "current_reader_entry": "docs/research/investment-processes/retail-investors-summary.md"
     },
     "hackathon_fit": {
       "issue": 2,
@@ -489,19 +492,21 @@
         "docs/research/investment-processes/retail-investors-cases.md",
         "docs/research/investment-processes/retail-investors-sources.md"
       ],
-      "mapping": "docs/research/investment-processes/maintenance/retail-investors-mapping.json",
+      "mapping": "docs/research/investment-processes/archive/reader-revision-2026-11-15/scenario-mapping.json",
       "archive": "docs/research/investment-processes/archive/retail-investors-2026-11-15/Russia_Retail_Investors_CJM.html",
       "source_cutoff": "2026-11-14",
       "integration_date": "2026-11-15",
-      "status": "published",
+      "status": "accepted",
       "source_scenario_count": 50,
-      "merged_source_scenarios": 7,
-      "existing_primary_cards_enriched": 6,
-      "new_scenario_count": 43,
       "source_count": 51,
-      "scope": "Documentary CJM integration, not measured behavior frequencies, validated demand, AI advantage, verified API access, or a team product selection",
-      "publication_package": "docs/research/investment-processes/maintenance/retail-investors-publication.md",
-      "merged_pr": 61
+      "scope": "Unified private-investor scenarios; staff scenarios and early proposals archived",
+      "publication_package": "docs/research/investment-processes/archive/reader-revision-2026-11-15/README.md",
+      "merged_pr": 61,
+      "accepted_date": "2026-11-15",
+      "acceptance": "Explicit user confirmation",
+      "canonical_scenario_count": 55,
+      "legacy_client_scenario_count": 11,
+      "staff_scenarios_archived": 15
     },
     "ai_investment_products": {
       "issue": 32,
@@ -543,18 +548,8 @@
   },
   "product_discovery": {
     "index": "docs/product-discovery/README.md",
-    "existing_roadmap": "docs/product-discovery/roadmap.md",
-    "iterations": {
-      "z": {
-        "date": "2026-11-14",
-        "overview": "docs/product-discovery/iterations/2026-11-14-z/README.md",
-        "accepted_pr": 54,
-        "status": "published_proposal_not_selected",
-        "application": "docs/product-discovery/iterations/2026-11-14-z/application.md"
-      }
-    },
+    "archive": "docs/archive/product-proposals-2026-11-15/README.md",
     "selection_issue": 2,
-    "selection_confirmed": false,
-    "excluded_draft_pr": 52
+    "selection_confirmed": false
   }
 }

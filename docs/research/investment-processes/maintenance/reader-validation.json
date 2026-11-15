@@ -1,0 +1,15 @@
+{
+  "canonical_scenarios": 55,
+  "original_cjm_scenarios_preserved": 50,
+  "older_client_cases_mapped": 11,
+  "older_distinct_additions": 5,
+  "staff_scenarios_archived": 15,
+  "research_publications": 51,
+  "client_tool_source_records": 8,
+  "byte_preserved_files": 32,
+  "visible_source_code_errors": [],
+  "new_external_research_performed": false,
+  "research_external_urls_preserved": 51,
+  "research_urls_missing_active": [],
+  "archive_hashes_valid": true
+}
