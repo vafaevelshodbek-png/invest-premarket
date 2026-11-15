@@ -19,7 +19,7 @@
 | [№27](https://github.com/vafaevelshodbek-png/invest-premarket/issues/27), [№38](https://github.com/vafaevelshodbek-png/invest-premarket/issues/38) Поле 11 и сборка ответов | [Черновик заявки](application.md) |
 | [№28](https://github.com/vafaevelshodbek-png/invest-premarket/issues/28), [№5](https://github.com/vafaevelshodbek-png/invest-premarket/issues/5) Проверка и отправка | [Чек-листы](application.md#checklists), выполняют люди |
 
-Входы для схемы данных приведены в [системе](system.md#data), полную спецификацию ведёт [№3](https://github.com/vafaevelshodbek-png/invest-premarket/issues/3). Текущие [десять кандидатов №18](../../../research/investment-processes/candidates-summary.md), [проверка данных №19](../../../research/investment-processes/candidate-data-summary.md) и [сравнение AI №22](../../../research/investment-processes/candidate-ai-summary.md) приняты отдельно. Итерация не заменяет их и не подтверждает автоматически свой составной сценарий.
+Входы для схемы данных приведены в [системе](system.md#data), полную спецификацию ведёт [№3](https://github.com/vafaevelshodbek-png/invest-premarket/issues/3). Для пересмотра предложения используется [исследование ИИ-продуктов](../../../research/ai-investment-products/README.md). Проверки данных №19 и роли AI №22 требуют нового набора вариантов.
 
 **Связь с другими работами.** Идея 3 из [roadmap Димы](../../roadmap.md) и идея 4 из [итерации Л](https://github.com/vafaevelshodbek-png/invest-premarket/pull/52) включены в общую оценку. Предложенная основная идея использует разбор событий облигаций из идеи 3 как модуль.
 

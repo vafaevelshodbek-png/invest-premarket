@@ -79,3 +79,8 @@
 ## Передача результатов
 
 Для [№18](https://github.com/vafaevelshodbek-png/invest-premarket/issues/18) подготовлены все 26 ситуаций с альтернативами и возможными улучшениями. Приоритеты и идея здесь не выбраны. Сравнение роли AI относится к [№22](https://github.com/vafaevelshodbek-png/invest-premarket/issues/22), описание выбранного продукта к [№4](https://github.com/vafaevelshodbek-png/invest-premarket/issues/4), проверка обоснованности ценности к [№20](https://github.com/vafaevelshodbek-png/invest-premarket/issues/20).
+
+
+## ИИ в существующих продуктах
+
+[Исследование на 15 ноября 2026 года](../ai-investment-products/README.md) раскрывает 94 инициативы в мире и России, отдельно [терминалы](../ai-investment-products/terminals.md). Оно дополняет сравнение рабочих ситуаций конкретными функциями и условиями доступа.

@@ -8,9 +8,9 @@
 |---|---|
 | Понять условия и поля формы | [Условия хакатона](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Hackathon#требования-первого-отбора) |
 | Использовать готовые исследования | [Каталог исследований](docs/research/README.md) |
-| Понять путь частного инвестора | [CJM, сегменты и источники](docs/research/investment-processes/retail-investors-summary.md), [PR №61 на проверке](https://github.com/vafaevelshodbek-png/invest-premarket/pull/61) |
+| Понять путь частного инвестора | [CJM, сегменты и источники](docs/research/investment-processes/retail-investors-summary.md), [публикация PR №61](https://github.com/vafaevelshodbek-png/invest-premarket/pull/61) |
 
-| Сравнить текущие варианты | [Десять кандидатов](docs/research/investment-processes/candidates-summary.md), [данные и роль AI](docs/research/investment-processes/candidate-checks-summary.md) |
+| Узнать, где уже работает ИИ в инвестициях | [94 кейса: мир, Россия и терминалы](docs/research/ai-investment-products/README.md) |
 | Посмотреть продуктовые предложения | [Поиск продукта](docs/product-discovery/README.md), [итерация З и черновик заявки](docs/product-discovery/iterations/2026-11-14-z/README.md) |
 | Увидеть состояние ответов | [Продукт и заявка](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Product) |
 | Найти следующую работу | [Можно брать](https://github.com/users/vafaevelshodbek-png/projects/1/views/1), [по стримам](https://github.com/users/vafaevelshodbek-png/projects/1/views/6), [по статусам](https://github.com/users/vafaevelshodbek-png/projects/1/views/2) |

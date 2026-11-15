@@ -333,7 +333,6 @@
 | Дата обращения в исходнике | 2026-11-14 |
 | Роль | Процитирован в отчёте |
 
-**Связь с прежними материалами:** [candidate-sources.md#s03](candidate-sources.md#s03). Одна публикация не считается несколькими независимыми основаниями.
 
 <a name="ri-b04"></a>
 
@@ -571,7 +570,7 @@
 | Дата обращения в исходнике | Точная дата не указана, общий период исследования 14–15 ноября 2026 года |
 | Роль | Процитирован в отчёте |
 
-**Связь с прежними материалами:** [reference.md#reports](../invest-api/reference.md#reports), [candidate-data-sources.md#d05](candidate-data-sources.md#d05). Одна публикация не считается несколькими независимыми основаниями.
+**Связь с прежними материалами:** [reference.md#reports](../invest-api/reference.md#reports). Одна публикация не считается несколькими независимыми основаниями.
 
 <a name="ri-c05"></a>
 
@@ -735,7 +734,6 @@
 | Дата обращения в исходнике | Точная дата не указана, общий период исследования 14–15 ноября 2026 года |
 | Роль | Дополнительный материал для проверки границ |
 
-**Связь с прежними материалами:** [candidate-data-sources.md#d06](candidate-data-sources.md#d06), [candidate-sources.md#s10](candidate-sources.md#s10). Одна публикация не считается несколькими независимыми основаниями.
 
 <a name="ri-c14"></a>
 
@@ -755,7 +753,7 @@
 | Дата обращения в исходнике | Точная дата не указана, общий период исследования 14–15 ноября 2026 года |
 | Роль | Процитирован в отчёте |
 
-**Связь с прежними материалами:** [reference.md#sandbox-details](../invest-api/reference.md#sandbox-details), [candidate-data-sources.md#d11](candidate-data-sources.md#d11). Одна публикация не считается несколькими независимыми основаниями.
+**Связь с прежними материалами:** [reference.md#sandbox-details](../invest-api/reference.md#sandbox-details). Одна публикация не считается несколькими независимыми основаниями.
 
 <a name="ri-r01"></a>
 
@@ -829,7 +827,6 @@
 | Дата обращения в исходнике | 2026-11-14/15 |
 | Роль | Процитирован в отчёте |
 
-**Связь с прежними материалами:** [candidate-sources.md#s11](candidate-sources.md#s11). Одна публикация не считается несколькими независимыми основаниями.
 
 <a name="ri-r05"></a>
 
@@ -849,7 +846,7 @@
 | Дата обращения в исходнике | 2026-11-14/15 |
 | Роль | Процитирован в отчёте |
 
-**Связь с прежними материалами:** [concept.md#grounds](../../product-discovery/iterations/2026-11-14-z/concept.md#grounds), [README.md#s3](../hackathon-fit/README.md#s3), [candidate-data-sources.md#d10](candidate-data-sources.md#d10), [candidate-sources.md#s04](candidate-sources.md#s04), [current-methods-sources.md#s01](current-methods-sources.md#s01), [product-formats-sources.md#f14](product-formats-sources.md#f14). Одна публикация не считается несколькими независимыми основаниями.
+**Связь с прежними материалами:** [concept.md#grounds](../../product-discovery/iterations/2026-11-14-z/concept.md#grounds), [README.md#s3](../hackathon-fit/README.md#s3), , , [current-methods-sources.md#s01](current-methods-sources.md#s01), [product-formats-sources.md#f14](product-formats-sources.md#f14). Одна публикация не считается несколькими независимыми основаниями.
 
 <a name="ri-r06"></a>
 
@@ -869,7 +866,7 @@
 | Дата обращения в исходнике | 2026-11-14/15 |
 | Роль | Процитирован в отчёте |
 
-**Связь с прежними материалами:** [README.md](../invest-api/README.md), [reference.md#news](../invest-api/reference.md#news), [reference.md#streams](../invest-api/reference.md#streams), [candidate-data-sources.md#d02](candidate-data-sources.md#d02), [candidate-sources.md#s02](candidate-sources.md#s02). Одна публикация не считается несколькими независимыми основаниями.
+**Связь с прежними материалами:** [README.md](../invest-api/README.md), [reference.md#news](../invest-api/reference.md#news), [reference.md#streams](../invest-api/reference.md#streams), . Одна публикация не считается несколькими независимыми основаниями.
 
 <a name="ri-r07"></a>
 
