@@ -513,6 +513,34 @@
       "accepted_date": "2026-11-14",
       "status": "accepted",
       "scope": "Documentary context and author proposals, not additional proven SIGNAL IN exclusions or a team selection"
+    },
+    "retail_investors_cjm": {
+      "issues": [
+        31,
+        32,
+        33,
+        18
+      ],
+      "overview": "docs/research/investment-processes/retail-investors-summary.md",
+      "details": [
+        "docs/research/investment-processes/retail-investors-cjm.md",
+        "docs/research/investment-processes/retail-investors-analysis.md",
+        "docs/research/investment-processes/retail-investors-cases.md",
+        "docs/research/investment-processes/retail-investors-sources.md"
+      ],
+      "mapping": "docs/research/investment-processes/maintenance/retail-investors-mapping.json",
+      "archive": "docs/research/investment-processes/archive/retail-investors-2026-11-15/Russia_Retail_Investors_CJM.html",
+      "source_cutoff": "2026-11-14",
+      "integration_date": "2026-11-15",
+      "status": "in_review",
+      "source_scenario_count": 50,
+      "merged_source_scenarios": 12,
+      "existing_primary_cards_enriched": 10,
+      "new_scenario_count": 38,
+      "source_count": 51,
+      "scope": "Documentary CJM integration, not measured behavior frequencies, validated demand, AI advantage, verified API access, or a team product selection",
+      "publication_package": "docs/research/investment-processes/maintenance/retail-investors-publication.md",
+      "review_pr": 61
     }
   },
   "result_finalization": {
