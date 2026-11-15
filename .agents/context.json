@@ -521,7 +521,7 @@
       "source_count": 241,
       "source_cutoff": "2026-11-15",
       "status": "accepted",
-      "accepted_pr": "__PUBLICATION_PR__",
+      "accepted_pr": 62,
       "downstream_issues": [
         18,
         19,

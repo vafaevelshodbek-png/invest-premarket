@@ -20,7 +20,7 @@
 
 Исследование дополняет [разбор текущих способов и аналогов №32](../investment-processes/current-methods-summary.md). Оно используется в [формировании новых вариантов №18](https://github.com/vafaevelshodbek-png/invest-premarket/issues/18), [сравнении вклада AI №22](https://github.com/vafaevelshodbek-png/invest-premarket/issues/22), [проверке данных №19](https://github.com/vafaevelshodbek-png/invest-premarket/issues/19) и [выборе команды №2](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2). Пользовательский контекст раскрыт в [CJM частного инвестора](../investment-processes/retail-investors-summary.md), технические права и ограничения в [исследовании API/MCP](../invest-api/README.md).
 
-Каталог описывает существующие продукты, а не предлагает 94 идеи для команды. Он не подтверждает пользовательский спрос, преимущество AI, доходность или доступ конкретного аккаунта. [Публикация исследования](https://github.com/vafaevelshodbek-png/invest-premarket/pull/__PUBLICATION_PR__).
+Каталог описывает существующие продукты, а не предлагает 94 идеи для команды. Он не подтверждает пользовательский спрос, преимущество AI, доходность или доступ конкретного аккаунта. [Публикация исследования](https://github.com/vafaevelshodbek-png/invest-premarket/pull/62).
 
 ## Главное
 
