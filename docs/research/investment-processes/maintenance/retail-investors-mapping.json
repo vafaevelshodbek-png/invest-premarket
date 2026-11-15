@@ -10,7 +10,7 @@
       "name": "Связать инвестиции с жизненной целью",
       "owner": "retail-investors-cases.md#ri-s01",
       "decision": "Добавлен",
-      "relation": "Ситуация 19, К13",
+      "relation": "Ситуация 19, ",
       "reason": "Постановка жизненной цели предшествует конкретному плану денег к дате."
     },
     {
@@ -50,7 +50,7 @@
       "name": "Выбрать тип счёта и проверить последствия",
       "owner": "retail-investors-cases.md#ri-s06",
       "decision": "Добавлен",
-      "relation": "К11",
+      "relation": "",
       "reason": "Выбор типа счёта предшествует подготовке налогового комплекта за период."
     },
     {
@@ -66,7 +66,7 @@
       "name": "Разобраться в сложном инструменте перед тестированием",
       "owner": "retail-investors-cases.md#ri-s08",
       "decision": "Добавлен",
-      "relation": "Ситуация 12, К7",
+      "relation": "Ситуация 12, ",
       "reason": "Понимание продукта и тест допуска не тождественны тренировке решения."
     },
     {
@@ -74,15 +74,15 @@
       "name": "Внести первую сумму и проверить её зачисление",
       "owner": "retail-investors-cases.md#ri-s09",
       "decision": "Добавлен",
-      "relation": "К10",
-      "reason": "Первое зачисление является входом в путь, расхождение при зачислении передаётся в К10."
+      "relation": "",
+      "reason": "Первое зачисление является входом в путь, расхождение при зачислении передаётся в "
     },
     {
       "id": "S10",
       "name": "Настроить регулярное пополнение",
       "owner": "retail-investors-cases.md#ri-s10",
       "decision": "Добавлен",
-      "relation": "Ситуация 19, К13",
+      "relation": "Ситуация 19, ",
       "reason": "Регулярный перевод управляет повторением взносов, а не составом портфеля."
     },
     {
@@ -98,16 +98,16 @@
       "name": "Сохранить и отфильтровать новую инвестиционную идею",
       "owner": "retail-investors-cases.md#ri-s12",
       "decision": "Добавлен",
-      "relation": "К5",
+      "relation": "",
       "reason": "Фильтрация потока идей предшествует проверке конкретного утверждения."
     },
     {
       "id": "S13",
       "name": "Проверить достоверность инвестиционного сообщения",
-      "owner": "candidates.md#ri-s13",
-      "decision": "Объединён",
-      "relation": "К5",
-      "reason": "Проверка чужого сообщения уже является самостоятельным результатом К5."
+      "owner": "retail-investors-cases.md#ri-s13",
+      "decision": "Добавлен",
+      "relation": "",
+      "reason": "Самостоятельное описание пользовательской ситуации. Продуктовая рекомендация снята."
     },
     {
       "id": "S14",
@@ -122,7 +122,7 @@
       "name": "Разобрать отчётность компании перед покупкой акции",
       "owner": "retail-investors-cases.md#ri-s15",
       "decision": "Добавлен",
-      "relation": "Ситуация 2, К8",
+      "relation": "Ситуация 2, ",
       "reason": "Частный инвестор проверяет покупку, аналитик обновляет профессиональную оценку, робот исполняет стратегию."
     },
     {
@@ -130,7 +130,7 @@
       "name": "Проверить дивидендную идею",
       "owner": "retail-investors-cases.md#ri-s16",
       "decision": "Добавлен",
-      "relation": "К3",
+      "relation": "",
       "reason": "Проверяется основание дивидендного тезиса, а не только денежные последствия сделки."
     },
     {
@@ -170,7 +170,7 @@
       "name": "Принять решение об участии в IPO",
       "owner": "retail-investors-cases.md#ri-s21",
       "decision": "Добавлен",
-      "relation": "К5, К3",
+      "relation": "",
       "reason": "Аллокация и ограничения первичного размещения образуют отдельную развилку."
     },
     {
@@ -248,25 +248,25 @@
     {
       "id": "S31",
       "name": "Проверить поступление купона или дивиденда",
-      "owner": "candidates.md#ri-s31",
-      "decision": "Объединён",
-      "relation": "К10",
-      "reason": "Проверка конкретной выплаты является частным случаем сверки своего счёта."
+      "owner": "retail-investors-cases.md#ri-s31",
+      "decision": "Добавлен",
+      "relation": "",
+      "reason": "Самостоятельное описание пользовательской ситуации. Продуктовая рекомендация снята."
     },
     {
       "id": "S32",
       "name": "Выбрать действие по оферте облигации",
-      "owner": "candidates.md#ri-s32",
-      "decision": "Объединён",
-      "relation": "К3",
-      "reason": "Выбор по оферте уже включён в К3, повторная карточка не создаётся."
+      "owner": "retail-investors-cases.md#ri-s32",
+      "decision": "Добавлен",
+      "relation": "",
+      "reason": "Самостоятельное описание пользовательской ситуации. Продуктовая рекомендация снята."
     },
     {
       "id": "S33",
       "name": "Разобрать погашение или нарушение выплаты по облигации",
       "owner": "retail-investors-cases.md#ri-s33",
       "decision": "Добавлен",
-      "relation": "К10",
+      "relation": "",
       "reason": "Дефолт или погашение требуют решений по инструменту, а не только поиска причины отсутствующего платежа."
     },
     {
@@ -274,7 +274,7 @@
       "name": "Вернуть портфель к собственным целевым долям",
       "owner": "retail-investors-cases.md#ri-s34",
       "decision": "Добавлен",
-      "relation": "Ситуация 3, К3",
+      "relation": "Ситуация 3, ",
       "reason": "Частный инвестор восстанавливает целевые доли, управляющий ДУ действует в иной услуге."
     },
     {
@@ -282,7 +282,7 @@
       "name": "Пересмотреть позицию при просадке",
       "owner": "retail-investors-cases.md#ri-s35",
       "decision": "Добавлен",
-      "relation": "К3",
+      "relation": "",
       "reason": "Пересмотр тезиса при просадке может закончиться сохранением позиции."
     },
     {
@@ -298,31 +298,31 @@
       "name": "Разобрать собственные решения и результат периода",
       "owner": "retail-investors-cases.md#ri-s37",
       "decision": "Добавлен",
-      "relation": "Ситуация 17, К7",
+      "relation": "Ситуация 17, ",
       "reason": "Ретроспектива своих решений отличается от разложения стоимости и учебной попытки."
     },
     {
       "id": "S38",
       "name": "Сверить брокерский отчёт с интерфейсом и банковскими операциями",
-      "owner": "candidates.md#ri-s38",
-      "decision": "Объединён",
-      "relation": "К10",
-      "reason": "Сверка отчёта и интерфейса относится к уже существующей диагностике расхождений."
+      "owner": "retail-investors-cases.md#ri-s38",
+      "decision": "Добавлен",
+      "relation": "",
+      "reason": "Самостоятельное описание пользовательской ситуации. Продуктовая рекомендация снята."
     },
     {
       "id": "S39",
       "name": "Подготовить сведения для налоговой сверки между брокерами",
-      "owner": "candidates.md#ri-s39",
-      "decision": "Объединён",
-      "relation": "К11",
-      "reason": "Межброкерский налоговый комплект совпадает с результатом К11."
+      "owner": "retail-investors-cases.md#ri-s39",
+      "decision": "Добавлен",
+      "relation": "",
+      "reason": "Самостоятельное описание пользовательской ситуации. Продуктовая рекомендация снята."
     },
     {
       "id": "S40",
       "name": "Проверить и подтвердить инвестиционный налоговый вычет",
       "owner": "retail-investors-cases.md#ri-s40",
       "decision": "Добавлен",
-      "relation": "К11",
+      "relation": "",
       "reason": "Подтверждение права на вычет имеет отдельный документальный маршрут."
     },
     {
@@ -354,7 +354,7 @@
       "name": "Обратиться в поддержку с конкретным исключением",
       "owner": "retail-investors-cases.md#ri-s44",
       "decision": "Добавлен",
-      "relation": "К10, ситуация 6",
+      "relation": "ситуация 6",
       "reason": "Обращение по произвольному исключению шире сверки счёта или разбора купона сотрудником."
     },
     {
@@ -378,7 +378,7 @@
       "name": "Настроить собственный инструмент через API",
       "owner": "retail-investors-cases.md#ri-s47",
       "decision": "Добавлен",
-      "relation": "Ситуация 14, К12",
+      "relation": "Ситуация 14, ",
       "reason": "Подключение своего инструмента отличается от восстановления инфраструктуры и испытания торговой логики."
     },
     {
@@ -394,7 +394,7 @@
       "name": "Разобрать инвестиции через зарубежную инфраструктуру",
       "owner": "retail-investors-cases.md#ri-s49",
       "decision": "Добавлен",
-      "relation": "К11",
+      "relation": "",
       "reason": "Зарубежная инфраструктура меняет доступ и хранение, налоговая сверка покрывает лишь часть пути."
     },
     {
@@ -402,7 +402,7 @@
       "name": "Различить прямые криптоактивы и биржевую экспозицию",
       "owner": "retail-investors-cases.md#ri-s50",
       "decision": "Добавлен",
-      "relation": "К14",
+      "relation": "",
       "reason": "Прямое владение криптоактивом и биржевая экспозиция различаются правами и инфраструктурой."
     }
   ],
@@ -483,9 +483,7 @@
     {
       "id": "B03",
       "url": "https://www.cbr.ru/analytics/szpp/fin_literacy/issledovanie-investicionnoy-gramotnosti/",
-      "existing_locations": [
-        "candidate-sources.md#s03"
-      ]
+      "existing_locations": []
     },
     {
       "id": "B04",
@@ -553,8 +551,7 @@
       "id": "C04",
       "url": "https://developer.tbank.ru/invest/services/operations/methods",
       "existing_locations": [
-        "../invest-api/reference.md#reports",
-        "candidate-data-sources.md#d05"
+        "../invest-api/reference.md#reports"
       ]
     },
     {
@@ -600,17 +597,13 @@
     {
       "id": "C13",
       "url": "https://www.tbank.ru/invest/help/educate/broker-report/about/read-n-get/",
-      "existing_locations": [
-        "candidate-data-sources.md#d06",
-        "candidate-sources.md#s10"
-      ]
+      "existing_locations": []
     },
     {
       "id": "C14",
       "url": "https://developer.tbank.ru/invest/intro/faq",
       "existing_locations": [
-        "../invest-api/reference.md#sandbox-details",
-        "candidate-data-sources.md#d11"
+        "../invest-api/reference.md#sandbox-details"
       ]
     },
     {
@@ -631,9 +624,7 @@
     {
       "id": "R04",
       "url": "https://www.tbank.ru/invest/help/educate/tax-issues/automatically/tax-withholding/",
-      "existing_locations": [
-        "candidate-sources.md#s11"
-      ]
+      "existing_locations": []
     },
     {
       "id": "R05",
@@ -641,8 +632,6 @@
       "existing_locations": [
         "../../product-discovery/iterations/2026-11-14-z/concept.md#grounds",
         "../hackathon-fit/README.md#s3",
-        "candidate-data-sources.md#d10",
-        "candidate-sources.md#s04",
         "current-methods-sources.md#s01",
         "product-formats-sources.md#f14"
       ]
@@ -653,9 +642,7 @@
       "existing_locations": [
         "../invest-api/README.md",
         "../invest-api/reference.md#news",
-        "../invest-api/reference.md#streams",
-        "candidate-data-sources.md#d02",
-        "candidate-sources.md#s02"
+        "../invest-api/reference.md#streams"
       ]
     },
     {

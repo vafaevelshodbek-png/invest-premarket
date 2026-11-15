@@ -1,2 +1,5 @@
 # Preserve the supplied research HTML byte for byte, including its line endings.
 docs/research/investment-processes/archive/retail-investors-2026-11-15/Russia_Retail_Investors_CJM.html -text
+docs/research/ai-investment-products/assets/report.pdf -text
+docs/research/ai-investment-products/assets/research.html -text
+docs/research/ai-investment-products/catalog.csv -text

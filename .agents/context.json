@@ -381,34 +381,12 @@
     },
     "candidates": {
       "issue": 18,
-      "overview": "docs/research/investment-processes/candidates-summary.md",
-      "details": [
-        "docs/research/investment-processes/candidates.md",
-        "docs/research/investment-processes/candidate-sources.md"
-      ],
-      "candidate_count": 10,
-      "scope": "Ten client and private-trader proposals for new data and AI checks, not a selected product or verified demand",
-      "accepted_pr": 57,
-      "candidate_ids": [
-        "К3",
-        "К5",
-        "К7",
-        "К8",
-        "К9",
-        "К10",
-        "К11",
-        "К12",
-        "К13",
-        "К14"
-      ],
-      "previous_accepted_prs": [
-        46
-      ],
-      "accepted_date": "2026-11-14",
-      "status": "accepted",
-      "input_prs": [
-        55,
-        56
+      "status": "requires_new_result",
+      "withdrawn_date": "2026-11-15",
+      "reason": "Previous shortlist withdrawn by explicit user instruction",
+      "inputs": [
+        "docs/research/ai-investment-products/README.md",
+        "docs/research/investment-processes/retail-investors-summary.md"
       ]
     },
     "participants": {
@@ -441,39 +419,22 @@
     },
     "candidate_data": {
       "issue": 19,
-      "overview": "docs/research/investment-processes/candidate-data-summary.md",
-      "details": [
-        "docs/research/investment-processes/candidate-data-check.md",
-        "docs/research/investment-processes/candidate-data-sources.md"
-      ],
-      "scope": "New access assessment for ten candidates, documentary inspection and public X5 sample, not live API access or verified private datasets",
-      "accepted_pr": 58,
-      "previous_accepted_prs": [
-        47
-      ],
-      "accepted_date": "2026-11-14",
-      "status": "accepted",
-      "candidate_pr": 57
+      "status": "requires_new_result",
+      "withdrawn_date": "2026-11-15",
+      "reason": "Previous shortlist withdrawn by explicit user instruction",
+      "inputs": [
+        "docs/research/ai-investment-products/README.md",
+        "docs/research/investment-processes/retail-investors-summary.md"
+      ]
     },
     "ai_comparison": {
       "issue": 22,
-      "overview": "docs/research/investment-processes/candidate-ai-summary.md",
-      "details": [
-        "docs/research/investment-processes/candidate-ai-check.md",
-        "docs/research/investment-processes/candidate-ai-sources.md",
-        "docs/research/investment-processes/candidate-ai-costs.md"
-      ],
-      "scope": "Ten client candidates, complete agent workflows versus four conventional alternatives, and indicative operating and implementation costs, not measured superiority",
-      "accepted_pr": 59,
-      "previous_accepted_prs": [
-        47
-      ],
-      "accepted_date": "2026-11-14",
-      "status": "accepted",
-      "input_prs": [
-        55,
-        57,
-        58
+      "status": "requires_new_result",
+      "withdrawn_date": "2026-11-15",
+      "reason": "Previous shortlist withdrawn by explicit user instruction",
+      "inputs": [
+        "docs/research/ai-investment-products/README.md",
+        "docs/research/investment-processes/retail-investors-summary.md"
       ]
     },
     "api_mcp": {
@@ -532,15 +493,45 @@
       "archive": "docs/research/investment-processes/archive/retail-investors-2026-11-15/Russia_Retail_Investors_CJM.html",
       "source_cutoff": "2026-11-14",
       "integration_date": "2026-11-15",
-      "status": "in_review",
+      "status": "published",
       "source_scenario_count": 50,
-      "merged_source_scenarios": 12,
-      "existing_primary_cards_enriched": 10,
-      "new_scenario_count": 38,
+      "merged_source_scenarios": 7,
+      "existing_primary_cards_enriched": 6,
+      "new_scenario_count": 43,
       "source_count": 51,
       "scope": "Documentary CJM integration, not measured behavior frequencies, validated demand, AI advantage, verified API access, or a team product selection",
       "publication_package": "docs/research/investment-processes/maintenance/retail-investors-publication.md",
-      "review_pr": 61
+      "merged_pr": 61
+    },
+    "ai_investment_products": {
+      "issue": 32,
+      "overview": "docs/research/ai-investment-products/README.md",
+      "details": [
+        "docs/research/ai-investment-products/brokers.md",
+        "docs/research/ai-investment-products/research-services.md",
+        "docs/research/ai-investment-products/russia.md",
+        "docs/research/ai-investment-products/terminals.md",
+        "docs/research/ai-investment-products/funds.md",
+        "docs/research/ai-investment-products/sources.md"
+      ],
+      "catalog": "docs/research/ai-investment-products/catalog.csv",
+      "pdf": "docs/research/ai-investment-products/assets/report.pdf",
+      "html": "docs/research/ai-investment-products/assets/research.html",
+      "case_count": 94,
+      "source_count": 241,
+      "source_cutoff": "2026-11-15",
+      "status": "accepted",
+      "accepted_pr": "__PUBLICATION_PR__",
+      "downstream_issues": [
+        18,
+        19,
+        22,
+        2,
+        4,
+        20,
+        23,
+        33
+      ]
     }
   },
   "result_finalization": {

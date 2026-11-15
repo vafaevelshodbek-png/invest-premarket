@@ -41,13 +41,13 @@
 
 ## Сценарии по этапам
 
-Из 50 сценариев HTML 12 встроены в 10 действующих карточек, остальные 38 описаны в [дополнительных ситуациях](retail-investors-cases.md). Названия ниже являются указателем, полные описания хранятся по ссылкам. Номера 1–26 и [К3](candidates.md#k3), [К5](candidates.md#k5), [К7](candidates.md#k7)–[К14](candidates.md#k14) сохранены. Коды RI-S относятся только к происхождению из HTML.
+Из 50 сценариев HTML 7 встроены в 6 карточек, остальные 43 описаны в [дополнительных ситуациях](retail-investors-cases.md). Названия ниже являются указателем, полные описания хранятся по ссылкам. Номера исходных рабочих ситуаций 1–26 сохранены. Коды RI-S относятся только к происхождению из HTML.
 
 ### 01. Цель и деньги
 
 | Сценарий | Основное описание | Связь |
 |---|---|---|
-| RI-S01. Связать инвестиции с жизненной целью | [Новая ситуация](retail-investors-cases.md#ri-s01) | [Ситуация 19](participant-cases.md#client-cash-plan), [К13](candidates.md#k13) |
+| RI-S01. Связать инвестиции с жизненной целью | [Новая ситуация](retail-investors-cases.md#ri-s01) | [Ситуация 19](participant-cases.md#client-cash-plan)|
 | RI-S02. Сравнить инвестицию с резервом и погашением долга | [Новая ситуация](retail-investors-cases.md#ri-s02) | [Ситуация 19](participant-cases.md#client-cash-plan) |
 | RI-S03. Определить личные ограничения риска | [Новая ситуация](retail-investors-cases.md#ri-s03) | [Ситуация 21](participant-cases.md#client-trade-preview) |
 
@@ -57,27 +57,27 @@
 |---|---|---|
 | RI-S04. Выбрать брокера для конкретных задач | [Новая ситуация](retail-investors-cases.md#ri-s04) | [Ситуация 12](participant-cases.md#access) |
 | RI-S05. Открыть брокерский счёт | [Новая ситуация](retail-investors-cases.md#ri-s05) | [Ситуация 12](participant-cases.md#access) |
-| RI-S06. Выбрать тип счёта и проверить последствия | [Новая ситуация](retail-investors-cases.md#ri-s06) | [К11](candidates.md#k11) |
+| RI-S06. Выбрать тип счёта и проверить последствия | [Новая ситуация](retail-investors-cases.md#ri-s06) | Отдельная связь не указана |
 | RI-S07. Настроить основной и запасной интерфейс доступа | [Новая ситуация](retail-investors-cases.md#ri-s07) | [Ситуация 14](participant-cases.md#systems) |
-| RI-S08. Разобраться в сложном инструменте перед тестированием | [Новая ситуация](retail-investors-cases.md#ri-s08) | [Ситуация 12](participant-cases.md#access), [К7](candidates.md#k7) |
+| RI-S08. Разобраться в сложном инструменте перед тестированием | [Новая ситуация](retail-investors-cases.md#ri-s08) | [Ситуация 12](participant-cases.md#access)|
 
 ### 03. Пополнение и размещение денег
 
 | Сценарий | Основное описание | Связь |
 |---|---|---|
-| RI-S09. Внести первую сумму и проверить её зачисление | [Новая ситуация](retail-investors-cases.md#ri-s09) | [К10](candidates.md#k10) |
-| RI-S10. Настроить регулярное пополнение | [Новая ситуация](retail-investors-cases.md#ri-s10) | [Ситуация 19](participant-cases.md#client-cash-plan), [К13](candidates.md#k13) |
+| RI-S09. Внести первую сумму и проверить её зачисление | [Новая ситуация](retail-investors-cases.md#ri-s09) | Отдельная связь не указана |
+| RI-S10. Настроить регулярное пополнение | [Новая ситуация](retail-investors-cases.md#ri-s10) | [Ситуация 19](participant-cases.md#client-cash-plan)|
 | RI-S11. Разместить временно свободные деньги | [Новая ситуация](retail-investors-cases.md#ri-s11) | [Ситуация 19](participant-cases.md#client-cash-plan) |
 
 ### 04. Поиск и проверка
 
 | Сценарий | Основное описание | Связь |
 |---|---|---|
-| RI-S12. Сохранить и отфильтровать новую инвестиционную идею | [Новая ситуация](retail-investors-cases.md#ri-s12) | [К5](candidates.md#k5) |
-| RI-S13. Проверить достоверность инвестиционного сообщения | [Действующая карточка](candidates.md#ri-s13) | [К5](candidates.md#k5) |
+| RI-S12. Сохранить и отфильтровать новую инвестиционную идею | [Новая ситуация](retail-investors-cases.md#ri-s12) | Отдельная связь не указана |
+| RI-S13. Проверить достоверность инвестиционного сообщения | [Действующая карточка](retail-investors-cases.md#ri-s13) | Отдельная связь не указана |
 | RI-S14. Выделить значимые для своего портфеля события | [Новая ситуация](retail-investors-cases.md#ri-s14) | [Ситуация 18](participant-cases.md#client-news-context) |
-| RI-S15. Разобрать отчётность компании перед покупкой акции | [Новая ситуация](retail-investors-cases.md#ri-s15) | [Ситуация 2](participant-cases.md#disclosure), [К8](candidates.md#k8) |
-| RI-S16. Проверить дивидендную идею | [Новая ситуация](retail-investors-cases.md#ri-s16) | [К3](candidates.md#k3) |
+| RI-S15. Разобрать отчётность компании перед покупкой акции | [Новая ситуация](retail-investors-cases.md#ri-s15) | [Ситуация 2](participant-cases.md#disclosure)|
+| RI-S16. Проверить дивидендную идею | [Новая ситуация](retail-investors-cases.md#ri-s16) | Отдельная связь не указана |
 | RI-S17. Проверить кредитный риск облигации | [Новая ситуация](retail-investors-cases.md#ri-s17) | [Ситуация 20](participant-cases.md#client-instrument-explanation) |
 | RI-S18. Сопоставить условия выпусков облигаций | [Действующая карточка](participant-cases.md#ri-s18) | [Ситуация 1](participant-cases.md#bonds) |
 | RI-S19. Выбрать фонд по задаче и издержкам | [Новая ситуация](retail-investors-cases.md#ri-s19) | [Ситуация 9](participant-cases.md#fund-redemption) |
@@ -87,7 +87,7 @@
 
 | Сценарий | Основное описание | Связь |
 |---|---|---|
-| RI-S21. Принять решение об участии в IPO | [Новая ситуация](retail-investors-cases.md#ri-s21) | [К5](candidates.md#k5), [К3](candidates.md#k3) |
+| RI-S21. Принять решение об участии в IPO | [Новая ситуация](retail-investors-cases.md#ri-s21) | Отдельная связь не указана |
 | RI-S22. Выбрать готовую стратегию или сопровождение | [Новая ситуация](retail-investors-cases.md#ri-s22) | [Ситуация 25](participant-cases.md#client-robot-execution) |
 
 ### 06. Подготовка сделки
@@ -112,31 +112,31 @@
 | RI-S28. Подготовиться к окончанию фьючерсной позиции | [Новая ситуация](retail-investors-cases.md#ri-s28) | [Ситуация 25](participant-cases.md#client-robot-execution) |
 | RI-S29. Реагировать на неожиданную новость | [Действующая карточка](participant-cases.md#ri-s29) | [Ситуация 18](participant-cases.md#client-news-context) |
 | RI-S30. Проверить портфель и осознанно ничего не менять | [Новая ситуация](retail-investors-cases.md#ri-s30) | [Ситуация 17](participant-cases.md#client-portfolio-explanation) |
-| RI-S31. Проверить поступление купона или дивиденда | [Действующая карточка](candidates.md#ri-s31) | [К10](candidates.md#k10) |
-| RI-S32. Выбрать действие по оферте облигации | [Действующая карточка](candidates.md#ri-s32) | [К3](candidates.md#k3) |
-| RI-S33. Разобрать погашение или нарушение выплаты по облигации | [Новая ситуация](retail-investors-cases.md#ri-s33) | [К10](candidates.md#k10) |
+| RI-S31. Проверить поступление купона или дивиденда | [Действующая карточка](retail-investors-cases.md#ri-s31) | Отдельная связь не указана |
+| RI-S32. Выбрать действие по оферте облигации | [Действующая карточка](retail-investors-cases.md#ri-s32) | Отдельная связь не указана |
+| RI-S33. Разобрать погашение или нарушение выплаты по облигации | [Новая ситуация](retail-investors-cases.md#ri-s33) | Отдельная связь не указана |
 
 ### 09. Пересмотр решения
 
 | Сценарий | Основное описание | Связь |
 |---|---|---|
-| RI-S34. Вернуть портфель к собственным целевым долям | [Новая ситуация](retail-investors-cases.md#ri-s34) | [Ситуация 3](participant-cases.md#portfolio), [К3](candidates.md#k3) |
-| RI-S35. Пересмотреть позицию при просадке | [Новая ситуация](retail-investors-cases.md#ri-s35) | [К3](candidates.md#k3) |
+| RI-S34. Вернуть портфель к собственным целевым долям | [Новая ситуация](retail-investors-cases.md#ri-s34) | [Ситуация 3](participant-cases.md#portfolio)|
+| RI-S35. Пересмотреть позицию при просадке | [Новая ситуация](retail-investors-cases.md#ri-s35) | Отдельная связь не указана |
 | RI-S36. Оценить действующую готовую стратегию и отключиться | [Новая ситуация](retail-investors-cases.md#ri-s36) | [Ситуация 26](participant-cases.md#client-robot-control) |
 
 ### 10. Учёт и обучение
 
 | Сценарий | Основное описание | Связь |
 |---|---|---|
-| RI-S37. Разобрать собственные решения и результат периода | [Новая ситуация](retail-investors-cases.md#ri-s37) | [Ситуация 17](participant-cases.md#client-portfolio-explanation), [К7](candidates.md#k7) |
-| RI-S38. Сверить брокерский отчёт с интерфейсом и банковскими операциями | [Действующая карточка](candidates.md#ri-s38) | [К10](candidates.md#k10) |
+| RI-S37. Разобрать собственные решения и результат периода | [Новая ситуация](retail-investors-cases.md#ri-s37) | [Ситуация 17](participant-cases.md#client-portfolio-explanation)|
+| RI-S38. Сверить брокерский отчёт с интерфейсом и банковскими операциями | [Действующая карточка](retail-investors-cases.md#ri-s38) | Отдельная связь не указана |
 
 ### 11. Налоги
 
 | Сценарий | Основное описание | Связь |
 |---|---|---|
-| RI-S39. Подготовить сведения для налоговой сверки между брокерами | [Действующая карточка](candidates.md#ri-s39) | [К11](candidates.md#k11) |
-| RI-S40. Проверить и подтвердить инвестиционный налоговый вычет | [Новая ситуация](retail-investors-cases.md#ri-s40) | [К11](candidates.md#k11) |
+| RI-S39. Подготовить сведения для налоговой сверки между брокерами | [Действующая карточка](retail-investors-cases.md#ri-s39) | Отдельная связь не указана |
+| RI-S40. Проверить и подтвердить инвестиционный налоговый вычет | [Новая ситуация](retail-investors-cases.md#ri-s40) | Отдельная связь не указана |
 
 ### 12. Выход и обслуживание
 
@@ -145,7 +145,7 @@
 | RI-S41. Подготовить плановый вывод денег | [Действующая карточка](participant-cases.md#ri-s41) | [Ситуация 19](participant-cases.md#client-cash-plan) |
 | RI-S42. Получить деньги при внезапной потребности | [Действующая карточка](participant-cases.md#ri-s42) | [Ситуация 19](participant-cases.md#client-cash-plan) |
 | RI-S43. Перевести бумаги между брокерами | [Новая ситуация](retail-investors-cases.md#ri-s43) | [Ситуация 16](participant-cases.md#matching) |
-| RI-S44. Обратиться в поддержку с конкретным исключением | [Новая ситуация](retail-investors-cases.md#ri-s44) | [К10](candidates.md#k10), [ситуация 6](participant-cases.md#payment) |
+| RI-S44. Обратиться в поддержку с конкретным исключением | [Новая ситуация](retail-investors-cases.md#ri-s44) |  [ситуация 6](participant-cases.md#payment) |
 
 ### 13. Уход и возвращение
 
@@ -158,15 +158,15 @@
 
 | Сценарий | Основное описание | Связь |
 |---|---|---|
-| RI-S47. Настроить собственный инструмент через API | [Новая ситуация](retail-investors-cases.md#ri-s47) | [Ситуация 14](participant-cases.md#systems), [К12](candidates.md#k12) |
+| RI-S47. Настроить собственный инструмент через API | [Новая ситуация](retail-investors-cases.md#ri-s47) | [Ситуация 14](participant-cases.md#systems)|
 
 ### 15. Отдельные жизненные ветки
 
 | Сценарий | Основное описание | Связь |
 |---|---|---|
 | RI-S48. Получить унаследованные ценные бумаги | [Новая ситуация](retail-investors-cases.md#ri-s48) | [Ситуация 5](participant-cases.md#corporate-action) |
-| RI-S49. Разобрать инвестиции через зарубежную инфраструктуру | [Новая ситуация](retail-investors-cases.md#ri-s49) | [К11](candidates.md#k11) |
-| RI-S50. Различить прямые криптоактивы и биржевую экспозицию | [Новая ситуация](retail-investors-cases.md#ri-s50) | [К14](candidates.md#k14) |
+| RI-S49. Разобрать инвестиции через зарубежную инфраструктуру | [Новая ситуация](retail-investors-cases.md#ri-s49) | Отдельная связь не указана |
+| RI-S50. Различить прямые криптоактивы и биржевую экспозицию | [Новая ситуация](retail-investors-cases.md#ri-s50) | Отдельная связь не указана |
 
 ## Границы похожих ситуаций
 

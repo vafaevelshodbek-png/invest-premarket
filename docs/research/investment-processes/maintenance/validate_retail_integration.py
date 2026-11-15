@@ -65,8 +65,8 @@ check(sum(s['used_in_report'] for s in parser.sources) == 48, 'Expected 48 repor
 check({m['id'] for m in mapping['scenarios']} == scenario_ids, 'Mapping does not cover source IDs')
 check(len(mapping['scenarios']) == 50, 'Mapping contains duplicate scenario rows')
 check({m['id'] for m in mapping['sources']} == source_ids, 'Source mapping does not cover registry')
-check(sum(m['decision'] == 'Объединён' for m in mapping['scenarios']) == 12, 'Expected 12 merged IDs')
-check(sum(m['decision'] == 'Добавлен' for m in mapping['scenarios']) == 38, 'Expected 38 new IDs')
+check(sum(m['decision'] == 'Объединён' for m in mapping['scenarios']) == 7, 'Expected 7 merged IDs')
+check(sum(m['decision'] == 'Добавлен' for m in mapping['scenarios']) == 43, 'Expected 43 separate IDs')
 
 texts = {p: p.read_text(encoding='utf-8') for p in ROOT.rglob('*.md') if '.git' not in p.parts}
 
@@ -142,7 +142,7 @@ changed.update(git('ls-files', '--others', '--exclude-standard').splitlines())
 checked_links = 0
 for rel in sorted(changed):
     path = (ROOT / rel).resolve()
-    if path.suffix != '.md' or 'archive' in path.parts:
+    if path.suffix != '.md' or 'archive' in path.parts or not path.exists():
         continue
     text = texts[path]
     for match in re.finditer(r'\[[^\]\n]*\]\(([^\s)]+)\)', text):
@@ -166,17 +166,16 @@ for rel in sorted(changed):
 ctx = json.loads((ROOT / '.agents/context.json').read_text(encoding='utf-8'))
 entry = ctx['research_results']['retail_investors_cjm']
 check(entry['source_scenario_count'] == 50 and entry['source_count'] == 51, 'Context counts mismatch')
-check(entry['status'] == 'in_review' and 'accepted_pr' not in entry, 'Unaccepted material marked accepted')
+check(entry['status'] == 'published' and entry['merged_pr'] == 61, 'CJM publication pointer mismatch')
 for key in ['overview','mapping','archive','publication_package']:
     check((ROOT / entry[key]).is_file(), f'Missing context pointer: {key}')
 for pointer in entry['details']:
     check((ROOT/pointer).is_file(), f'Missing detail pointer: {pointer}')
-candidate_titles = re.findall(r'^## К(\d+)\.', texts[P/'candidates.md'], re.M)
-check(candidate_titles == ['3','5','7','8','9','10','11','12','13','14'], 'Candidate set or order changed')
+check(not (P/'candidates.md').exists(), 'Withdrawn shortlist is still present')
 for name in ['retail-investors-summary.md','retail-investors-cjm.md','retail-investors-analysis.md','retail-investors-cases.md','retail-investors-sources.md']:
     check('—' not in texts[P/name], f'Long dash in active document: {name}')
 
-result = {'source_scenarios':50, 'merged':12, 'new':38, 'source_records':51,
+result = {'source_scenarios':50, 'merged':7, 'new':43, 'source_records':51,
           'report_sources':len(report_ids), 'reused_source_urls':sum(bool(s['existing_locations']) for s in mapping['sources']),
           'primary_scenario_anchors':sum(primary_counts.values()), 'local_links_checked':checked_links,
           'changed_markdown_files':sum(p.endswith('.md') for p in changed), 'errors':errors}
