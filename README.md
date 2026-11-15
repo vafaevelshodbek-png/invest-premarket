@@ -26,3 +26,6 @@
 ## Для агентов
 
 [Правила](AGENTS.md) и [указатель результатов](.agents/context.json).
+
+
+[Состояние работ, фактические даты и текущий план](docs/product-discovery/work-status.md).

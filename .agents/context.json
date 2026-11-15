@@ -337,7 +337,10 @@
     "source": "Start date и Target date в Project",
     "note": "Задачи одного дня выполняются в порядке Blocked by, часовые оценки не заданы",
     "team_target": "2026-11-15",
-    "deadline_source": "Перенос с 11 на 18 ноября сообщили организаторы, передано участником команды 11 ноября 2026 года. Сверить на платформе"
+    "deadline_source": "Перенос с 11 на 18 ноября сообщили организаторы, передано участником команды 11 ноября 2026 года. Сверить на платформе",
+    "current_plan": "docs/product-discovery/work-status.md",
+    "updated_at": "2026-11-15",
+    "date_semantics": "Done research: earliest evidenced publication through current accepted revision; pending: plan; unknown organization completion left blank"
   },
   "research_results": {
     "product_formats": {
