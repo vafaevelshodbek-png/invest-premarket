@@ -10,3 +10,6 @@
 | Следующая работа | [Сформировать новые варианты](https://github.com/vafaevelshodbek-png/invest-premarket/issues/18), [выбрать продукт](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2) |
 
 [Ранние предложения и черновики](../archive/product-proposals-2026-11-15/README.md) хранятся отдельно. Их публикация не подтверждает спрос или выбор команды.
+
+
+[Состояние работ, фактические даты и текущий план](work-status.md).
