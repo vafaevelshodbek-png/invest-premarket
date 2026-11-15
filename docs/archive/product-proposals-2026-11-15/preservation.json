@@ -1,0 +1,47 @@
+[
+  {
+    "original": "docs/product-discovery/README.md",
+    "archive": "docs/archive/product-proposals-2026-11-15/product-discovery/README.md",
+    "sha256": "8ee462ed3582551459bd01ce9aa029c2933aab98a3b04ca821767c24b47b5974"
+  },
+  {
+    "original": "docs/product-discovery/roadmap.md",
+    "archive": "docs/archive/product-proposals-2026-11-15/product-discovery/roadmap.md",
+    "sha256": "e00ba4adc890a3f78fd2a5ff4526ec1fe96e65d8364275f32c8030591ac4ba95"
+  },
+  {
+    "original": "docs/product-discovery/iterations/2026-11-14-z/application.md",
+    "archive": "docs/archive/product-proposals-2026-11-15/product-discovery/iterations/2026-11-14-z/application.md",
+    "sha256": "fc51b7fb48c7038718a57cd4599a2994ab64327397ce2b5b5191e14124842b94"
+  },
+  {
+    "original": "docs/product-discovery/iterations/2026-11-14-z/concept.md",
+    "archive": "docs/archive/product-proposals-2026-11-15/product-discovery/iterations/2026-11-14-z/concept.md",
+    "sha256": "aae99737140de07e34447e5850a79e970d11702ed0f05f34ecfe495ae8f9ad3c"
+  },
+  {
+    "original": "docs/product-discovery/iterations/2026-11-14-z/evaluation.md",
+    "archive": "docs/archive/product-proposals-2026-11-15/product-discovery/iterations/2026-11-14-z/evaluation.md",
+    "sha256": "44c9dc85c149a6fa19d5d40141efe6b0f25638136257d06428ef8ac8dc1cb77a"
+  },
+  {
+    "original": "docs/product-discovery/iterations/2026-11-14-z/ideas.md",
+    "archive": "docs/archive/product-proposals-2026-11-15/product-discovery/iterations/2026-11-14-z/ideas.md",
+    "sha256": "3780e8e50abf76ef505bdbd6baf57f3b9dd62ad6b1cf5e662f90e9da66496bc9"
+  },
+  {
+    "original": "docs/product-discovery/iterations/2026-11-14-z/README.md",
+    "archive": "docs/archive/product-proposals-2026-11-15/product-discovery/iterations/2026-11-14-z/README.md",
+    "sha256": "14910d1be92798859d38a1766a3a571436eaba22e8e3250dabe96d9effaad804"
+  },
+  {
+    "original": "docs/product-discovery/iterations/2026-11-14-z/system.md",
+    "archive": "docs/archive/product-proposals-2026-11-15/product-discovery/iterations/2026-11-14-z/system.md",
+    "sha256": "3f7c7e7fcfb315abf88e945e6d5a1d562b2dd44d53a5c3e5e1bd41617cbd5620"
+  },
+  {
+    "original": "docs/research/hackathon-fit/README.md",
+    "archive": "docs/archive/product-proposals-2026-11-15/hackathon-fit/README.md",
+    "sha256": "865f52746f3eda7510b9429e91ed3c163ef5602706f5a7a5d95120953cd6c534"
+  }
+]

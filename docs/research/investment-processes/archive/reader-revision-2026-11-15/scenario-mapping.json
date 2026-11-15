@@ -1,0 +1,340 @@
+{
+  "new_scenarios": [
+    {
+      "original_id": "S01",
+      "canonical_anchor": "ri-s01",
+      "primary_home": "Цель и доступные деньги"
+    },
+    {
+      "original_id": "S02",
+      "canonical_anchor": "ri-s02",
+      "primary_home": "Цель и доступные деньги"
+    },
+    {
+      "original_id": "S03",
+      "canonical_anchor": "ri-s03",
+      "primary_home": "Цель и доступные деньги"
+    },
+    {
+      "original_id": "S04",
+      "canonical_anchor": "ri-s04",
+      "primary_home": "Посредник, счёт и доступ"
+    },
+    {
+      "original_id": "S05",
+      "canonical_anchor": "ri-s05",
+      "primary_home": "Посредник, счёт и доступ"
+    },
+    {
+      "original_id": "S06",
+      "canonical_anchor": "ri-s06",
+      "primary_home": "Посредник, счёт и доступ"
+    },
+    {
+      "original_id": "S07",
+      "canonical_anchor": "ri-s07",
+      "primary_home": "Посредник, счёт и доступ"
+    },
+    {
+      "original_id": "S08",
+      "canonical_anchor": "ri-s08",
+      "primary_home": "Посредник, счёт и доступ"
+    },
+    {
+      "original_id": "S09",
+      "canonical_anchor": "ri-s09",
+      "primary_home": "Пополнение и размещение свободных денег"
+    },
+    {
+      "original_id": "S10",
+      "canonical_anchor": "ri-s10",
+      "primary_home": "Пополнение и размещение свободных денег"
+    },
+    {
+      "original_id": "S11",
+      "canonical_anchor": "ri-s11",
+      "primary_home": "Пополнение и размещение свободных денег"
+    },
+    {
+      "original_id": "S12",
+      "canonical_anchor": "ri-s12",
+      "primary_home": "Поиск идеи и проверка инструмента"
+    },
+    {
+      "original_id": "S13",
+      "canonical_anchor": "ri-s13",
+      "primary_home": "Поиск идеи и проверка инструмента"
+    },
+    {
+      "original_id": "S14",
+      "canonical_anchor": "ri-s14",
+      "primary_home": "Поиск идеи и проверка инструмента"
+    },
+    {
+      "original_id": "S15",
+      "canonical_anchor": "ri-s15",
+      "primary_home": "Поиск идеи и проверка инструмента"
+    },
+    {
+      "original_id": "S16",
+      "canonical_anchor": "ri-s16",
+      "primary_home": "Поиск идеи и проверка инструмента"
+    },
+    {
+      "original_id": "S17",
+      "canonical_anchor": "ri-s17",
+      "primary_home": "Поиск идеи и проверка инструмента"
+    },
+    {
+      "original_id": "S18",
+      "canonical_anchor": "ri-s18",
+      "primary_home": "Поиск идеи и проверка инструмента"
+    },
+    {
+      "original_id": "S19",
+      "canonical_anchor": "ri-s19",
+      "primary_home": "Поиск идеи и проверка инструмента"
+    },
+    {
+      "original_id": "S20",
+      "canonical_anchor": "ri-s20",
+      "primary_home": "Поиск идеи и проверка инструмента"
+    },
+    {
+      "original_id": "S21",
+      "canonical_anchor": "ri-s21",
+      "primary_home": "Выбор способа входа"
+    },
+    {
+      "original_id": "S22",
+      "canonical_anchor": "ri-s22",
+      "primary_home": "Выбор способа входа"
+    },
+    {
+      "original_id": "S23",
+      "canonical_anchor": "ri-s23",
+      "primary_home": "Подготовка действия"
+    },
+    {
+      "original_id": "S24",
+      "canonical_anchor": "ri-s24",
+      "primary_home": "Подготовка действия"
+    },
+    {
+      "original_id": "S25",
+      "canonical_anchor": "ri-s25",
+      "primary_home": "Исполнение и контроль открытых обязательств"
+    },
+    {
+      "original_id": "S26",
+      "canonical_anchor": "ri-s26",
+      "primary_home": "Исполнение и контроль открытых обязательств"
+    },
+    {
+      "original_id": "S27",
+      "canonical_anchor": "ri-s27",
+      "primary_home": "Исполнение и контроль открытых обязательств"
+    },
+    {
+      "original_id": "S28",
+      "canonical_anchor": "ri-s28",
+      "primary_home": "Исполнение и контроль открытых обязательств"
+    },
+    {
+      "original_id": "S29",
+      "canonical_anchor": "ri-s29",
+      "primary_home": "Удержание, события и права"
+    },
+    {
+      "original_id": "S30",
+      "canonical_anchor": "ri-s30",
+      "primary_home": "Удержание, события и права"
+    },
+    {
+      "original_id": "S31",
+      "canonical_anchor": "ri-s31",
+      "primary_home": "Удержание, события и права"
+    },
+    {
+      "original_id": "S32",
+      "canonical_anchor": "ri-s32",
+      "primary_home": "Удержание, события и права"
+    },
+    {
+      "original_id": "S33",
+      "canonical_anchor": "ri-s33",
+      "primary_home": "Удержание, события и права"
+    },
+    {
+      "original_id": "S34",
+      "canonical_anchor": "ri-s34",
+      "primary_home": "Пересмотр позиции и стратегии"
+    },
+    {
+      "original_id": "S35",
+      "canonical_anchor": "ri-s35",
+      "primary_home": "Пересмотр позиции и стратегии"
+    },
+    {
+      "original_id": "S36",
+      "canonical_anchor": "ri-s36",
+      "primary_home": "Пересмотр позиции и стратегии"
+    },
+    {
+      "original_id": "S37",
+      "canonical_anchor": "ri-s37",
+      "primary_home": "Проверка результата и учёт"
+    },
+    {
+      "original_id": "S38",
+      "canonical_anchor": "ri-s38",
+      "primary_home": "Проверка результата и учёт"
+    },
+    {
+      "original_id": "S39",
+      "canonical_anchor": "ri-s39",
+      "primary_home": "Налоги"
+    },
+    {
+      "original_id": "S40",
+      "canonical_anchor": "ri-s40",
+      "primary_home": "Налоги"
+    },
+    {
+      "original_id": "S41",
+      "canonical_anchor": "ri-s41",
+      "primary_home": "Получение денег и перевод активов"
+    },
+    {
+      "original_id": "S42",
+      "canonical_anchor": "ri-s42",
+      "primary_home": "Получение денег и перевод активов"
+    },
+    {
+      "original_id": "S43",
+      "canonical_anchor": "ri-s43",
+      "primary_home": "Получение денег и перевод активов"
+    },
+    {
+      "original_id": "S44",
+      "canonical_anchor": "ri-s44",
+      "primary_home": "Сквозная помощь и собственные инструменты"
+    },
+    {
+      "original_id": "S45",
+      "canonical_anchor": "ri-s45",
+      "primary_home": "Пауза и возвращение"
+    },
+    {
+      "original_id": "S46",
+      "canonical_anchor": "ri-s46",
+      "primary_home": "Пауза и возвращение"
+    },
+    {
+      "original_id": "S47",
+      "canonical_anchor": "ri-s47",
+      "primary_home": "Сквозная помощь и собственные инструменты"
+    },
+    {
+      "original_id": "S48",
+      "canonical_anchor": "ri-s48",
+      "primary_home": "Особые условия владения"
+    },
+    {
+      "original_id": "S49",
+      "canonical_anchor": "ri-s49",
+      "primary_home": "Особые условия владения"
+    },
+    {
+      "original_id": "S50",
+      "canonical_anchor": "ri-s50",
+      "primary_home": "Особые условия владения"
+    }
+  ],
+  "old_client_scenarios": [
+    {
+      "legacy_case": 1,
+      "legacy_anchor": "bonds",
+      "canonical_scenario": 18,
+      "disposition": "merged"
+    },
+    {
+      "legacy_case": 18,
+      "legacy_anchor": "client-news-context",
+      "canonical_scenario": 29,
+      "disposition": "merged"
+    },
+    {
+      "legacy_case": 19,
+      "legacy_anchor": "client-cash-plan",
+      "canonical_scenario": 41,
+      "disposition": "merged"
+    },
+    {
+      "legacy_case": 21,
+      "legacy_anchor": "client-trade-preview",
+      "canonical_scenario": 23,
+      "disposition": "merged"
+    },
+    {
+      "legacy_case": 22,
+      "legacy_anchor": "client-conversational-order",
+      "canonical_scenario": 24,
+      "disposition": "merged"
+    },
+    {
+      "legacy_case": 26,
+      "legacy_anchor": "client-robot-control",
+      "canonical_scenario": 36,
+      "disposition": "merged"
+    },
+    {
+      "legacy_case": 20,
+      "legacy_anchor": "client-instrument-explanation",
+      "canonical_scenario": 51,
+      "disposition": "distinct task retained"
+    },
+    {
+      "legacy_case": 17,
+      "legacy_anchor": "client-portfolio-explanation",
+      "canonical_scenario": 52,
+      "disposition": "distinct task retained"
+    },
+    {
+      "legacy_case": 23,
+      "legacy_anchor": "client-guided-practice",
+      "canonical_scenario": 53,
+      "disposition": "distinct task retained"
+    },
+    {
+      "legacy_case": 24,
+      "legacy_anchor": "client-strategy-builder",
+      "canonical_scenario": 54,
+      "disposition": "distinct task retained"
+    },
+    {
+      "legacy_case": 25,
+      "legacy_anchor": "client-robot-execution",
+      "canonical_scenario": 55,
+      "disposition": "distinct task retained"
+    }
+  ],
+  "staff_archived": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "total_canonical": 55
+}

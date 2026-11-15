@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "GB01",
+    "name": "Robinhood Cortex и Digests",
+    "country": "США",
+    "segment": "B2C, брокерское приложение",
+    "status": "Доступно; Portfolio Digests поэтапно",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Cortex Assistant: начало 2026; точная дата неизвестна",
+    "ai_type": "Генеративный диалоговый AI",
+    "model_disclosure": "Название и версия модели в пользовательской справке не раскрыты",
+    "use_case": "Понять движение бумаг/портфеля и подготовить действие",
+    "features": [
+      "Диалог о портфеле, исследование бумаг, скрининг, подготовка заявки, сводки по активам и портфелю"
+    ],
+    "access": "Подписка Gold: $5 в месяц. Приложение Robinhood. Портфельные сводки не охватывают IRA.",
+    "limitations": "Cortex не использует открытый веб-поиск и обсуждения X/Reddit. Подготовленную заявку отправляет пользователь. Портфельные сводки вводятся постепенно.",
+    "sources": [
+      "https://robinhood.com/us/en/support/articles/cortex/",
+      "https://robinhood.com/us/en/support/articles/cortex-digests/",
+      "https://robinhood.com/us/en/careers/blog/loop-stays-dumb-so-the-model-can-be-smart/"
+    ],
+    "page": "brokers.md#gb01"
+  },
+  {
+    "id": "GB02",
+    "name": "Robinhood Agents и Agent Apps",
+    "country": "США",
+    "segment": "B2C, агент внутри брокерского приложения",
+    "status": "Поэтапный запуск; Agent Loops пока coming soon",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Анонс 29 сентября 2026; поэтапный запуск с конца сентября",
+    "ai_type": "LLM-агент с инструментами",
+    "model_disclosure": "Выбор сторонних LLM, модели меняются",
+    "use_case": "Исследовать и торговать через персонального агента",
+    "features": [
+      "Агент внутри приложения, память, готовые навыки, графики и таблицы, списки наблюдения и торговые заявки. Отдельный счёт с выделенными средствами."
+    ],
+    "access": "Полная версия только в мобильном приложении. Доступ получают постепенно. Диалоги оплачиваются токенами, дополнительные источники данных имеют отдельные подписки.",
+    "limitations": "У встроенных Robinhood Agents подтверждение сделок включено по умолчанию, у внешних MCP-счетов выключено. Настройка меняется, некоторые сделки всё равно требуют согласия. Агент торгует выделенным счётом. Loops по расписанию пока анонсированы.",
+    "sources": [
+      "https://robinhood.com/us/en/support/articles/robinhood-agents-overview/",
+      "https://robinhood.com/us/en/agents/",
+      "https://robinhood.com/newsroom/hood-summit-2026/",
+      "https://robinhood.com/us/en/support/articles/trading-with-your-agent/"
+    ],
+    "page": "brokers.md#gb02"
+  },
+  {
+    "id": "GB03",
+    "name": "Webull Vega и Vega Analyst",
+    "country": "США; региональные условия различаются",
+    "segment": "B2C, брокерское приложение",
+    "status": "Доступно; отдельные новые возможности раскатываются",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Vega: конец 2025; Analyst: май 2026",
+    "ai_type": "Генеративный AI/LLM плюс количественные модули",
+    "model_disclosure": "Конкретная модель неизвестна",
+    "use_case": "Разобрать рынок, опционные данные, портфель и компанию",
+    "features": [
+      "Сводки рынка и списка наблюдения, разбор портфеля и опционной активности, исследовательские отчёты с источниками, подготовка заявки из обычной речи."
+    ],
+    "access": "Основной Vega бесплатен для американских клиентов по публикации от 20 августа 2026 года. Vega Analyst использует платные кредиты; часть отчётов бесплатна.",
+    "limitations": "Доступ и тарифы различаются по регионам и модулям. При подготовке заявки пользователь проверяет условия перед отправкой. Рекламное описание автоматизации не подтверждает автономность каждой функции.",
+    "sources": [
+      "https://www.webull.com/vega",
+      "https://www.webull.com/blog/251-Inside-Webull-s-AI-ToolkitEvery-AI-Feature-You-Can-Actually-Use-Right-Now",
+      "https://www.webull.com/ai-features",
+      "https://www.webull.com.sg/policy?code=TERMS_OF_SERVICE&hl=en",
+      "https://www.sec.gov/Archives/edgar/data/1866364/000121390025113140/ea026489601ex99-1_webull.htm"
+    ],
+    "page": "brokers.md#gb03"
+  },
+  {
+    "id": "GB04",
+    "name": "Public Alpha и Research в Agents",
+    "country": "США",
+    "segment": "B2C, брокерское приложение",
+    "status": "Доступно; Alpha описана в старой FAQ, новый акцент на Agents",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Alpha в мае 2023; документация Research Agents от 30 июля 2026",
+    "ai_type": "Генеративная LLM и агенты с контекстом портфеля",
+    "model_disclosure": "GPT-4 подтвержден для Alpha; актуальная модель Research Agents не названа",
+    "use_case": "Ответить на вопросы о бумагах и собственных позициях; проверить сценарий перед сделкой",
+    "features": [
+      "Вопросы по отчётности, звонкам компаний и рынку; анализ собственных позиций и концентрации; сравнение компаний и разбор будущей сделки."
+    ],
+    "access": "Alpha бесплатна по действующей FAQ и доступна в приложении и браузере. Условия новых Agents нужно проверять отдельно.",
+    "limitations": "GPT-4 раскрыт для Alpha; модель новых Research Agents неизвестна. Подтверждения закрытия Alpha нет. Ответы являются материалом для исследования, без гарантии точности.",
+    "sources": [
+      "https://help.public.com/en/articles/9354354-what-is-alpha",
+      "https://public.com/about-us",
+      "https://public.com/ai-agents/research",
+      "https://public.com/mcp-trading"
+    ],
+    "page": "brokers.md#gb04"
+  },
+  {
+    "id": "GB05",
+    "name": "Public Generated Assets",
+    "country": "США",
+    "segment": "B2C, инвестируемые корзины акций",
+    "status": "Доступно; crypto/bonds expansion coming soon",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точная дата запуска не установлена",
+    "ai_type": "Многоагентный генеративный AI",
+    "model_disclosure": "Названия базовых моделей не раскрыты",
+    "use_case": "Превратить инвестиционную гипотезу в собственный индекс",
+    "features": [
+      "Отбор акций по текстовому описанию, объяснение состава, историческое тестирование, изменение весов и покупка индекса через брокерский счёт."
+    ],
+    "access": "Аккаунт Public. Точный текущий тариф не установлен.",
+    "limitations": "Создаётся собственный индекс акций, а не отдельный зарегистрированный ETF. Исторические результаты гипотетические. Облигации и криптоактивы в этом модуле пока анонсированы.",
+    "sources": [
+      "https://public.com/generated-asset"
+    ],
+    "page": "brokers.md#gb05"
+  },
+  {
+    "id": "GB06",
+    "name": "eToro Tori",
+    "country": "Израиль/глобальный брокер; доступ зависит от юрисдикции",
+    "segment": "B2C, брокерское приложение",
+    "status": "Доступно; новый app поэтапно",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Первый этап в 2025; перезапуск 16 апреля 2026; обновление приложения в октябре 2026",
+    "ai_type": "Диалоговый LLM-агент",
+    "model_disclosure": "Grok 4.2 явно раскрыт",
+    "use_case": "Контекст портфеля, рыночные события и Agent Portfolio в диалоге",
+    "features": [
+      "Память о разговорах, предпочтениях и позициях; текущие обсуждения рынка из X; анализ портфеля; создание и управление Agent Portfolio."
+    ],
+    "access": "Встроен в eToro. Новое приложение вводится постепенно; etoro AI является временным названием обновления. Единые условия по всем странам не установлены.",
+    "limitations": "Набор функций зависит от страны и этапа запуска. Обсуждения в X не равнозначны проверенным фактам. Доказательств улучшения доходности нет.",
+    "sources": [
+      "https://www.etoro.com/trading/platforms/tori/",
+      "https://www.etoro.com/news-and-analysis/press-releases/etoros-ai-investing-companion-tori-gets-real-time-x-intelligence-powered-by-grok-4-2/",
+      "https://help.etoro.com/s/article/Introducing-the-new-etoro-app?language=en_GB",
+      "https://www.etoro.com/en-us/news-and-analysis/latest-news/press-release/etoro-leverages-ai-to-redefine-social-investing/"
+    ],
+    "page": "brokers.md#gb06"
+  },
+  {
+    "id": "GB07",
+    "name": "Moomoo AI и API Skills",
+    "country": "США/Канада/Япония и другие рынки Futu",
+    "segment": "B2C, брокерское приложение",
+    "status": "Доступно; локальные варианты",
+    "status_as_of": "2026-11-15",
+    "launch_date": "AI: 2025; API Skills 2026-04-23",
+    "ai_type": "LLM-помощник и подключение внешних агентов через API",
+    "model_disclosure": "LLM подтверждён; конкретная модель не раскрыта",
+    "use_case": "Собрать данные рынка, новости/отчётность и вопросы по акциям",
+    "features": [
+      "Диалог по акциям и рынку, ежедневные и еженедельные сводки, пересказ раскрытий, поиск бумаг и информации. Через API Skills подключаются внешние агенты."
+    ],
+    "access": "Приложение и версия для компьютера. В Канаде предусмотрено ограниченное число бесплатных обращений. Условия других регионов отличаются.",
+    "limitations": "Ассистент не видит установленную оценку склонности к риску. Прогнозные модули Pattern Finder и Trend Projection нельзя автоматически считать LLM-функциями.",
+    "sources": [
+      "https://invest.us.moomoo.com/ai",
+      "https://www.moomoo.com/ca/feature/ai-trading",
+      "https://www.moomoo.com/us/newsroom/moomooapiskills",
+      "https://ir.futuholdings.com/static-files/2c9ec7c9-cdb5-463d-99d1-f0e353dbeae3"
+    ],
+    "page": "brokers.md#gb07"
+  },
+  {
+    "id": "GB08",
+    "name": "Futubull AI Expert Mode и AI Algo Trading",
+    "country": "Гонконг",
+    "segment": "B2C, брокерское приложение",
+    "status": "Запуск подтверждён компанией",
+    "status_as_of": "2026-11-15",
+    "launch_date": "AI: 2025; Expert Mode 2026-07-16",
+    "ai_type": "Встроенный генеративный агент и создание стратегий без кода",
+    "model_disclosure": "Собственный агент; базовая LLM не названа",
+    "use_case": "Полный путь исследования, стратегии и исполнения",
+    "features": [
+      "Глубокое исследование в диалоге, заявки на акции, опционы и ETF обычным языком; создание, тестирование и запуск торговых стратегий без кода."
+    ],
+    "access": "Платформа Futubull. Текущий тариф и доступность конкретному счёту не установлены.",
+    "limitations": "Возможности гонконгского Futubull не означают тот же набор функций у Moomoo во всех странах. Независимой оценки качества нет.",
+    "sources": [
+      "https://www.futuhk.com/en/about-us/newsroom/futu-announces-q2-2026-results",
+      "https://www.prnewswire.com/apac/news-releases/futu-unveils-major-ai-upgrade-making-professional-agentic-investing-accessible-to-all-seize-the-next-rally-with-futu-ai-302827112.html",
+      "https://ir.futuholdings.com/static-files/2c9ec7c9-cdb5-463d-99d1-f0e353dbeae3"
+    ],
+    "page": "brokers.md#gb08"
+  },
+  {
+    "id": "GB09",
+    "name": "TigerAI, ранее TigerGPT",
+    "country": "Сингапур/другие рынки Tiger Brokers",
+    "segment": "B2C, брокерское приложение",
+    "status": "Доступно; имена TigerGPT/TigerAI сосуществуют в источниках",
+    "status_as_of": "2026-11-15",
+    "launch_date": "TigerGPT апрель 2023; TigerAI 2024; DeepSeek 2025-02-18",
+    "ai_type": "Инвестиционный LLM-помощник",
+    "model_disclosure": "В ранней версии раскрыт OpenAI; в феврале 2025 интегрирован DeepSeek-R1. Текущий набор моделей не раскрыт",
+    "use_case": "Разобрать акцию, новость, портфель и вопрос об опционах",
+    "features": [
+      "Анализ позиций и списка наблюдения, объяснение движения акций и отчётности, ежедневный портфельный отчёт, специализированные агенты."
+    ],
+    "access": "Приложение Tiger Trade. Единый текущий тариф и полный список стран не установлены.",
+    "limitations": "TigerAI продолжает TigerGPT; это одна продуктовая линия. Текущая комбинация моделей неизвестна. TradingFront AI для управляющих активами относится к B2B.",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1756699/000119312526174855/tigr-20251231.htm",
+      "https://www.prnewswire.com/apac/news-releases/tigergpt-pioneering-deepseek-integration-for-ai-chatbot-upgrading-smart-investment-assistance-302378677.html",
+      "https://www.itiger.com/about/app/update"
+    ],
+    "page": "brokers.md#gb09"
+  },
+  {
+    "id": "GB10",
+    "name": "Interactive Brokers: Ask IBKR, AI Integration, Autonomous Trading",
+    "country": "США/глобально с исключениями",
+    "segment": "B2C, брокерское приложение и внешние агенты",
+    "status": "Ask IBKR и AI Integration доступны; Autonomous Trading объявлен и документирован с ограничениями",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Интеграция Claude с 1 июня 2026; Autonomous Trading представлен 21 октября 2026; дата первого выпуска Ask IBKR неизвестна",
+    "ai_type": "Встроенная портфельная аналитика с AI и внешние LLM-агенты",
+    "model_disclosure": "Модель Ask IBKR не названа. Внешние подключения: Claude, ChatGPT, Grok и Perplexity; Gemini заявлен как будущий",
+    "use_case": "Проанализировать позиции и подготовить или исполнить действие по счёту",
+    "features": [
+      "Вопросы о портфеле, экспозициях и денежных потоках, новости и скринеры; внешние LLM через MCP; инструкции для подтверждения клиентом; автономные заявки в выделенном разделе счёта."
+    ],
+    "access": "Ask IBKR: Client Portal и IBKR Desktop. Подключение внешнего AI без дополнительной платы брокеру; расходы на данные и AI могут сохраняться. Autonomous требует подходящего индивидуального немаржинального счёта и выполнения условий допуска.",
+    "limitations": "Обычная интеграция требует подтверждения каждой заявки. Официальные страницы расходятся по географии Autonomous, включая Великобританию; доступ нужно проверять для конкретного счёта. FAQ отдельно исключает автономную торговлю через ChatGPT на октябрь 2026 года. Размер AI Partition ограничен, детальные лимиты размера и частоты заявок пока планируются.",
+    "sources": [
+      "https://www.interactivebrokers.com/en/trading/ai-hub.php",
+      "https://www.interactivebrokers.com/en/general/about/mediaRelations/6-1-26.php",
+      "https://www.interactivebrokers.com/en/general/about/mediaRelations/10-21-26.php",
+      "https://www.interactivebrokers.com/en/trading/ai-integrations.php",
+      "https://www.interactivebrokers.com/support/faq/content/connecting-ibkr-account-ai-platform-1437187133"
+    ],
+    "page": "brokers.md#gb10"
+  },
+  {
+    "id": "GB11",
+    "name": "RockFlow Bobby",
+    "country": "Международный retail-сервис; точная карта доступа неизвестна",
+    "segment": "B2C, брокерское приложение",
+    "status": "Доступен по действующей инструкции",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Не позднее мая 2025; точная дата неизвестна",
+    "ai_type": "Агент, сочетающий LLM и заданные рабочие сценарии",
+    "model_disclosure": "Применение LLM подтверждено интервью основателя; конкретная модель не раскрыта",
+    "use_case": "Исследование и стратегии с исполнением из чата",
+    "features": [
+      "Голосовой и текстовый анализ рынка и позиций, заявки и условные поручения, опционные комбинации, создание портфеля."
+    ],
+    "access": "Приложение RockFlow. Текущий тариф и точная карта доступности неизвестны.",
+    "limitations": "Операционные инструкции требуют повторного подтверждения. Интервью основателя описывает архитектуру, но не является независимым испытанием эффективности.",
+    "sources": [
+      "https://help.rockflow.ai/docs/innvative-products/rockflow-bobby/",
+      "https://kr-asia.com/rockflows-bobby-is-an-ai-agent-that-trades-on-your-worldview-and-its-here"
+    ],
+    "page": "brokers.md#gb11"
+  },
+  {
+    "id": "GB12",
+    "name": "Charles Schwab: Portfolio Insights, Charley, MCP",
+    "country": "США",
+    "segment": "B2C, брокерское приложение и пилот внешнего подключения",
+    "status": "Insights доступно; Charley rollout; MCP ограниченный пилот",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Portfolio Insights 5 мая 2026; анонс Charley 30 сентября; пилот MCP 12 ноября 2026",
+    "ai_type": "Генеративный AI/LLM",
+    "model_disclosure": "Для Charley подтверждена LLM без названия; MCP-пилот использует Claude",
+    "use_case": "Объяснить изменение портфеля, получить информацию и перейти к действию через диалог",
+    "features": [
+      "Сводки портфеля и новостей с комментариями аналитиков; разговор с Charley; подключение Claude к данным, исследованию и торговым действиям."
+    ],
+    "access": "Подходящие розничные клиенты США. Charley вводится постепенно. MCP доступен выбранным участникам пилота; торговые действия требуют счёта с доступом к thinkorswim.",
+    "limitations": "thinkorswim Assistant на 12 ноября 2026 года ещё ожидается. Пилот MCP не является общедоступной функцией. Покрытие Portfolio Insights расширено относительно первоначальных акций S&P 500.",
+    "sources": [
+      "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Charles-Schwab-Launches-AI-Powered-Capability-That-Helps-Investors-Understand-Portfolio-Performance-and-Market-Activity/default.aspx",
+      "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Meet-Charley-Schwabs-New-AI-Powered-Assistant-Designed-to-Help-Clients-Get-Answers-and-Take-Action/default.aspx",
+      "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Announces-Platform-Enhancements-Including-MCP-Server-to-Connect-Clients-AI-Platforms-With-Their-Schwab-Accounts/default.aspx"
+    ],
+    "page": "brokers.md#gb12"
+  },
+  {
+    "id": "GB13",
+    "name": "SaxoInvestor AI Assistant",
+    "country": "Дания, международная платформа; для клиентов Великобритании подтверждён английский язык",
+    "segment": "B2C, брокерское приложение",
+    "status": "Доступен только в новом SaxoInvestor",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Дата первого запуска неизвестна; справка обновлена 22 октября 2026",
+    "ai_type": "Диалоговый AI",
+    "model_disclosure": "Техническое семейство и название модели не раскрыты",
+    "use_case": "Вопросы по портфелю, инструментам и подготовка заявки",
+    "features": [
+      "Позиции, операции, дивиденды, расходы и результаты; поиск инструментов, списки наблюдения, ценовые уведомления и заполнение торговой заявки."
+    ],
+    "access": "Только новый SaxoInvestor. На других платформах Saxo помощник пока отсутствует. Для клиентов Великобритании указан английский. Отдельный тариф неизвестен.",
+    "limitations": "Помощник не отправляет заявку: это делает клиент. Персональные инвестиционные рекомендации и оценка пригодности стратегии исключены. Техническое семейство модели не раскрыто.",
+    "sources": [
+      "https://www.help.saxo/hc/en-us/articles/39490128562589-Using-the-AI-Assistant-in-the-new-SaxoInvestor"
+    ],
+    "page": "brokers.md#gb13"
+  },
+  {
+    "id": "GB14",
+    "name": "Groww GR-1 и Groww MCP",
+    "country": "Индия",
+    "segment": "B2C, брокерское приложение и внешнее подключение",
+    "status": "GR-1 встроен и доступен; расширяется покрытие",
+    "status_as_of": "2026-11-15",
+    "launch_date": "MCP представлен 4 августа 2025; GR-1 beta в феврале 2026, описание запуска от 23 октября 2026",
+    "ai_type": "Встроенный диалоговый AI и внешняя LLM через MCP",
+    "model_disclosure": "Модель GR1 неизвестна; Claude4Sonnet лишь рекомендация для MCP",
+    "use_case": "Понять движение акций, оценку фондов и собственный портфель",
+    "features": [
+      "Вопросы с учётом портфеля и новостей, объясняющие карточки по акциям, разбор фондов MF Prime, уведомления, списки наблюдения и подготовка заявки."
+    ],
+    "access": "Приложение Groww. Карточки GR-1 охватывают 750 акций с дальнейшим расширением; функции фондов связаны с MF Prime. MCP ограничен акциями и срочными инструментами, часть функций требует разрешений и подписки на внешний AI.",
+    "limitations": "GR-1 не исполняет заявки автоматически и требует явного подтверждения. Рекомендация Claude для MCP не раскрывает модель GR-1. Покрытие карточек ещё не охватывает все акции.",
+    "sources": [
+      "https://groww.in/updates/gr-1-ai-investing-assistant-groww",
+      "https://groww.in/updates/groww-mcp"
+    ],
+    "page": "brokers.md#gb14"
+  },
+  {
+    "id": "GB15",
+    "name": "Zerodha Kite MCP",
+    "country": "Индия",
+    "segment": "B2C, внешняя интеграция с брокерским счётом",
+    "status": "Доступная техническая интеграция",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2025-05-20",
+    "ai_type": "Внешняя LLM с доступом к инструментам брокера",
+    "model_disclosure": "Пользователь выбирает модель в совместимом клиенте, например Claude, Cursor или Windsurf",
+    "use_case": "Проанализировать портфель, позиции и рынок в выбранном ИИ-ассистенте",
+    "features": [
+      "Данные маржи, прибыли и убытков, котировок и позиций; анализ портфеля, рыночных экспозиций и опционных позиций через внешний AI."
+    ],
+    "access": "Без дополнительной платы Zerodha. Выбранный сторонний AI может требовать платной подписки.",
+    "limitations": "Основной режим: чтение и анализ. Официальная страница одновременно исключает обычные заявки и упоминает исключение для GTT; универсальная торговля через MCP не подтверждена.",
+    "sources": [
+      "https://zerodha.com/z-connect/general/connect-your-zerodha-account-to-ai-assistants-with-kite-mcp"
+    ],
+    "page": "brokers.md#gb15"
+  },
+  {
+    "id": "GB16",
+    "name": "SoFi Coach",
+    "country": "США",
+    "segment": "B2C, финансовое приложение с брокерскими функциями",
+    "status": "Доступен всем клиентам по текущей странице",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2 июня 2026, сначала для SoFi Plus",
+    "ai_type": "Генеративный финансовый чат",
+    "model_disclosure": "Базовая LLM не раскрыта",
+    "use_case": "Связать инвестиции с денежными потоками, долгами и финансовыми целями",
+    "features": [
+      "Общая картина связанных финансовых счетов, инвестиционные цели и портфель; отдельная карточка подтверждения брокерского поручения в чате."
+    ],
+    "access": "Бесплатно для участников SoFi в приложении по текущей странице. Первоначальный запуск для Plus не отражает нынешний доступ.",
+    "limitations": "Текущие условия предусматривают торговую карточку с обязательным подтверждением точных параметров. Это подготовка поручения, без автономной торговли и персональной рекомендации.",
+    "sources": [
+      "https://investors.sofi.com/news/news-details/2026/Introducing-SoFi-Coach-An-AI-Powered-Financial-Guide-to-Help-Members-Get-Their-Money-Right/default.aspx",
+      "https://www.sofi.com/terms-of-use/",
+      "https://www.sofi.com/is-sofi-coach-safe-and-is-it-worth-it/"
+    ],
+    "page": "brokers.md#gb16"
+  },
+  {
+    "id": "GB17",
+    "name": "Ant Fortune / Alipay Maxiaocai",
+    "country": "Китай",
+    "segment": "B2C, приложение управления личными инвестициями",
+    "status": "Работает; обновление приложения 13 ноября 2026",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Обновлённая публичная версия представлена 2024-09-06; точная дата самого раннего запуска не установлена",
+    "ai_type": "Генеративный финансовый помощник",
+    "model_disclosure": "Собственные фундаментальные модели Ant; точная текущая версия не раскрыта",
+    "use_case": "Объяснить рынок и отчётность, следить за собственными инвестициями",
+    "features": [
+      "Рыночные объяснения и визуальные сводки отчётов; персональный AI-экран с учётом позиций и списка наблюдения; объяснение важных событий."
+    ],
+    "access": "Alipay и Ant Fortune для китайского рынка. Приложение распространяется бесплатно; отдельные продуктовые комиссии и условия AI не установлены.",
+    "limitations": "Старая статистика аудитории не является текущей. Функции размещения сделок этим набором источников не подтверждены. Maxiaocai для частного пользователя нужно отличать от институциональных версий.",
+    "sources": [
+      "https://www.businesswire.com/news/home/20240905719583/en/Ant-Group-Unveils-AI-Financial-Manager-at-Shanghais-INCLUSION-Conference",
+      "https://m.app.mi.com/details?id=com.antfortune.wealth"
+    ],
+    "page": "brokers.md#gb17"
+  },
+  {
+    "id": "GB18",
+    "name": "East Money Miaoxiang",
+    "country": "Китай",
+    "segment": "B2C, брокерская и инвестиционная информационная экосистема",
+    "status": "Работает внутри East Money и как самостоятельное приложение",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точная дата запуска неизвестна; актуальные раскрытия 2026 года",
+    "ai_type": "Финансовая большая языковая модель и приложение",
+    "model_disclosure": "Собственная модель под маркой Miaoxiang; точная базовая версия неизвестна",
+    "use_case": "Разобрать акцию, новости и рынок, найти инструменты под запрос",
+    "features": [
+      "Диалоговые ответы, анализ котировок и новостей, скрининг акций, объяснение финансовых и отраслевых факторов. В 2026 году добавлены MiaoxiangClaw и каталог навыков."
+    ],
+    "access": "Главная страница East Money предлагает бесплатное использование встроенной модели; есть отдельные Miaoxiang и исследовательский помощник. Тарифы расширенных возможностей неизвестны.",
+    "limitations": "Корпоративное раскрытие подтверждает работу в новостях, котировках и списках наблюдения, но не качество рекомендаций. Наличие AI в экосистеме не доказывает автоматическую торговлю или те же функции в Choice Terminal.",
+    "sources": [
+      "https://www.eastmoney.com/",
+      "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491772.PDF",
+      "https://app.meizu.com/apps/public/detail?package_name=com.eastmoney.innovation.android"
+    ],
+    "page": "brokers.md#gb18"
+  },
+  {
+    "id": "R01",
+    "name": "Investing.com / WarrenAI",
+    "country": "Международный сервис",
+    "segment": "B2C аналитика",
+    "status": "Работает; Analyst Mode включён по умолчанию",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2025-04-21; обновление 2026-11",
+    "ai_type": "LLM и многошаговое использование инструментов",
+    "model_disclosure": "Конкретные модели не названы; Senior использует более сильную модель",
+    "use_case": "Сравнение бумаг, поиск идей, анализ отчётности и графиков",
+    "features": [
+      "Analyst Mode строит план и использует 14 инструментов данных; до 10 циклов на сложный вопрос",
+      "Senior Analyst Mode углубляет открытые вопросы",
+      "Учитывает watchlist и текущую страницу",
+      "Chart Analysis строит текстовый разбор, уровни входа, stop-loss и цели"
+    ],
+    "access": "Оба режима доступны бесплатным аккаунтам и подписчикам; отличаются кредитные лимиты. Analyst 1 кредит, график 5, Senior по объёму работы.",
+    "limitations": "Вычисленные самой системой показатели пока не имеют отдельной ссылки рядом с числом. Watchlist не равен подтверждённому подключению брокерского портфеля. Автоисполнение сделок не подтверждено.",
+    "sources": [
+      "https://www.investing-support.com/hc/en-us/articles/51200196137361-WarrenAI-Analyst-Mode-FAQ",
+      "https://www.investing-support.com/hc/en-us/articles/40397093047313-WarrenAI-Powered-Chart-Analysis-FAQ",
+      "https://pro.investing-support.com/hc/en-us/articles/33818002194065-WarrenAI-Frequently-Asked-Questions",
+      "https://www.prnewswire.com/news-releases/investingcom-launches-warrenai---a-cutting-edge-ai-driven-financial-researcher-302430711.html"
+    ],
+    "page": "research-services.md#r01"
+  },
+  {
+    "id": "R02",
+    "name": "Seeking Alpha / Ask SA и Virtual Analyst",
+    "country": "США / международная аудитория",
+    "segment": "B2C аналитика",
+    "status": "Работает; справка и демонстрации функций",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Ask SA и расширение функций представлены в 2025; точная дата первого запуска Virtual Analyst здесь не устанавливается",
+    "ai_type": "Генеративный поиск и синтез исследований",
+    "model_disclosure": "Поставщик и версия LLM не раскрыты в просмотренной справке",
+    "use_case": "Поиск компаний по условиям и сбор аналитических аргументов",
+    "features": [
+      "Чат по финансовым данным, Quant ratings, факторным и дивидендным оценкам и публикациям Seeking Alpha",
+      "Сравнение компаний и поиск инвестиционных идей",
+      "Virtual Analyst объединяет описание бизнеса, конкурентов, оценки и аргументы авторов",
+      "В ноябрьском обновлении добавлены длительность Quant-рейтинга и поиск идей ведущих авторов"
+    ],
+    "access": "В официальных демонстрациях Ask SA включён в PRO. Нельзя переносить это на все действующие тарифы без проверки конкретной подписки.",
+    "limitations": "Quant-рейтинг и LLM-объяснение являются разными компонентами. Контент ограничен корпусом платформы; его наличие не доказывает точность тезиса.",
+    "sources": [
+      "https://help.seekingalpha.com/what-is-ask-seeking-alpha-or-ask-sa",
+      "https://seekingalpha.com/article/4829617-introducing-the-cutting-edge-research-analyst-ask-seeking-alpha",
+      "https://seekingalpha.com/article/4846603-new-updates-to-ask-seeking-alpha"
+    ],
+    "page": "research-services.md#r02"
+  },
+  {
+    "id": "R03",
+    "name": "TipRanks / Samuel AI",
+    "country": "Израиль / международный сервис",
+    "segment": "B2C аналитика",
+    "status": "Запущен и встроен в сайт",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Не позднее 2026; точная дата в просмотренной продуктовой статье не указана",
+    "ai_type": "Диалоговый генеративный помощник; AI Chat",
+    "model_disclosure": "Название базовой LLM не раскрыто",
+    "use_case": "Объяснение бумаг и собственного Smart Portfolio",
+    "features": [
+      "AI Chat отвечает по акциям, рынку и портфелю на данных TipRanks",
+      "Portfolio Analyzer выделяет риски и возможности в Smart Portfolio",
+      "Chart Analyzer переводит технические данные в текст",
+      "Использует рейтинги аналитиков, Smart Score, показатели компаний и новости"
+    ],
+    "access": "Встроен в TipRanks, в том числе страницы бумаг и Smart Portfolio. Точные лимиты чата и тариф не подтверждены просмотренными страницами.",
+    "limitations": "Smart Score и AI-объяснение являются разными компонентами. Автоматическое исполнение сделок не подтверждено.",
+    "sources": [
+      "https://www.tipranks.com/news/labs/meet-samuel-your-personal-investing-prophet",
+      "https://www.tipranks.com/news/labs/tipranks-introduces-samuel-ai-chat-for-smarter-investment-decisions"
+    ],
+    "page": "research-services.md#r03"
+  },
+  {
+    "id": "R04",
+    "name": "Magnifi by TIFIN",
+    "country": "США",
+    "segment": "B2C портфель",
+    "status": "Работает; действующие продукт и тарифы",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Диалоговая работа с подключёнными счетами с 2023",
+    "ai_type": "Генеративный интерфейс с портфельной аналитикой",
+    "model_disclosure": "Базовая модель не раскрыта; generative AI подтверждён TIFIN",
+    "use_case": "Разобраться в совокупном портфеле нескольких брокеров",
+    "features": [
+      "Агрегация счетов и оценка концентрации и пересечения экспозиций",
+      "Вопросы о комиссиях, секторах, рисках и целях",
+      "Premium добавляет сценарии и оценку влияния изменения позиции",
+      "Еженедельные обзоры и подключение premium research"
+    ],
+    "access": "Free $0; Premium $99 в год на открытой тарифной странице. Подключение зависит от поддерживаемых финансовых организаций; торговая доступность определяется отдельно.",
+    "limitations": "Стресс-сценарий и прогноз зависят от расчётных допущений. Старые FAQ с иными тарифами не следует считать актуальными. Основной раскрытый сценарий связан с рынком США.",
+    "sources": [
+      "https://magnifi.com/product",
+      "https://magnifi.com/pricing",
+      "https://www.prnewswire.com/news-releases/magnifi-now-providing-ai-powered-investment-intelligence-on-over-2b-of-linked-self-directed-assets-302183080.html"
+    ],
+    "page": "research-services.md#r04"
+  },
+  {
+    "id": "R05",
+    "name": "Composer by SoFi",
+    "country": "США",
+    "segment": "B2C стратегии",
+    "status": "Работает; интеграция в SoFi развивается",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Create with AI документирован в 2025; Composer by SoFi представлен 2026-06-23",
+    "ai_type": "LLM создаёт правила стратегии; исполнение по утверждённым правилам",
+    "model_disclosure": "Справка Create with AI от 2025-06-27 называет GPT-4; текущая модель новой версии не подтверждена",
+    "use_case": "Перевести инвестиционную идею в тестируемую и исполняемую стратегию",
+    "features": [
+      "Описание идеи обычным языком и уточнение параметров",
+      "Генерация редактируемой symphony",
+      "Бэктест и риск-статистика до активации",
+      "Автоматические сделки и ребалансировка по заданным правилам"
+    ],
+    "access": "Приложение Composer, планы Starter/Advanced/Pro с токенными лимитами; брокерская доступность и тариф проверяются для клиента. Расширение через SoFi Plus заявлено как дальнейшее развитие.",
+    "limitations": "LLM не обязана заново решать, что покупать, при каждом исполнении. SoFi явно описывает rules-based execution. Бэктест не является фактической доходностью. Полная интеграция в SoFi не равна уже объявленному запуску Composer by SoFi.",
+    "sources": [
+      "https://investors.sofi.com/news/news-details/2026/Introducing-Composer-by-SoFi-AI-Powered-Investing-From-Idea-to-Execution/",
+      "https://help.composer.trade/article/254-what-is-trade-with-ai",
+      "https://help.composer.trade/article/108-create-with-ai"
+    ],
+    "page": "research-services.md#r05"
+  },
+  {
+    "id": "R06",
+    "name": "Fiscal.ai, ранее FinChat",
+    "country": "Канада / международный сервис",
+    "segment": "B2C/prosumer исследовательский терминал",
+    "status": "Terminal и MCP работают; актуальный встроенный чат отдельно не подтверждён",
+    "status_as_of": "2026-11-15",
+    "launch_date": "FinChat 2023; ребрендинг 2025",
+    "ai_type": "Финансовые данные и инструменты для внешних LLM через MCP",
+    "model_disclosure": "Во внешнем сценарии модель выбирается в Claude/ChatGPT и других клиентах",
+    "use_case": "Исследование финансовых показателей и работа с источниками в ИИ-клиенте",
+    "features": [
+      "Веб-терминал с financials, KPI, сегментами, transcripts и документами",
+      "MCP передаёт структурированные данные внешнему ассистенту",
+      "Возможность строить модели и таблицы с переходом к исходному filing",
+      "Тарифы для individual investors подтверждены продуктовой страницей"
+    ],
+    "access": "Terminal Pro $49/мес или $39/мес при годовой оплате; Max $99 или $79. У Terminal и API/MCP отдельные права доступа. Платный API/MCP требует отдельной подписки; документация также допускает ограниченный бесплатный уровень MCP. В действующей FAQ указан 7-дневный пробный период с картой.",
+    "limitations": "Подтверждена передача данных внешним моделям через MCP; наличие нынешнего встроенного чата отдельно не установлено. Котировки задержаны на 15 минут или до конца дня в зависимости от рынка.",
+    "sources": [
+      "https://fiscal.ai/products/terminal/",
+      "https://fiscal.ai/help/",
+      "https://docs.fiscal.ai/docs/guides/mcp-integration",
+      "https://fiscal.ai/blog/series-a-announcement/"
+    ],
+    "page": "research-services.md#r06"
+  },
+  {
+    "id": "R07",
+    "name": "Perplexity Finance / Personal CFO",
+    "country": "США / международный сервис",
+    "segment": "B2C анализ и портфель",
+    "status": "Работает; Personal CFO расширен 2026-11-12",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Дата первого запуска Finance здесь не устанавливается; Personal CFO расширен 2026-11-12",
+    "ai_type": "LLM-поиск и агентный анализ с подключёнными финансовыми данными",
+    "model_disclosure": "Мультимодельная платформа; конкретная модель зависит от режима",
+    "use_case": "Сопоставить рыночный контекст с собственными счетами и активами",
+    "features": [
+      "Finance объединяет котировки, новости, earnings и исследования",
+      "Personal CFO использует счета через Plaid в режиме чтения",
+      "На Pro/Max Computer создаёт таблицы, финансовые модели, трекеры, дашборды и приложения",
+      "В ноябре добавлены Carta и Vezgo; подключения лицензированных баз данных оформляются отдельно"
+    ],
+    "access": "Plaid доступен на компьютере авторизованным пользователям США, Канады и поддерживаемых стран Европы. Стандартные аккаунты могут связать портфель, пользоваться базовой страницей Portfolio и задавать вопросы. Продвинутые функции Computer требуют Pro или Max. Лицензии профессиональных данных подключаются отдельно на собственных правах.",
+    "limitations": "Брокерское подключение Plaid read-only. Публичный Finance и профессиональные licensed datasets не являются одной бесплатной подпиской. Доступность в России этими источниками не подтверждена.",
+    "sources": [
+      "https://www.perplexity.ai/en-GB/hub/blog/plaid-integration-provides-full-view-of-personal-finances",
+      "https://www.perplexity.ai/finance",
+      "https://www.perplexity.ai/en-GB/hub/blog/computer-connects-to-20-new-licensed-finance-data-sources"
+    ],
+    "page": "research-services.md#r07"
+  },
+  {
+    "id": "R08",
+    "name": "Quartr mobile / AI Chat",
+    "country": "Швеция / международный сервис",
+    "segment": "B2C исследование документов",
+    "status": "Работает бесплатно на mobile",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2025-10-28 мобильный AI Chat",
+    "ai_type": "Генеративный диалог по первичным IR-материалам",
+    "model_disclosure": "Базовая LLM не раскрыта на просмотренной странице",
+    "use_case": "Найти изменение позиции менеджмента и факты в отчётах и звонках",
+    "features": [
+      "Вопросы по earnings calls, transcripts, filings и презентациям",
+      "Ссылки на точную страницу исходного документа",
+      "Сравнение формулировок, KPI и guidance по периодам",
+      "Чат синхронизируется с профессиональным Quartr Pro"
+    ],
+    "access": "Мобильное приложение iOS/Android бесплатно; Quartr Pro и Automations являются отдельным профессиональным продуктом.",
+    "limitations": "Фокус на раскрытиях компаний, не на брокерском счёте или исполнении сделок. Ответ по документу не подтверждает истинность прогноза менеджмента.",
+    "sources": [
+      "https://quartr.com/newsroom/press-release/quartr-launches-its-ai-chat-for-finance-on-mobile-drawing-exclusively-from-first-party-ir-material",
+      "https://quartr.com/products/mobile-app"
+    ],
+    "page": "research-services.md#r08"
+  },
+  {
+    "id": "R09",
+    "name": "Google Finance / AI Research",
+    "country": "США / международный сервис",
+    "segment": "B2C финансовый портал",
+    "status": "Новая версия вышла из beta; веб и Android доступны в поддерживаемой географии",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Новая AI-версия 2025; выход из beta 2026-06-25",
+    "ai_type": "Генеративный research и фоновые задания",
+    "model_disclosure": "Конкретная версия модели не названа в июньском релизе",
+    "use_case": "Задать вопрос о портфеле и регулярно получать нужный рыночный обзор",
+    "features": [
+      "Портфель можно создать загрузкой CSV/PDF, скриншота или описания",
+      "Вопросы о распределении активов и секторах",
+      "Планируемые пользователем исследования по расписанию с контекстом watchlist/портфеля",
+      "AI key moments объясняют движение бумаги"
+    ],
+    "access": "Для полного AI research нужен Google Account. Android-приложение поддерживает исследование, графики, новости, watchlists и портфель. Tasks и deep search пока только в веб-версии; iOS обозначен как coming soon. Россия в опубликованном списке стран не указана.",
+    "limitations": "Портфель загружается или вводится пользователем; прямое подключение к брокеру с чтением и торговыми правами не подтверждено. Набор функций различается между вебом и Android. Заявление о глобальном запуске в июне следует читать вместе с текущим списком доступных стран.",
+    "sources": [
+      "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "https://support.google.com/websearch/answer/16490185?hl=en"
+    ],
+    "page": "research-services.md#r09"
+  },
+  {
+    "id": "R10",
+    "name": "Yahoo Finance / Yahoo Scout",
+    "country": "США",
+    "segment": "B2C финансовый портал",
+    "status": "Работает; Scout вышел из beta 2026-11-10",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-01-27 Scout; Ask Yahoo Scout в Finance 2026-06-03",
+    "ai_type": "Генеративный контекстный поиск и объяснения",
+    "model_disclosure": "Yahoo объявляет партнёрство с Anthropic; версия модели не зафиксирована",
+    "use_case": "Понять движение бумаги и задать уточнение прямо на странице",
+    "features": [
+      "Analysis by Yahoo Scout собирает новости, аналитические рейтинги, финансовые данные и earnings",
+      "Вопросы внутри новостей и страниц котировок",
+      "Ноябрьский релиз описывает контекстную работу рядом с портфелем",
+      "Ответы со ссылками на Yahoo и открытый веб"
+    ],
+    "access": "Релиз 10.11.2026 указывает новую Yahoo Search в вебе для США, Великобритании, Европы и Швейцарии; отдельное приложение Scout доступно в США. Scout Everywhere встроен в Finance, но география именно этой функции отдельно не раскрыта. Июньский Ask был открыт всем пользователям на выбранных страницах.",
+    "limitations": "Показ портфельного ответа не означает управление брокерскими активами. Выход Scout из beta подтверждён в ноябре; отдельные поверхности могут раскатываться постепенно.",
+    "sources": [
+      "https://unified.www.yahooinc.com/press/introducing-yahoo-scout-a-new-ai-answer-engine",
+      "https://www.yahooinc.com/press/yahoo-sports-and-yahoo-finance-introduce-new-ai-answer-experiences-powered-by-yahoo-scout",
+      "https://unified.www.yahooinc.com/press/after-delivering-more-than-3-billion-answers-yahoo-scout-exits-beta-to-underpin-all-of-yahoo-search"
+    ],
+    "page": "research-services.md#r10"
+  },
+  {
+    "id": "R11",
+    "name": "AInvest / AIME",
+    "country": "США / международный сервис",
+    "segment": "B2C аналитика",
+    "status": "Документально подтверждён; текущие лимиты и полнота доступа не установлены",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Не позднее 2024",
+    "ai_type": "Диалоговый ИИ с собственной моделью в закрытой среде",
+    "model_disclosure": "Собственная закрытая AI-модель, базовая LLM не названа",
+    "use_case": "Диалоговый анализ рынка и бэктест торговой идеи",
+    "features": [
+      "Чат с рыночными данными, портфельными insights и обучением",
+      "Условия сервиса прямо перечисляют backtests и price alerts"
+    ],
+    "access": "Публичные условия описывают бесплатный, базовый и профессиональный планы. Документ 2024 года не устанавливает актуальные цены и лимиты.",
+    "limitations": "Текущие условия доступа и работоспособность полной версии не установлены. Включён как документированный пример диалогового инвестиционного помощника с меньшей уверенностью в текущем статусе; точная LLM-архитектура не раскрыта.",
+    "sources": [
+      "https://cdn.ainvest.com/agreement/AIME-Terms-of-Use.pdf"
+    ],
+    "page": "research-services.md#r11"
+  },
+  {
+    "id": "RU01",
+    "name": "Т-Инвестиции: AI Инвест-ассистент",
+    "country": "Россия",
+    "segment": "B2C, встроенный брокерский ассистент",
+    "status": "Доступен в приложении Т-Инвестиций",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Публичное тестирование объявлено 21-22 декабря 2023; поэтапное расширение в начале 2024, точная дата общего запуска не раскрыта",
+    "ai_type": "LLM / генеративный диалог",
+    "model_disclosure": "Текущая страница экосистемы раскрывает семейство специализированных языковых моделей Gen-T; точная версия инвест-ассистента неизвестна",
+    "use_case": "Объяснить инструмент, собрать обзор акции и новости, подобрать материалы и инструменты под вопрос",
+    "features": [
+      "Финансовые термины и обучение",
+      "Данные по бумагам и эмитентам, новости, аналитика",
+      "Персональные подборки по предпочтениям запроса",
+      "Чат в приложении; официальный канал также описывает вход из карточки акции"
+    ],
+    "access": "Поставщик указывает бесплатное использование в приложениях Т-Банка; в Т-Инвестициях через раздел Чат. Актуальная доступность зависит от версии приложения",
+    "limitations": "Аналитический чат и отдельная интеграция T-Invest MCP имеют разные права. Торговые возможности MCP не означают, что встроенный ассистент сам исполняет сделки.",
+    "sources": [
+      "https://ai.tbank.ru/assistants/",
+      "https://www.cnews.ru/news/line/2023-12-22_tinkoff_investitsii_zapustili",
+      "https://t.me/s/tb_invest_official/10541"
+    ],
+    "page": "russia.md#ru01"
+  },
+  {
+    "id": "RU02",
+    "name": "T-Invest MCP",
+    "country": "Россия",
+    "segment": "B2C-счёт через внешний LLM-клиент; техническая интеграция",
+    "status": "Доступна официальная техническая интеграция; операции зависят от прав токена",
+    "status_as_of": "2026-11-15",
+    "launch_date": "О широкой доступности после тестирования сообщено 10 сентября 2026; точная дата первого тестового доступа неизвестна",
+    "ai_type": "LLM tool use через MCP; MCP сам по себе не языковая модель",
+    "model_disclosure": "Выбирается пользователем во внешнем совместимом клиенте; единой обязательной LLM брокера нет",
+    "use_case": "Обсудить реальный портфель и поручить выбранному агенту операции по счёту",
+    "features": [
+      "Портфель, позиции и история операций",
+      "Котировки, стаканы, свечи и параметры инструментов",
+      "Дивиденды, купоны и данные по облигациям",
+      "Заявки, стопы, отмена и замена при торговых правах",
+      "Песочница для виртуального счёта"
+    ],
+    "access": "Брокерский API-токен, MCP-совместимый клиент и настройка подключения. Уровни чтение/торговля/переводы; доступна отдельная песочница",
+    "limitations": "Требуется настроить внешний ИИ-клиент. Агент с торговым токеном способен отправить заявку; обязательность подтверждения человеком определяется реализацией клиентского сценария. Отдельный режим чтения позволяет анализировать счёт без торговых прав.",
+    "sources": [
+      "https://habr.com/ru/companies/tbank/articles/1086714/",
+      "https://www.vedomosti.ru/investments/news/2026/09/11/1228241-sber-ii-servis",
+      "https://developer.tbank.ru/invest/mcp"
+    ],
+    "page": "russia.md#ru02"
+  },
+  {
+    "id": "RU03",
+    "name": "БКС Мир инвестиций: помощник Финс",
+    "country": "Россия",
+    "segment": "B2C, встроенный текстовый и голосовой инвестиционный консультант",
+    "status": "Внедрён в приложение БКС Мир инвестиций",
+    "status_as_of": "2026-11-15",
+    "launch_date": "В корпоративном описании указаны этапы iPhone в ноябре 2024 и Android в феврале 2025; точный первый день не раскрыт",
+    "ai_type": "LLM + верифицированная база знаний + сценарная маршрутизация + распознавание речи",
+    "model_disclosure": "LLM используется для генерации ответов; название и версия не раскрыты. Yandex SpeechKit отвечает за голосовой интерфейс и не устанавливает, какая модель генерирует текст.",
+    "use_case": "Получить объяснение инвестиционного продукта, рынка и налогового вопроса с учётом контекста клиента",
+    "features": [
+      "Свободный текстовый и голосовой запрос",
+      "Ответы по инвестициям, продуктам и финансовым вопросам",
+      "Генерация ответа из проверенной базы и данных внутренних систем",
+      "Передача сложного вопроса сотруднику"
+    ],
+    "access": "В приложении БКС Мир инвестиций. Отдельная цена ассистента не раскрыта",
+    "limitations": "Помощник сочетает консультации по инвестиционным продуктам с обслуживанием клиента. Автономное управление счётом этой функцией не подтверждено; для внешних агентов есть отдельный MCP.",
+    "sources": [
+      "https://habr.com/ru/companies/bcs_company/articles/992684/",
+      "https://globalcio.ru/projects/53411/",
+      "https://platforms.su/project/2467"
+    ],
+    "page": "russia.md#ru03"
+  },
+  {
+    "id": "RU04",
+    "name": "БКС Trade API MCP",
+    "country": "Россия",
+    "segment": "B2C-счёт через внешний LLM-клиент; техническая интеграция",
+    "status": "Доступна документация инструментов чтения и торговли",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Август-сентябрь 2026 по независимому обзору; точная дата релиза не подтверждена первичным источником",
+    "ai_type": "Внешняя LLM вызывает брокерские инструменты через MCP",
+    "model_disclosure": "Пользователь выбирает совместимый ИИ-клиент и его модель",
+    "use_case": "Показать реальный портфель, рынок, лимиты и заявки в диалоге; управлять заявками",
+    "features": [
+      "Котировки, стакан, свечи и торговый статус",
+      "Позиции, остатки, маржа и лимиты",
+      "Создание, изменение и отмена заявок при соответствующих правах",
+      "История сделок и неторговых операций"
+    ],
+    "access": "Refresh-токен к одному счёту, действует 90 дней. Документированы Claude Desktop/Code, Cursor, VS Code, ChatGPT Desktop, Qwen Code. Браузерные Claude.ai и ChatGPT временно недоступны по текущей документации",
+    "limitations": "Для торговых действий нужны соответствующие права и явное подтверждение пользователя. Доступность отдельных внешних клиентов ограничена. MCP предоставляет брокерские инструменты, а модель выбирается во внешнем приложении.",
+    "sources": [
+      "https://trade-api.bcs.ru/mcp/",
+      "https://www.bfm.ru/news/617766"
+    ],
+    "page": "russia.md#ru04"
+  },
+  {
+    "id": "RU05",
+    "name": "Финам: MCP FinamTrade, AI-скринера и диагностики портфеля",
+    "country": "Россия",
+    "segment": "B2C и активные трейдеры; внешние LLM-интеграции с брокерской и аналитической инфраструктурой",
+    "status": "Чтение, аналитика и графики доступны; торговля через MCP тестируется",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Линейка из трёх MCP описана 25 октября 2026; 2 ноября подтверждены графики и тестирование торговли. Первый доступ FinamTrade MCP был раньше.",
+    "ai_type": "LLM tool use; финансовые данные и расчёты в описанной линейке готовятся обычными математическими моделями",
+    "model_disclosure": "Внешняя LLM выбирается пользователем. MCP и вычислительный сервис не являются языковой моделью",
+    "use_case": "Проанализировать счёт, найти бумаги по условиям и обсудить диагностику портфеля в привычном ИИ-клиенте",
+    "features": [
+      "Позиции, стоимость, прибыль/убыток, остатки и маржа нескольких счетов",
+      "Watchlist и заметки к инструментам",
+      "История операций и рыночные данные",
+      "Данные AI-скринера и расчёты диагностики/оптимизации",
+      "Интерактивные графики в диалоге"
+    ],
+    "access": "Токен выпускается через FinamTrade; подключается совместимый ИИ-клиент. Для аналитических MCP есть отдельная страница подключения. Цена функций в изученных документах не установлена",
+    "limitations": "Расчётные данные этой линейки готовятся математическими моделями, LLM получает их для анализа и объяснения. Торговля через MCP на 2 ноября ещё тестировалась. Портфельные виджеты и стакан в MCP Apps находятся в планах.",
+    "sources": [
+      "https://www.finam.ru/publications/item/mcp-finama-kotorye-prevrashchayut-vashu-llm-v-lichnogo-analitika-20261025-1200/",
+      "https://broker.finam.ru/landing/mcp/",
+      "https://www.finam.ru/publications/item/chlen-pravleniya-finama-predstavil-finam-mcp-na-smartlab-conf-2026-20261102-1658/",
+      "https://ai.finam.ru/connection-mcp"
+    ],
+    "page": "russia.md#ru05"
+  },
+  {
+    "id": "RU06",
+    "name": "Финуслуги / Московская биржа: FinGPT",
+    "country": "Россия",
+    "segment": "B2C, самостоятельный финансовый и инвестиционный AI-ассистент",
+    "status": "Доступен финансовый и инвестиционный чат",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Инвестиционная версия представлена в 2025; точный день первого запуска неизвестен",
+    "ai_type": "Генеративный финансовый ассистент, мультиагентная архитектура",
+    "model_disclosure": "Лендинг описывает восемь специализированных агентов. Базовая LLM и версия не раскрыты.",
+    "use_case": "Собрать ответ на вопрос о российской бумаге, отчётности, рынке и размещении денег",
+    "features": [
+      "Анализ отчётности и новостей",
+      "Котировки и динамика",
+      "Рыночные и макрообзоры",
+      "Объяснение терминов",
+      "Помощь с распределением активов",
+      "Подбор банковских продуктов Финуслуг"
+    ],
+    "access": "Веб-чат Финуслуг; поставщик также сообщает интеграцию в мобильное приложение. Бесплатно, без подписки и заявленного лимита запросов",
+    "limitations": "Ответы имеют информационный характер и могут содержать ошибки. Исполнение сделок по брокерскому счёту не заявлено. Название FinGPT не означает связь с одноимённым открытым проектом AI4Finance.",
+    "sources": [
+      "https://finuslugi.ru/landing/fingpt",
+      "https://finuslugi.ru/presscenter/pressrelease/letovoii",
+      "https://finuslugi.ru/navigator/investirovat/stat_finansovyj_pomoshchnik_fingpt_revolyuciya_v_investiciyakh_zachem_investoru_nejroset"
+    ],
+    "page": "russia.md#ru06"
+  },
+  {
+    "id": "RU07",
+    "name": "ZipLime: российская версия Финама",
+    "country": "Россия; родственная глобальная платформа Limex, не отдельный независимый мировой продукт",
+    "segment": "B2C и активные трейдеры, конструктор и исполнение торговых стратегий",
+    "status": "Доступны российская платформа и инструкции по созданию, тестированию и запуску стратегий",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Российская инструкция регистрации опубликована 6 июля 2026; официальный релиз о запуске 31 августа 2026",
+    "ai_type": "Генеративный ИИ / агенты переводят текст стратегии в код; бэктест и live-исполнение отдельными программными компонентами",
+    "model_disclosure": "Российский релиз не называет модели. Глобальный лендинг Limex предлагает Claude, GPT, Gemini, DeepSeek; переносить этот набор и тарифы на российскую версию без проверки нельзя",
+    "use_case": "Превратить собственную торговую идею в формальные правила, протестировать и запустить робота",
+    "features": [
+      "Описание стратегии естественным языком",
+      "Агенты формализуют идею, пишут и проверяют код",
+      "Бэктест и показатели стратегии",
+      "Редактирование через чат, блоки или Python",
+      "Запуск через Финам Trade API по российской инструкции"
+    ],
+    "access": "ziplime.finam.ru; регистрация и бесплатный старт заявлены российским релизом. Лимиты бесплатного тарифа и доступ к конкретным рынкам требуют проверки в российской версии",
+    "limitations": "Генерация правил, бэктест и торговое исполнение являются разными этапами. Результат на истории не устанавливает будущую прибыль. У глобального Limex и российской версии могут различаться модели, брокеры и тарифы.",
+    "sources": [
+      "https://www.finam.ru/publications/item/finam-zapuskaet-platformu-ziplime-s-pomoshchyu-kotoroy-algotreyderom-mozhet-stat-kazhdyy-20260831-1642/",
+      "https://www.finam.ru/publications/item/kak-avtomatizirovat-svoyu-strategiyu-za-10-minut-bez-napisaniya-koda-20260706-0900/",
+      "https://ziplime.finam.ru/home",
+      "https://ziplime.limex.com/home"
+    ],
+    "page": "russia.md#ru07"
+  },
+  {
+    "id": "RU08",
+    "name": "Firewire: ИИ-Ко-пилот и риск-офицер портфеля",
+    "country": "Россия; сервис для российских и зарубежных счетов",
+    "segment": "B2C, независимый учёт и анализ инвестиционных портфелей",
+    "status": "Ко-пилот доступен по действующей справке и тарифам",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точная дата запуска неизвестна; справка обновлена 2026-10-28",
+    "ai_type": "GigaChat + ReAct-агент и финансовые инструменты",
+    "model_disclosure": "GigaChat от Сбера. При своём ключе доступны выборы GigaChat-Pro/Max в пределах доступности API; не следует считать перечень неизменным",
+    "use_case": "Обсудить сводный портфель, импортировать брокерский отчёт и проверить концентрацию/выплаты/чувствительность",
+    "features": [
+      "Импорт Excel, CSV и PDF в чат",
+      "Предпросмотр операций и поиск дублей",
+      "Сопоставление с текущими позициями",
+      "Расчёт концентрации HHI и финансовых показателей отдельными инструментами",
+      "Дивидендный календарь и стресс-тесты ключевой ставки",
+      "Веб-поиск по запросу"
+    ],
+    "access": "На ключе платформы в платных тарифах Стартовый/Инвестор/Эксперт с месячным лимитом; собственный ключ GigaChat работает на любом тарифе и оплачивается через аккаунт пользователя",
+    "limitations": "Независимый сервис учёта и анализа портфеля; торговое исполнение не подтверждено. Импорт отчётов требует проверки распознанных операций. Масштаб использования и независимые показатели точности не раскрыты.",
+    "sources": [
+      "https://help.fire-wire.ru/copilot",
+      "https://fire-wire.ru/"
+    ],
+    "page": "russia.md#ru08"
+  },
+  {
+    "id": "RU09",
+    "name": "Финам: Аналитик по облигациям",
+    "country": "Россия",
+    "segment": "B2C, специализированный чат подбора облигаций",
+    "status": "Доступен специализированный AI-чат; LLM-архитектура не раскрыта",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Не позднее 2026-03-31, когда Финам описал применение чата. Точный запуск неизвестен",
+    "ai_type": "AI-чат, LLM-подобная функция; использование конкретной LLM прямо не подтверждено",
+    "model_disclosure": "Название и тип базовой модели неизвестны",
+    "use_case": "Подобрать и сравнить облигации по словесным условиям",
+    "features": [
+      "Свободный запрос",
+      "Готовые запросы под срок, валюту и надёжность",
+      "Сравнение двух облигаций и поиск аналогов"
+    ],
+    "access": "Веб-страница finam.ru/bond/assistant; стоимость и ограничения авторизации не установлены",
+    "limitations": "Финам описывает пример, где чат нарушил условие длинного срока и предложил короткий выпуск. Полученную подборку нужно сверять с исходными условиями. Фильтровый сервис «Облигации-360» является другим инструментом.",
+    "sources": [
+      "https://www.finam.ru/bond/assistant/",
+      "https://www.finam.ru/publications/item/vybiraem-obligatsii-kak-opredelitsya-20260331-1409/"
+    ],
+    "page": "russia.md#ru09"
+  },
+  {
+    "id": "RU10",
+    "name": "СберИнвестиции: Invest AI и доступ внешних ИИ-агентов",
+    "country": "Россия",
+    "segment": "B2C, планируемая аналитика и управление брокерским счётом",
+    "status": "Анонс: Invest AI до конца 2026; внешние агенты с 2027",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-09-11 описание Invest AI; 2026-10-08 описание запуска внешних агентов в 2027",
+    "ai_type": "AI/агентный сценарий в анонсе; архитектура и точная LLM не раскрыты",
+    "model_disclosure": "Базовая модель в конкретных анонсах не названа; принадлежность Сберу сама по себе не подтверждает применение GigaChat",
+    "use_case": "Планируются подборки бумаг по отчётности и новостям; анализ портфеля/истории и выполнение разрешённых поручений внешним агентом",
+    "features": [
+      "Invest AI: подборки на основе отчётности и новостного фона",
+      "С 2027: поэтапное подключение внутренних и внешних агентов к сервисам счёта",
+      "Права чтения и отдельные торговые права",
+      "Отзыв доступа и опция подтверждения сделки",
+      "В перспективе единая цифровая консультация по капиталу"
+    ],
+    "access": "Общедоступный запуск полного описанного сценария на дату среза не подтверждён. Условия и тарифы не раскрыты.",
+    "limitations": "Пока есть заявления о планируемых этапах. Действующая автоматическая аналитика портфеля и налоговые расчёты не подтверждают выпуск полного LLM-консультанта.",
+    "sources": [
+      "https://www.vedomosti.ru/investments/news/2026/09/11/1228241-sber-ii-servis",
+      "https://axenix.cnews.ru/news/line/2026-10-08_k_brokerskomu_schetu_v_sberinvestitsiyah"
+    ],
+    "page": "russia.md#ru10"
+  },
+  {
+    "id": "RU11",
+    "name": "Cbonds MCP Server",
+    "country": "Россия; глобальная финансовая база",
+    "segment": "Профессиональные финансовые данные/API, B2B-сравнение; не массовый B2C-терминал",
+    "status": "MCP описан как запущенный; интеграция с GigaCowork отдельно анонсирована",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Дата первого запуска MCP не раскрыта; договорённость с GigaCowork объявлена 2 октября 2026",
+    "ai_type": "Доступ внешней LLM к структурированным финансовым данным через MCP",
+    "model_disclosure": "Модель выбирает пользователь в совместимом ассистенте; страница перечисляет YandexGPT, ГигаЧат и ChatGPT",
+    "use_case": "Запросить данные облигации и исторические котировки в диалоге вместо ручного запроса API",
+    "features": [
+      "MCP-доступ к базе Cbonds",
+      "Запросы по облигациям естественным языком",
+      "Использование финансовых данных внутри внешнего ИИ-ассистента"
+    ],
+    "access": "Требуется доступ к Cbonds API; стоимость и права уточняются у поставщика. Наличие подписки на сайт само по себе не доказывает доступ к API",
+    "limitations": "Профессиональный поставщик данных, а не массовый розничный торговый терминал. Договорённость об интеграции с GigaCowork не подтверждает её завершение.",
+    "sources": [
+      "https://cbonds.ru/api/",
+      "https://cbonds.ru/news/4114583/"
+    ],
+    "page": "terminals.md#ru11"
+  },
+  {
+    "id": "RU12",
+    "name": "ВТБ Мои Инвестиции: Интеллект",
+    "country": "Россия",
+    "segment": "B2C, инвестиционное консультирование и автоматическое исполнение стратегий; граница LLM-охвата",
+    "status": "Работает; использование LLM не подтверждено",
+    "status_as_of": "2026-11-15",
+    "launch_date": "О запуске ИИ-сервиса сообщалось в декабре 2025; точный первый день неизвестен",
+    "ai_type": "AI/количественная модель: макроданные, цены и технические индикаторы; LLM не раскрыта",
+    "model_disclosure": "В описании стратегии названы макроданные, цены и технические индикаторы; языковая модель не раскрыта",
+    "use_case": "Выбрать стратегию по риск-профилю и автоматически исполнять индивидуальные инвестиционные рекомендации",
+    "features": [
+      "Профилирование и подбор стратегии",
+      "Автоматическое исполнение сделок",
+      "Отдельная стратегия Искусственный интеллект анализирует макроданные, цены и индикаторы"
+    ],
+    "access": "В приложении ВТБ Мои Инвестиции, старт от 10 тыс. рублей по продуктовой странице. Полные комиссии зависят от выбранных условий.",
+    "limitations": "Автоматические сделки и слово «ИИ» не устанавливают использование LLM. В сервисе есть разные стратегии, не все формируются ИИ. Заявленная потенциальная доходность не является фактическим результатом.",
+    "sources": [
+      "https://www.vtb.ru/personal/investicii/intellect/",
+      "https://www.vedomosti.ru/kapital/investments/news/2025/12/15/1163421-investitsii-na-osnove"
+    ],
+    "page": "russia.md#ru12"
+  },
+  {
+    "id": "RU13",
+    "name": "Альфа-Инвестиции: Альфа-Индекс и Индекс AI",
+    "country": "Россия",
+    "segment": "B2C, индикатор сентимента и автоследование; граница LLM-охвата",
+    "status": "Работают индикатор и стратегия; использование LLM не подтверждено",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Инициативы описаны в официальной публикации 2026; точные даты запуска не раскрыты",
+    "ai_type": "AI/анализ сентимента и распределение капитала; конкретная LLM не раскрыта",
+    "model_disclosure": "Конкретная модель и LLM-архитектура не раскрыты",
+    "use_case": "Следить за изменением рыночных настроений и распределять капитал между денежным рынком и акциями",
+    "features": [
+      "Альфа-Индекс оценивает рыночный сентимент",
+      "Индекс AI использует индикатор для автоследования"
+    ],
+    "access": "В контуре Альфа-Инвестиций; подробные условия и цена в изученной публикации не установлены",
+    "limitations": "Подтверждены индикатор настроений и связанная стратегия автоследования. Наличие диалогового LLM-помощника из этого не следует. Независимая оценка заявленного эффекта не представлена.",
+    "sources": [
+      "https://alfabank.ru/alfa-investor/t/ai-v-lichnyh-finansah-i-investitsiyah/"
+    ],
+    "page": "russia.md#ru13"
+  },
+  {
+    "id": "T01",
+    "name": "TradingView AI Copilot",
+    "country": "Международная платформа",
+    "segment": "B2C/prosumer, графическая и торговая платформа",
+    "status": "Доступен как native add-on; прежнее расширение beta более не поддерживается активно",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-04-02 public beta расширения; 2026-09-28 native",
+    "ai_type": "LLM/генеративный ИИ с инструментами платформы",
+    "model_disclosure": "Обновление 09.11.2026 называет DeepSeek V4.1 Flash, GPT-6 Luna, Claude Sonnet 5.5; модель выбирается для чата",
+    "use_case": "Анализ инструмента, настройка рабочего места, скрининг и разработка индикаторов/стратегий",
+    "features": [
+      "Учитывает открытый график и финансовые данные TradingView",
+      "Меняет индикаторы и разметку, создаёт уведомления и списки наблюдения",
+      "Генерирует Pine Script и объясняет результаты бэктеста",
+      "Подбирает инструменты по условиям, заданным обычным языком"
+    ],
+    "access": "Любой платный план Essential/Plus/Premium/Ultimate плюс отдельный ежемесячный add-on; web и desktop; mobile пока не поддерживается",
+    "limitations": "Есть месячный лимит использования; поставщик предупреждает об ошибках. Исполнение брокерских заявок этой справкой не подтверждено. Доступность конкретного российского аккаунта не проверена",
+    "sources": [
+      "https://www.tradingview.com/support/solutions/43000795131-getting-started-with-ai-copilot/",
+      "https://www.tradingview.com/blog/en/ai-copilot-now-on-tradingview-61231/",
+      "https://www.tradingview.com/blog/en/ai-copilot-claude-chatgpt-deepseek-62292/"
+    ],
+    "page": "terminals.md#t01"
+  },
+  {
+    "id": "T02",
+    "name": "TrendSpider Sidekick AI",
+    "country": "США / международная платформа",
+    "segment": "B2C/prosumer, аналитическая и торговая платформа",
+    "status": "Доступен",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точная первоначальная дата не установлена",
+    "ai_type": "Многомодельный LLM-агент с инструментами платформы",
+    "model_disclosure": "Поддерживаются модели Anthropic, OpenAI и Google; доступный набор обновляется и зависит от тарифа",
+    "use_case": "Связать анализ рынка с созданием сканера, индикатора, теста и алерта",
+    "features": [
+      "Исследует графики, финансовые показатели, отчётность и звонки по результатам",
+      "Создаёт и запускает сканеры и бэктесты, пишет индикаторы",
+      "Готовит уведомления и торговых роботов",
+      "Получает данные о позициях через поддерживаемое подключение брокера и SignalStack"
+    ],
+    "access": "25 сообщений в месяц включены в каждую подписку TrendSpider; отдельные Sidekick пакеты Basic $49, Plus $129, Max $349 в месяц добавляют лимиты и модели",
+    "limitations": "Базовая подписка оплачивается отдельно от дополнительных пакетов Sidekick. Доступ к позициям требует поддерживаемого подключения. Бэктест не устанавливает будущую доходность.",
+    "sources": [
+      "https://trendspider.com/product/sidekick-ai-trading-assistant",
+      "https://trendspider.reamaze.com/kb/sidekick/trendspider-sidekick"
+    ],
+    "page": "terminals.md#t02"
+  },
+  {
+    "id": "T03",
+    "name": "MetaTrader 5 AI Assistant и MCP",
+    "country": "Международная платформа через брокеров",
+    "segment": "B2C/prosumer через брокеров; лицензирование платформы B2B",
+    "status": "Встроен в выпущенную desktop-платформу",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-07-24, build 6060; MetaEditor text/code assistant с 2023-06-14",
+    "ai_type": "LLM-агент с доступом к MCP инструментам терминала и MetaEditor",
+    "model_disclosure": "Бесплатная MQL5 lite по умолчанию; доступны собственные ключи моделей OpenAI, Anthropic, Google и других провайдеров",
+    "use_case": "Анализ рынка и счёта, исследование стратегии, разработка MQL5 и операции через инструменты",
+    "features": [
+      "Читает котировки, открытые позиции и торговую историю",
+      "Настраивает графики, тестирует и оптимизирует Expert Advisors",
+      "Генерирует/исправляет MQL5 код",
+      "Может выполнять поддерживаемые торговые операции при разрешении пользователя"
+    ],
+    "access": "Обновлённая desktop-версия MT5 и вход в MQL5.community; MQL5 lite бесплатно; альтернативные провайдеры по своим ключам/условиям",
+    "limitations": "Торговлю, web и shell можно ограничить отдельно; поддерживаемые инструменты зависят от терминала и брокера. Факт native LLM в MT5 нельзя автоматически переносить на MT4, web/mobile и любого брокера",
+    "sources": [
+      "https://www.metatrader5.com/en/terminal/help/mcp_and_ai",
+      "https://www.metatrader5.com/en/news/2453",
+      "https://www.metaquotes.com/en/company/news/5567"
+    ],
+    "page": "terminals.md#t03"
+  },
+  {
+    "id": "T04",
+    "name": "Koyfin Compare Matrix и AI Summary",
+    "country": "США / международный сервис",
+    "segment": "B2C/prosumer research workspace; advisor-функции B2B",
+    "status": "Compare Matrix beta; AI Summary в attribution доступен Advisor Pro",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-10-01 Compare Matrix; 2026-09-01 attribution AI Summary",
+    "ai_type": "LLM прямо подтверждена для Compare Matrix; генерация текста для AI Summary",
+    "model_disclosure": "Поставщик и версия LLM не раскрыты в рассмотренных инструкциях",
+    "use_case": "Сравнить содержание раскрытий компаний по конкурентам и кварталам; объяснить атрибуцию портфеля",
+    "features": [
+      "Сравнивает одну компанию по кварталам или несколько компаний между собой",
+      "Отвечает по отчётности, звонкам, новостям и релизам",
+      "Показывает ссылки на источники в ячейках и экспортирует CSV",
+      "AI Summary объясняет причины отклонения результата модельного портфеля от бенчмарка на тарифе Advisor Pro"
+    ],
+    "access": "Compare Matrix находится в Research Tools, beta с месячной token-квотой; конкретный тариф для beta не указан. AI Summary в attribution требует Advisor Pro",
+    "limitations": "Beta лимиты временные, обновление ответа расходует квоту. Нельзя объявлять весь Koyfin LLM-продуктом или автоматически относить advisor AI Summary к розничному тарифу",
+    "sources": [
+      "https://www.koyfin.com/help/release-notes/compare-matrix-beta/",
+      "https://www.koyfin.com/help/release-notes/attribution-in-model-portfolios/"
+    ],
+    "page": "terminals.md#t04"
+  },
+  {
+    "id": "T05",
+    "name": "Trade Ideas AI Assistant; отдельно Holly AI Signals",
+    "country": "США",
+    "segment": "B2C/prosumer платформа активного трейдинга",
+    "status": "AI Assistant доступен; конкретная LLM не подтверждена",
+    "status_as_of": "2026-11-15",
+    "launch_date": "AI Assistant подтверждён текущей страницей; точная дата первичного запуска не установлена",
+    "ai_type": "Диалоговый AI Assistant; отдельно Holly Signals на алгоритмах и машинном обучении",
+    "model_disclosure": "LLM-архитектура и базовая модель помощника не раскрыты",
+    "use_case": "Создать рыночный сканер по описанию и объяснить открытый график",
+    "features": [
+      "Создаёт окно Alert или список Top List по текстовому запросу",
+      "Объясняет открытый график",
+      "Дополняется инструментом OddsMaker для проверки условий"
+    ],
+    "access": "AI Assistant включён в TI Pro на всех планах Trade Ideas; Holly AI Signals и OddsMaker относятся к TI Premium",
+    "limitations": "AI Assistant и Holly Signals решают разные задачи. Данные и исполнение у брокера имеют собственные условия.",
+    "sources": [
+      "https://forums.trade-ideas.com/ai-assistant-for-trading/",
+      "https://www.trade-ideas.com/cms_static/PDF/Trade%20Ideas_Leveraging_AI_Maximize_First_Impression_Brief.pdf"
+    ],
+    "page": "terminals.md#t05"
+  },
+  {
+    "id": "T06",
+    "name": "TradeStation MCP",
+    "country": "США",
+    "segment": "B2C/prosumer брокерская и торговая экосистема; внешний AI-клиент",
+    "status": "Выпущен для клиентов с условиями доступа",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-01-13",
+    "ai_type": "Подключение брокерского аккаунта к внешней LLM через MCP",
+    "model_disclosure": "На запуске Claude от Anthropic; расширение списка AI-платформ анонсировано",
+    "use_case": "Разбирать позиции и пользоваться функциями брокерской экосистемы из диалога",
+    "features": [
+      "Подключает внешнего ИИ-ассистента к брокерскому счёту TradeStation",
+      "Поддерживает заявленные сценарии анализа позиций и торговой автоматизации"
+    ],
+    "access": "Нужен брокерский счёт, соблюдение требований к нему и необходимых разрешений; на запуске требовалась подписка Claude Pro",
+    "limitations": "Официальный MCP подключает внешний AI-клиент. Встроенный Self-Help отвечает о функциях платформы; его инвестиционные исследовательские возможности отдельно не установлены.",
+    "sources": [
+      "https://www.tradestation.com/press-and-news/tradestation-securities-releases-mcp-connection-allowing-users-to-connect-trading-accounts-with-third-party-ai-platforms/",
+      "https://www.monexgroup.jp/jp/news_release/irnews/auto_20260115534412/pdfFile.pdf",
+      "https://help.tradestation.com/10_00/eng/tradestationhelp/default/releasenotes_archives.htm"
+    ],
+    "page": "terminals.md#t06"
+  },
+  {
+    "id": "T07",
+    "name": "QuantWheel QW Intelligence и MCP",
+    "country": "Международный сервис с фокусом на опционы США",
+    "segment": "B2C/prosumer опционный workspace",
+    "status": "QW Intelligence и MCP описаны как доступные; часть automation остаётся coming soon, документы по исполнению расходятся",
+    "status_as_of": "2026-11-15",
+    "launch_date": "QW Intelligence подтверждён help от 2026-04-27; точный первый запуск неизвестен",
+    "ai_type": "Встроенный диалоговый ИИ и внешняя LLM через MCP",
+    "model_disclosure": "Поставщик встроенной модели не раскрыт; MCP поддерживает Claude, ChatGPT и совместимые клиенты",
+    "use_case": "Поиск опционных возможностей, анализ позиций, рыночных потоков и торгового журнала",
+    "features": [
+      "Переводит словесный запрос в скринер с заданными фильтрами",
+      "Учитывает рынок и собственные позиции на подходящем платном плане",
+      "Передаёт внешнему ассистенту данные экспозиции к гамме, потоков, портфеля и журнала через MCP"
+    ],
+    "access": "Встроенный портфельный чат доступен на Wheel или Quant; есть демо. MCP включён в платные планы, набор инструментов и квоты зависят от плана",
+    "limitations": "Справка встроенного чата ограничивает его исследованием без отправки сделок. Страница MCP описывает инструменты заявок, которые пользователь должен отдельно включить. Автоматические торговые агенты ещё анонсированы.",
+    "sources": [
+      "https://quantwheel.com/how-to/qw-intelligence-overview",
+      "https://quantwheel.com/mcp",
+      "https://quantwheel.com/"
+    ],
+    "page": "terminals.md#t07"
+  },
+  {
+    "id": "T08",
+    "name": "Bloomberg Terminal: ASKB и GenAI summaries",
+    "country": "США / международная профессиональная система",
+    "segment": "B2B профессиональный терминал",
+    "status": "ASKB generally available с 15.10.2026; раньше beta",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2024-01-22 earnings-call summaries; 2026-02-23 ASKB beta; 2026-10-15 ASKB GA",
+    "ai_type": "Разговорный/агентный GenAI и LLM summaries",
+    "model_disclosure": "Рассмотренные продуктовые релизы не раскрывают актуальный полный набор моделей; BloombergGPT нельзя автоматически считать движком ASKB",
+    "use_case": "Анализ компаний и рынков с собственной перепиской, списками бумаг и файлами фирмы",
+    "features": [
+      "Отвечает по данным, новостям и исследованиям Bloomberg",
+      "При разрешении анализирует три месяца собственной переписки Instant Bloomberg со ссылками",
+      "Учитывает списки бумаг Worksheets",
+      "Использует сохранённые файлы Bloomberg Drive вместе с рыночными источниками"
+    ],
+    "access": "Профессиональная подписка Bloomberg Terminal/Bloomberg Anywhere; собственный контент включается и подчиняется правам доступа; отдельная retail подписка на ASKB не подтверждена",
+    "limitations": "ASKB доступен в профессиональном терминале; отдельные расширения из roadmap могут иметь иной статус. Собственный контент используется только в пределах прав доступа.",
+    "sources": [
+      "https://webdisclosure.com/press-release/bloomberg-nasdaq-the-next-evolution-of-askb-your-insights-bloombergs-intelligence-one-conversation-eiGHbvbH0WY",
+      "https://www.bloomberg.com.br/blog/conheca-o-askb-a-primeira-visao-do-futuro-do-bloomberg-terminal-na-era-da-ia-agentica/",
+      "https://www.prnewswire.com/news-releases/bloomberg-launches-ai-powered-earnings-call-summaries-302040670.html",
+      "https://professional.content.cirrus.bloomberg.com/professional2023/insights/press-announcement/bloomberg-unveils-askb-roadmap-for-clients-to-augment-their-investment-process-with-agentic-ai/"
+    ],
+    "page": "terminals.md#t08"
+  },
+  {
+    "id": "T09",
+    "name": "LSEG Workspace AI Search и Deep Research",
+    "country": "Великобритания / международная профессиональная система",
+    "segment": "B2B профессиональный workspace",
+    "status": "AI Search GA с июля 2026; Deep Research доступен",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-06 Deep Research release page; 2026-07 AI Search GA",
+    "ai_type": "Генеративный ИИ координирует работу с лицензированными данными",
+    "model_disclosure": "Функции разработаны в партнёрстве LSEG и Microsoft с использованием нескольких моделей; их актуальные версии не раскрыты",
+    "use_case": "Сложные инвестиционные вопросы по структурированным и текстовым данным с проверяемым результатом",
+    "features": [
+      "AI Search ищет по звонкам, раскрытиям, брокерским исследованиям и новостям",
+      "Deep Research соединяет цены, прогнозы аналитиков, фундаментальные и макроданные с документами",
+      "Показывает источники и допущения, создаёт графики и экспортирует Excel",
+      "Доступен в Workspace и Workspace в Microsoft Teams"
+    ],
+    "access": "Подписка Workspace и соответствующие права на контент; коммерческие условия через LSEG; Microsoft Teams является дополнительным местом работы",
+    "limitations": "Часть расширений данных ещё анонсирована. Доступ к функции и к отдельному источнику зависит от профессиональной подписки.",
+    "sources": [
+      "https://www.lseg.com/en/about-us/new-at-lseg/your-ai-your-edge-building-personal-productivity-with-ai",
+      "https://www.lseg.com/en/data-analytics/products/workspace/updates/lseg-introduces-deep-research-agent-in-workspace"
+    ],
+    "page": "terminals.md#t09"
+  },
+  {
+    "id": "T10",
+    "name": "FactSet Workstation: Mercury, Transcript Assistant, Pitch Creator",
+    "country": "США / международная профессиональная система",
+    "segment": "B2B профессиональный research и banking workspace",
+    "status": "Поставлены Transcript Assistant и Pitch Creator; Mercury beta стартовала в 2023, API действует, v2 API обозначен beta",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2023-12-14 Mercury beta; 2024-03-12 Transcript Assistant; 2025-01-15 Pitch Creator",
+    "ai_type": "LLM-агент с диалогом, поиском и построением графиков",
+    "model_disclosure": "Текущие поставщик и версия модели не раскрыты",
+    "use_case": "Вопросы к earnings calls и подготовка данных/графиков/слайдов для анализа и инвестиционного банкинга",
+    "features": [
+      "Transcript Assistant отвечает на вопросы по звонкам о результатах, прогнозам менеджмента и ключевым темам",
+      "Mercury и Chart Creator создают графики по запросу",
+      "Pitch Creator помогает с поиском, шаблонами Excel и слайдами PowerPoint",
+      "Conversational API позволяет встраивать диалог в интерфейсы клиента"
+    ],
+    "access": "FactSet Workstation/коммерческие модули и entitlements; Transcript Assistant выпущен для всех типов фирм, что не равно бесплатному доступу любому физлицу",
+    "limitations": "Transcript Assistant и Pitch Creator выпущены; это не устанавливает одинаковый статус всех интерфейсов Mercury. У Conversational API v2 обозначен beta-статус.",
+    "sources": [
+      "https://investor.factset.com/news-releases/news-release-details/factset-launches-factset-mercury-supercharge-junior-banker/",
+      "https://investor.factset.com/news-releases/news-release-details/factset-releases-transcript-assistant-game-changing-ai-tool/",
+      "https://investor.factset.com/news-releases/news-release-details/factset-launches-ai-powered-pitch-creator/",
+      "https://developer.factset.com/api-catalog/conversational-api"
+    ],
+    "page": "terminals.md#t10"
+  },
+  {
+    "id": "T11",
+    "name": "S&P Capital IQ Pro: ChatIQ и Document Intelligence",
+    "country": "США / международная профессиональная система",
+    "segment": "B2B профессиональный financial research workspace",
+    "status": "Основные функции выпущены; ChatIQ Presentations в Labs, Portfolio Insights beta",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2025-10-22 Document Intelligence2.0/multi-document; 2026-10-06 расширенный ChatIQ",
+    "ai_type": "GenAI conversational research; LLM-функции анализа документов",
+    "model_disclosure": "Kensho/S&P ecosystem; конкретный актуальный foundation model в релизах не раскрыт",
+    "use_case": "Сравнить компании и документы, построить screening/chart, подготовить модель или объяснить портфель",
+    "features": [
+      "ChatIQ сопоставляет несколько раскрытий, звонков, презентаций, новостей и исследований",
+      "Создаёт выборки и графики по словесному запросу",
+      "ChatIQ Spreadsheets помогает с моделями Excel и обновляемыми формулами",
+      "Portfolio Insights объясняет факторы результата и рыночные события в beta"
+    ],
+    "access": "Коммерческая подписка Capital IQ Pro и права на модули/данные; Labs/beta могут требовать отдельного доступа",
+    "limitations": "Presentations нельзя считать обычной GA-функцией; Portfolio Insights в beta. Не подтверждены точные тарифы и доступность для частного российского клиента",
+    "sources": [
+      "https://press.spglobal.com/2025-10-22-S-P-Global-Redefines-Financial-Insights-with-New-AI-Powered-Multi-Document-Research-and-Analysis-Tool-in-Capital-IQ-Pro-ChatIQ",
+      "https://press.spglobal.com/2026-10-06-ChatIQ-Leads-S-P-Globals-Latest-Capital-IQ-Pro-Update-with-Expanded-AI-Powered-Research-Capabilities"
+    ],
+    "page": "terminals.md#t11"
+  },
+  {
+    "id": "T12",
+    "name": "AlphaSense Generative Search, Deep Research и workflow agents",
+    "country": "США / международная профессиональная система",
+    "segment": "B2B research workspace, не торговый терминал с обычным retail order ticket",
+    "status": "Доступен; отдельные коннекторы имеют beta-статус",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2025-06-10 Deep Research; развитие workflow agents в 2026",
+    "ai_type": "Генеративные модели и многошаговые агентные сценарии",
+    "model_disclosure": "Точные актуальные версии моделей не раскрыты",
+    "use_case": "Исследование инвестиционной идеи, сравнение отрасли, due diligence и повторяющийся мониторинг",
+    "features": [
+      "Отвечает по раскрытиям, звонкам, брокерским исследованиям, интервью с экспертами и финансовым данным",
+      "Deep Research выполняет многошаговый анализ",
+      "Поддерживает ссылки на фрагменты, исследования по расписанию и создание слайдов",
+      "Enterprise Intelligence добавляет внутренние документы и специализированных агентов"
+    ],
+    "access": "Коммерческий доступ AlphaSense; внутренние данные и diligence agents требуют Enterprise Intelligence; trial доступен по условиям поставщика",
+    "limitations": "Для Enterprise Intelligence доступны 13 агентов комплексной проверки; Zoom-коннектор находится в открытой бета-версии. Исполнение брокерских заявок этой функцией не установлено.",
+    "sources": [
+      "https://www.alpha-sense.com/press/alphasense-launches-deep-research-automating-in-depth-analysis-with-agentic-ai-on-high-value-content/",
+      "https://help.alpha-sense.com/hc/en-us/articles/42591266633875-Quick-Start-Guide-to-Generative-Search",
+      "https://help.alpha-sense.com/hc/en-us/articles/54995224793875-AlphaSense-Product-Updates-August-2026"
+    ],
+    "page": "terminals.md#t12"
+  },
+  {
+    "id": "ASA01",
+    "name": "SBI Securities Plus: AI Market Summary",
+    "country": "Япония",
+    "segment": "B2C брокерское приложение",
+    "status": "Доступен в SBI Securities Plus по действующей инструкции",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точная дата запуска не раскрыта в инструкции",
+    "ai_type": "Генерация рыночных сводок языковой моделью",
+    "model_disclosure": "Gemini от Google; контент готовит AlpacaTech на основе отобранных новостей и данных MINKABU",
+    "use_case": "Быстро понять итоги рынка Японии и США, предстоящие события и отчётность",
+    "features": [
+      "Утренняя и вечерняя сводки с дополнительными обновлениями в течение дня",
+      "Обзор японского и американского рынка",
+      "Календарь событий и значимых публикаций результатов компаний"
+    ],
+    "access": "Раздел Find и домашний экран после входа в приложение SBI Securities Plus. Отдельный тариф функции в инструкции не указан",
+    "limitations": "Готовые информационные сводки, а не персональная инвестиционная рекомендация или торговый агент. Покрытие ограничено условиями отбора бумаг и источников; модель не раскрыта до версии",
+    "sources": [
+      "https://search.sbisec.co.jp/v2/popwin/guide/tool/sbi_app/05_market/ai.html"
+    ],
+    "page": "brokers.md#asa01"
+  },
+  {
+    "id": "ASA02",
+    "name": "Rakuten Securities Investment AI Assistant beta plus",
+    "country": "Япония",
+    "segment": "B2C инвестиционное обучение и поиск материалов",
+    "status": "Открытая beta с дневным лимитом",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Доступен не позднее 2024; обновление до GPT-4.1 25.07.2025",
+    "ai_type": "LLM-диалог по инвестиционным и образовательным материалам брокера",
+    "model_disclosure": "GPT-4.1 раскрыт на действующем лендинге; ранее GPT-3.5 и GPT-4o",
+    "use_case": "Разобраться в инвестиционных терминах, вопросах начала инвестирования и найти подходящие материалы",
+    "features": [
+      "Ответы на вопросы об инвестициях и деньгах",
+      "Поиск материалов инвестиционного медиа Toushiru",
+      "Объяснения простым языком с уточняющим диалогом"
+    ],
+    "access": "Веб-чат доступен круглосуточно; beta с дневным лимитом, который возобновляется примерно в 08:30. Отдельная цена не указана",
+    "limitations": "Помощник соединяет инвестиционное обучение и навигацию по материалам брокера. Чтение личного портфеля, персональные рекомендации и отправка заявок не подтверждены.",
+    "sources": [
+      "https://www.rakuten-sec.co.jp/assistant/"
+    ],
+    "page": "brokers.md#asa02"
+  },
+  {
+    "id": "ASA03",
+    "name": "Dhan MCP и Dhan Skills",
+    "country": "Индия",
+    "segment": "B2C/prosumer внешние LLM и торговые инструменты брокера",
+    "status": "Официальные MCP и Skills доступны",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Подтверждены официальной публикацией 13.08.2026; точный первый запуск не установлен",
+    "ai_type": "Внешние LLM вызывают инструменты MCP; coding agents используют документацию Skills и SDK для автоматизации",
+    "model_disclosure": "Модель определяется внешним клиентом; названы Claude, Claude Code, Codex, Cursor и другие совместимые клиенты",
+    "use_case": "Обсудить рынок и позиции, проверить маржу и выполнить разрешённые действия; построить торговую автоматизацию",
+    "features": [
+      "MCP получает котировки, глубину рынка, опционные цепочки, позиции и средства",
+      "Расчёт маржи, размещение, изменение и отмена заявок",
+      "Skills помогают агенту написать автоматизацию по API, включая данные и торговые действия"
+    ],
+    "access": "Активный счёт Dhan и совместимый AI-клиент с авторизацией; права предоставляются в рамках сессии. Рыночные Data API требуют активного плана данных; торговые операции через SDK требуют разрешённого статического IP по инструкции Skill. Точная цена MCP в использованных первичных источниках не указана",
+    "limitations": "MCP предоставляет инструменты данных и торговли; Skills помогают программному агенту создавать автоматизацию через SDK. Права и процедура подтверждения зависят от клиентского сценария.",
+    "sources": [
+      "https://dhan.co/blog/trading-strategies/why-trade-intraday-with-claude-try-dhan-mcp-skills/",
+      "https://github.com/dhan-oss/dhanhq-skills/blob/main/skills/dhanhq/SKILL.md"
+    ],
+    "page": "brokers.md#asa03"
+  },
+  {
+    "id": "ASA04",
+    "name": "Upstox MCP и Agent Skills",
+    "country": "Индия",
+    "segment": "B2C/prosumer интеграции брокерского счёта с внешними LLM",
+    "status": "MCP и Agent Skills доступны, с разными правами",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Agent Skills 2026-06-06; точный первый запуск MCP не установлен",
+    "ai_type": "Read-only MCP для диалога; LLM coding agent с SDK для торговых действий",
+    "model_disclosure": "Внешний AI выбирается пользователем; Skill совместим с Claude Code, Codex и Agent Skills средами",
+    "use_case": "Разобрать позиции и рынок через чат или построить и выполнить торговый процесс в coding agent",
+    "features": [
+      "MCP читает holdings, позиции, результат, средства и рыночные данные",
+      "Agent Skill размещает, изменяет, отменяет и закрывает заявки, включая GTT и многошаговые опционные комбинации",
+      "SDK предоставляет данные и проверку маржи; Skill предусматривает подтверждения и тестовую среду"
+    ],
+    "access": "MCP бесплатен для активного счёта Upstox, требует ежедневной повторной авторизации и совместимого AI-клиента. Agent Skill требует отдельной установки, Python SDK, токен и подходящие разрешения. Тариф AI-клиента и рыночных данных определяется отдельно",
+    "limitations": "MCP работает только на чтение. Торговые действия относятся к отдельному Agent Skill с SDK; это другая среда, чем обычный чат-коннектор.",
+    "sources": [
+      "https://upstox.com/developer/api-documentation/announcements/agent-skills-launch/",
+      "https://upstox.com/developer/api-documentation/mcp-integration/"
+    ],
+    "page": "brokers.md#asa04"
+  },
+  {
+    "id": "ASA05",
+    "name": "INDmoney MCP",
+    "country": "Индия",
+    "segment": "B2C портфельная аналитика через внешний LLM-клиент",
+    "status": "Официальное подключение доступно",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точная дата первого запуска не указана на продуктовой странице",
+    "ai_type": "Внешняя LLM использует инструменты портфельных и рыночных данных",
+    "model_disclosure": "Основной документированный клиент Claude; конкретную модель выбирает пользователь",
+    "use_case": "Объединить разные классы активов и объяснить портфель, регулярные инвестиции и рыночные данные",
+    "features": [
+      "Совокупный капитал, распределение и позиции по активам",
+      "Вопросы по регулярным покупкам акций и фондов",
+      "Индийские и американские котировки, опционные цепочки и сравнение фондов",
+      "14 документированных возможностей; многошаговый анализ через Claude"
+    ],
+    "access": "Бесплатно для клиентов INDmoney; вход и согласие через INDmoney. Нужен совместимый AI-клиент, чьи платные функции могут иметь собственные условия. Первую настройку рекомендуют с компьютера",
+    "limitations": "Строго чтение: нельзя разместить сделку, погасить инвестицию, изменить план регулярных покупок или настройки. В импортированных счетах других брокеров может не хватать первоначальной стоимости вложений; внешние американские счета не покрываются как собственный US account INDmoney",
+    "sources": [
+      "https://www.indmoney.com/mcp"
+    ],
+    "page": "brokers.md#asa05"
+  },
+  {
+    "id": "ASA06",
+    "name": "DBS digiWealth: GenAI digibot",
+    "country": "Сингапур; другие банковские функции также в Гонконге и Тайване",
+    "segment": "B2C wealth-приложение массового и обеспеченного клиента",
+    "status": "Инвестиционная информационная функция доступна по текущей справке",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Интеграция с digiWealth анонсирована с августа2026; точный первый день фактического запуска не установлен",
+    "ai_type": "Генеративный диалог в финансовом приложении",
+    "model_disclosure": "Название и версия базовой LLM не раскрыты в рассмотренных продуктовых материалах",
+    "use_case": "Получить ответы на вопросы об инвестициях, капитале и страховании, перейти к человеку-консультанту",
+    "features": [
+      "Естественный диалог и уточняющие вопросы по инвестиционным темам",
+      "Интеграция в digiWealth",
+      "Персонализированные ответы после входа; связь с wealth planning manager для более детального совета"
+    ],
+    "access": "DBS/POSB digibank mobile и online; для персонализированных GenAI ответов нужен вход. Точная отдельная цена инвестиционного чата не указана",
+    "limitations": "Здесь подтверждена информационная помощь по инвестициям в банковском приложении. Автономный выбор и исполнение биржевых сделок не подтверждены. Покрытие зависит от страны и конкретной функции digiWealth.",
+    "sources": [
+      "https://www.dbs.com.sg/personal/digital-banking/digibot",
+      "https://www.dbs.com/NewsPrinter.page?locale=en&newsId=mqdetosw"
+    ],
+    "page": "brokers.md#asa06"
+  },
+  {
+    "id": "GBA01",
+    "name": "Lightyear AI",
+    "country": "Великобритания / Эстония; европейский розничный рынок",
+    "segment": "B2C broker",
+    "status": "Три аналитические функции доступны; персональные рекомендации и автономное управление описаны как будущие направления",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2025-07-23",
+    "ai_type": "Генеративные сводки и объяснение движения цены",
+    "model_disclosure": "Базовая модель и её поставщик не раскрыты в рассмотренных материалах.",
+    "use_case": "Быстро понять события вокруг акции и аргументы сторон.",
+    "features": [
+      "Lightning Updates: новости о резких движениях бумаг из портфеля и списка наблюдения.",
+      "Why Did It Move: объяснение выбранного периода на графике через новости и события.",
+      "Bulls Say / Bears Say: аргументы за и против инвестиции на основе внешних источников."
+    ],
+    "access": "В приложении Lightyear; при запуске компания указала отсутствие подписки и платного доступа к этим трём функциям.",
+    "limitations": "Текущие инструменты дают информацию. Advice at scale и Self-driving money на сайте относятся к будущему и требуют соответствующих разрешений. Личные и портфельные данные, по заявлению Lightyear, поставщикам моделей не передаются.",
+    "sources": [
+      "https://lightyear.com/en-hu/lightyear-ai",
+      "https://lightyear.com/en-es/blog/lightyear-closes-dollar23m-series-b"
+    ],
+    "page": "brokers.md#gba01"
+  },
+  {
+    "id": "GBA02",
+    "name": "Revolut AIR: инвестиционные вопросы",
+    "country": "Великобритания; доступ зависит от рынка и этапа внедрения Revolut",
+    "segment": "B2C finance / investing",
+    "status": "Доступен части клиентов; поэтапное внедрение",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точная первоначальная дата не установлена",
+    "ai_type": "Разговорный генеративный ассистент с персональным финансовым контекстом",
+    "model_disclosure": "Конкретная базовая LLM не названа.",
+    "use_case": "Спросить о своих инвестициях и причинах изменения стоимости.",
+    "features": [
+      "Ответы с использованием состава активов, истории операций и внешних рыночных данных.",
+      "Проактивные объяснения прошлых движений бумаг, которыми клиент владеет или за которыми следит."
+    ],
+    "access": "Через AIR в приложении Revolut; функция появляется по мере внедрения. Отдельный тариф инвестиционных ответов не установлен по открытым материалам.",
+    "limitations": "AIR не может разместить, изменить или отменить поручение по финансовому инструменту. Нельзя переносить на AIR возможности отдельного сервиса Revolut X для криптоактивов. AI Support и AIR описаны в правилах как разные помощники.",
+    "sources": [
+      "https://help.revolut.com/en-GB/help/profile-and-plan/getting-started-with-air/",
+      "https://www.revolut.com/legal/rita-disclaimer/"
+    ],
+    "page": "brokers.md#gba02"
+  },
+  {
+    "id": "GBA03",
+    "name": "Trading 212: AI Analysis, AI Chat, AI Search и Agent Skills",
+    "country": "Великобритания / Европа; типы счетов и рынки различаются",
+    "segment": "B2C broker",
+    "status": "Анализ и чат доступны; AI Search внедряется постепенно; API для внешних агентов находится в бета-версии",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точные первые даты нативных функций не установлены; публичные Agent Skills опубликованы в 2026 году",
+    "ai_type": "Генеративная аналитика, разговорный поиск и подключение внешней LLM через API",
+    "model_disclosure": "Поставщик нативных моделей не раскрыт; внешние Agent Skills совместимы, в частности, с Claude Code, Codex CLI и OpenClaw.",
+    "use_case": "Исследовать бумагу и собственный портфель, искать инструменты обычной фразой; отдельный технический канал позволяет агенту работать с API.",
+    "features": [
+      "AI Analysis: причины движения цены, новости, фундаментальные показатели и риски; отдельный обзор портфеля.",
+      "AI Chat: сравнение инструментов, вопросы о портфеле и истории счёта.",
+      "AI Search преобразует фразу в фильтры и объясняет результаты.",
+      "Официальные Agent Skills: позиции, история и создание/управление рыночными, лимитными и стоп-поручениями через API."
+    ],
+    "access": "Нативные функции находятся на страницах инструментов, портфеля и поиска. История счёта в чате поддерживает Invest, ISA и SIPP; внешний API поддерживает Invest и Stocks ISA, в тестовом и реальном режимах.",
+    "limitations": "Чат не даёт указаний купить, продать или держать. История CFD и криптосчетов и текущий денежный остаток в указанной функции истории не поддерживаются. Нельзя приписывать нативному чату торговые права Agent Skills: это отдельное подключение с API-ключом и его разрешениями. У API статус beta.",
+    "sources": [
+      "https://helpcentre.trading212.com/hc/en-us/articles/28908866191005-AI-Analysis-on-Trading-212",
+      "https://helpcentre.trading212.com/hc/en-us/articles/34746261653277-The-AI-Chatbot-Analyser",
+      "https://helpcentre.trading212.com/hc/en-us/articles/40606617501981-What-is-AI-Search-and-how-do-I-use-it",
+      "https://helpcentre.trading212.com/hc/en-us/articles/38710364614685-What-can-I-ask-AI-Chat-about-my-account-history",
+      "https://github.com/trading212-labs/agent-skills"
+    ],
+    "page": "brokers.md#gba03"
+  },
+  {
+    "id": "GBA04",
+    "name": "Scalable: Insights и Agentic Investing",
+    "country": "Германия; европейские клиенты Scalable с учётом доступности сервиса",
+    "segment": "B2C broker",
+    "status": "Insights работает; Agentic Investing запущен, конкретные действия зависят от платформы агента",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Insights: август 2025; Agentic Investing: 2026-08-25",
+    "ai_type": "Нативный разговорный помощник и подключение внешних LLM через MCP/CLI",
+    "model_disclosure": "Для внешнего подключения компания называет ChatGPT, Claude и Grok. Базовая модель нативного Insights по первичным источникам не установлена.",
+    "use_case": "Обсудить инвестиции и работать с брокерским счётом из выбранного AI-ассистента.",
+    "features": [
+      "Обзор позиций, диверсификации и сценариев портфеля.",
+      "Поиск инструментов и работа со списками наблюдения и ценовыми уведомлениями.",
+      "Подготовка сделок и создание/изменение планов регулярных инвестиций через MCP/CLI."
+    ],
+    "access": "Нужны счёт Scalable и совместимый внешний ассистент для MCP/CLI. Есть четыре уровня доступа: без доступа, чтение, ограниченные изменения и полный доступ. Детские счета не поддерживаются.",
+    "limitations": "Даже при полном доступе покупка или продажа требует отдельного явного подтверждения после предварительного просмотра. Для регулярных инвестиционных планов действует такой же двухэтапный порядок. Разрешение распространяется на подключённых агентов и портфели; собственные правила AI-платформы могут дополнительно ограничивать действия.",
+    "sources": [
+      "https://de.scalable.capital/newsroom/agentic-investing",
+      "https://help.scalable.capital/de-AT/agentic-investing-aac939f8/welche-funktionen-unterst%C3%BCtzt-das-scalable-mcp-mit-ihren-73428605"
+    ],
+    "page": "brokers.md#gba04"
+  },
+  {
+    "id": "GBA05",
+    "name": "Vanguard Digital Advisor: AI Chat",
+    "country": "США",
+    "segment": "B2C robo-advisor / wealth",
+    "status": "Бета-версия с ограниченным доступом",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Сентябрь 2026",
+    "ai_type": "Генеративный разговорный слой поверх детерминированного цифрового консультирования",
+    "model_disclosure": "В брошюре прямо указаны large language models; конкретный поставщик и версия не названы.",
+    "use_case": "Объяснение персонального финансового плана и проверка сценариев в Digital Advisor.",
+    "features": [
+      "Диалог о целях, финансовом плане и стратегии клиента.",
+      "Сценарии «что, если» и финансовое обучение на основе базы знаний Vanguard."
+    ],
+    "access": "Ограниченная группа клиентов Digital Advisor; дальнейшее расширение доступа запланировано. Отдельная стоимость AI Chat в рассмотренном раскрытии не указана.",
+    "limitations": "Чат не меняет алгоритм советов Digital Advisor, не ребалансирует портфель и не совершает сделки. Данные разговора сами по себе не меняют профиль клиента. Это не универсальный автономный управляющий Vanguard.",
+    "sources": [
+      "https://personal1.vanguard.com/pdf/vanguard-digital-advice-brochure.pdf"
+    ],
+    "page": "brokers.md#gba05"
+  },
+  {
+    "id": "GBA06",
+    "name": "Betterment Account Recommender",
+    "country": "США",
+    "segment": "B2C robo-advisor / wealth",
+    "status": "Запущен",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-03-09",
+    "ai_type": "LLM объясняет результат рекомендательного механизма с заданными правилами",
+    "model_disclosure": "Актуальный Form ADV прямо указывает сторонние LLM; поставщики и версии не названы.",
+    "use_case": "Помочь выбрать подходящий тип финансового счёта и понять основание рекомендации.",
+    "features": [
+      "Механизм правил использует доход, активы, занятость, налоговый статус и сведения о подключённых счетах.",
+      "Генеративный AI формулирует персональное объяснение уже полученной рекомендации."
+    ],
+    "access": "Необязательный инструмент на платформе Betterment. Для персонализации используются данные профиля и счетов; отдельная плата за функцию в рассмотренных материалах не указана.",
+    "limitations": "Тип счёта рекомендует механизм с заданными правилами, разработанными консультантами. LLM составляет объяснение после этого шага. Клиент сам решает, какой счёт открыть; из этой функции не следует участие LLM в отборе бумаг или управлении портфелем.",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/betterment-launches-ai-enabled-account-recommender-advancing-enterprise-ai-strategy-302707654.html",
+      "https://www.betterment.com/adv"
+    ],
+    "page": "brokers.md#gba06"
+  },
+  {
+    "id": "GBA07",
+    "name": "Morningstar Mo в Morningstar Investor",
+    "country": "США; розничный аналитический сервис",
+    "segment": "B2C investment research",
+    "status": "Доступен подписчикам; при запуске был обозначен как beta, текущий отдельный ярлык стадии не установлен",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2023-05-11: первоначальная beta",
+    "ai_type": "Разговорный поиск по инвестиционной аналитике с извлечением материалов и генерацией ответа",
+    "model_disclosure": "При запуске раскрыта технология Microsoft Azure OpenAI; актуальная конкретная версия модели не названа.",
+    "use_case": "Получать объяснения и ответы по библиотеке исследований Morningstar.",
+    "features": [
+      "Ответы на вопросы об акциях, фондах и методологии на основе исследований, рейтингов и редакционных материалов Morningstar.",
+      "Встроен в розничный Investor; профессиональные Direct/DAS с Mo являются отдельными продуктами."
+    ],
+    "access": "Подписчики Morningstar Investor / Morningstar.com Premium. На текущей странице Investor указаны $249 в год или $34,95 в месяц и пробный период 7 дней.",
+    "limitations": "Розничному Mo нельзя автоматически приписывать профессиональные функции Direct, например подготовку предложений консультантам. Наличие доступа к исследованиям не означает право торговать на счёте клиента или давать персональную инвестиционную рекомендацию.",
+    "sources": [
+      "https://newsroom.morningstar.com/news/news-details/2023/Mo-an-AI-Chatbot-Powered-by-Morningstar-Intelligence-Engine-Debuts-in-Morningstar-Platforms/default.aspx",
+      "https://www.sec.gov/Archives/edgar/data/1289419/000128941925000171/investorquestions115258k.htm",
+      "https://www.morningstar.com/mm/"
+    ],
+    "page": "research-services.md#gba07"
+  },
+  {
+    "id": "GBA08",
+    "name": "FirstradeGPT",
+    "country": "США",
+    "segment": "B2C broker",
+    "status": "Доступен клиентам",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Июнь 2024: страница 20 июня, в тексте релиза 18 июня",
+    "ai_type": "LLM-ассистент по финансовым данным через FinChat.io",
+    "model_disclosure": "В раскрытии запуска указаны модели OpenAI и Anthropic через FinChat.io; конкретные версии не названы.",
+    "use_case": "Проводить фундаментальное исследование компаний внутри брокерского приложения.",
+    "features": [
+      "Вопросы о показателях компании, сегментах бизнеса и исторических данных.",
+      "Сравнение компаний, таблицы/графики и уточняющие вопросы."
+    ],
+    "access": "Клиенты Firstrade: веб-версия через Research & Tools, мобильная через Explore. Интерфейс помощника на английском; отдельная цена в рассмотренных материалах не указана.",
+    "limitations": "FirstradeGPT не имеет доступа к инвестиционному счёту пользователя. Нельзя описывать его как анализатор личного портфеля или торгового агента. Сведения и ответы не являются персональным инвестиционным советом.",
+    "sources": [
+      "https://www.firstrade.com/press/pr20240620",
+      "https://help.firstrade.info/en/articles/9457471-firstradegpt-how-tos"
+    ],
+    "page": "brokers.md#gba08"
+  },
+  {
+    "id": "GBA09",
+    "name": "Nordnet: Latest Recap и AI-сводки отчётности",
+    "country": "Швеция; внедрение на других рынках Северной Европы",
+    "segment": "B2C broker",
+    "status": "Работают в Швеции; по данным отчёта Q1 2026 внедрение отчётных сводок на остальных североевропейских рынках продолжалось",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Первый квартал 2026: внедрение подтверждено квартальным отчётом",
+    "ai_type": "AI-генерация кратких новостей и сводок отчётности",
+    "model_disclosure": "Генеративная функция названа прямо; архитектура, базовая LLM и её поставщик не раскрыты.",
+    "use_case": "Читать краткие новости по собственным позициям и результаты компаний.",
+    "features": [
+      "Latest Recap: новости по принадлежащим клиенту бумагам в обзоре счёта приложения.",
+      "К новостям добавлен макроэкономический контекст.",
+      "Сводки квартальных отчётов на сайте и в приложении."
+    ],
+    "access": "Сводки отчётности были доступны всем шведским клиентам по состоянию на Q1 2026. Из рассмотренного отчёта нельзя установить завершение внедрения во всех остальных странах к ноябрю. Отдельная цена не раскрыта.",
+    "limitations": "Подтверждён именно слой кратких текстовых материалов. Квартальный отчёт не даёт основания называть его чат-советником или самостоятельным торговым агентом.",
+    "sources": [
+      "https://nordnetab.com/wp-content/uploads/2026/04/1Q-2026-Sve.pdf"
+    ],
+    "page": "brokers.md#gba09"
+  },
+  {
+    "id": "GBA10",
+    "name": "Avanza: AI-сводки квартальных отчётов",
+    "country": "Швеция",
+    "segment": "B2C broker",
+    "status": "Работают",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2025: год запуска подтверждён декабрьским релизом",
+    "ai_type": "AI-генерация сводок корпоративной отчётности",
+    "model_disclosure": "Поставщик модели и конкретная LLM не раскрыты в рассмотренных первичных материалах.",
+    "use_case": "Быстро понять финансовые результаты компании на странице акции.",
+    "features": [
+      "Краткие AI-сводки квартальных отчётов в разделе отчётности на странице акции.",
+      "По инструкции февраля 2026 покрывается большинство компаний, торгующихся в Северной Европе; дальнейшее расширение рынков планируется."
+    ],
+    "access": "В интерфейсе Avanza: страница акции, обзор, раздел отчётов. Отдельная плата за AI-сводки в рассмотренных материалах не указана.",
+    "limitations": "Подтверждены текстовые сводки. Наличие этой функции не подтверждает LLM в управлении Avanza Auto или автоматическое исполнение торговых решений.",
+    "sources": [
+      "https://blogg.avanza.se/6-smarta-verktyg-for-rapportperioden/",
+      "https://investors.avanza.se/files/mfn/1980071a-f0cf-4488-a9dc-bff2da7f5f5e/avanza-har-sveriges-nojdaste-sparare-for-16e-aret-i-rad.pdf"
+    ],
+    "page": "brokers.md#gba10"
+  },
+  {
+    "id": "GBA11",
+    "name": "XTB: аналитический AI-чат в xStation",
+    "country": "Польша; подтверждённый первый клиентский рынок — Чили",
+    "segment": "B2C broker / terminal",
+    "status": "Доступен в Чили; европейское внедрение по использованным первичным источникам не установлено",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Июль–август 2026: релиз 15 июля сообщает о доступности, инструкция 3 августа описывает августовский запуск",
+    "ai_type": "Разговорный AI-анализ с персональным контекстом счёта",
+    "model_disclosure": "Поставщик и версия LLM не раскрыты; источники рыночных данных — LSEG и Reuters.",
+    "use_case": "Обсудить инструменты, текущий портфель и распределение активов внутри брокерского интерфейса.",
+    "features": [
+      "Сравнение акций, ETF, валют и других доступных инструментов.",
+      "Разбор текущего портфеля и предложения распределения активов с учётом профиля клиента.",
+      "Объяснение финансовых показателей и новостей на базе данных LSEG/Reuters."
+    ],
+    "access": "Бесплатно для клиентов XTB в Чили, в веб-версии и мобильной xStation. Не следует считать наличие чата доказательством такой же доступности клиентам других юридических лиц XTB.",
+    "limitations": "Инструкция оставляет выбор и исполнение сделки за пользователем: после ответа он находит инструмент и сам решает, подавать ли поручение. XTBot для обслуживания клиентов является другим продуктом и не доказывает инвестиционные функции. Точные даты запуска в двух официальных публикациях расходятся.",
+    "sources": [
+      "https://www.xtb.com/cl/blog/asistente-de-inversiones-con-ia",
+      "https://www.xtb.com/cl/formacion/guia-chatbot-inversiones-xtb"
+    ],
+    "page": "brokers.md#gba11"
+  },
+  {
+    "id": "RUA01",
+    "name": "Snowball Income: ИИ-ассистент, ИИ-инсайты и MCP",
+    "country": "Россия",
+    "segment": "B2C, агрегатор и аналитика личного инвестиционного портфеля",
+    "status": "Доступны встроенный ассистент, ИИ-инсайты и MCP",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2025-11-03: ИИ-инсайты компаний; 2026-08-24: портфельный ИИ-ассистент; 2026-09-30: MCP по истории изменений. Инструкция MCP датирована 2026-09-08, поэтому точный первый день доступности MCP неоднозначен",
+    "ai_type": "LLM; встроенный генеративный анализ и внешний LLM-клиент через MCP",
+    "model_disclosure": "Условия прямо называют большие языковые модели и сторонних поставщиков; конкретные модели и версии не раскрыты",
+    "use_case": "Объяснение результатов, выплат, рисков и структуры сводного портфеля; вопросы о портфеле в собственном чате или внешнем AI-приложении",
+    "features": [
+      "Встроенный ассистент выбирает данные и инструменты, выполняет расчёты и формулирует ответ",
+      "ИИ-инсайты превращают показатели компании в выводы о росте, прибыли и рисках",
+      "MCP передаёт готовые данные и расчёты во внешние клиенты, включая Claude и Cursor",
+      "История диалогов встроенного ассистента"
+    ],
+    "access": "MCP доступен на тарифе Эксперт; ИИ-инсайты указаны в платной линейке. Точная тарифная граница встроенного портфельного чата не установлена. Есть пробный период",
+    "limitations": "MCP работает только на чтение, не изменяет портфель и не совершает операций от имени клиента. Частота запросов ограничена. У российской версии и международного Snowball Analytics различаются история обновлений и условия.",
+    "sources": [
+      "https://help.snowball-income.com/changelog/",
+      "https://help.snowball-income.com/kak-podkliuchit-snowball-income-k-claude-cursor-i-drughim-ii-prilozhieniiam/",
+      "https://snowball-income.com/docs/Terms.pdf",
+      "https://snowball-income.com/pricing"
+    ],
+    "page": "russia.md#rua01"
+  },
+  {
+    "id": "RUA02",
+    "name": "InvestFuture+: персональный AI-ассистент IF+",
+    "country": "Россия",
+    "segment": "B2C, платная инвестиционная образовательная и аналитическая подписка",
+    "status": "Предлагается в составе действующей подписки IF+",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точная дата первого запуска не раскрыта; функция присутствует в предложении на 15 ноября 2026",
+    "ai_type": "Встроенный генеративный чат на ChatGPT",
+    "model_disclosure": "Поставщик пишет о подключении к последней версии ChatGPT; точный идентификатор модели, версия и политика обновления не раскрыты",
+    "use_case": "Ответы на инвестиционные вопросы с учётом профиля пользователя, подбор идей и навигация по материалам IF+",
+    "features": [
+      "Персонализация по инвестиционному профилю",
+      "Помощь с поиском инвестиционных идей",
+      "Навигация по платформе и её образовательным материалам"
+    ],
+    "access": "В составе платной IF+. Лендинг одновременно показывает несколько вариантов подписки; точное право на ассистент в каждом тарифе и минимальный срок доступа не установлены",
+    "limitations": "Ассистент аналитической и образовательной платформы. Доступ к брокерскому счёту и исполнение сделок не подтверждены. Заявление о последней версии ChatGPT не устанавливает конкретный идентификатор модели.",
+    "sources": [
+      "https://investfuture.plus/"
+    ],
+    "page": "russia.md#rua02"
+  },
+  {
+    "id": "RUA03",
+    "name": "HADL: встроенный ИИ-чат и внешний MCP-ассистент",
+    "country": "Русскоязычный сервис для российских частных инвесторов; юрисдикция оператора отдельно не установлена",
+    "segment": "B2C, учёт и аналитика сводного инвестиционного портфеля",
+    "status": "Доступны встроенный чат и MCP; функции развиваются по истории обновлений",
+    "status_as_of": "2026-11-15",
+    "launch_date": "AI-распределение 26 апреля 2026; MCP 27 июля; портфельный чат не позднее 5 сентября. Первая дата общего ИИ-чата неизвестна",
+    "ai_type": "Генеративный встроенный чат; внешние LLM ChatGPT/Claude по MCP; анализ изображений",
+    "model_disclosure": "Внешние клиенты ChatGPT/Claude названы. Модель встроенного чата и точные версии не раскрыты",
+    "use_case": "Объяснить портфель, найти бумаги, рассчитать результаты и цели, перенести учётные операции из текста или скриншота",
+    "features": [
+      "Портфельные ответы и расчёты TWR/XIRR с использованием расчётных функций HADL",
+      "Интернет-поиск и скринеры акций/облигаций",
+      "Память о стратегии и целях, уведомления, целевая структура",
+      "Распознавание брокерских скриншотов и импорт отчётов",
+      "Запись и отмена учётных операций после превью и подтверждения",
+      "MCP даёт внешнему AI доступ к аналитике и изменению учётных данных"
+    ],
+    "access": "Встроенный чат: Бесплатный 5 сообщений/день и 5 портфельных ответов за всё время; Лайт 10/день; Базовый 20/день; Премиум без указанного лимита. Скринеры, операции и раскладки в чате на Базовом/Премиуме. MCP на Базовом/Премиуме; внешний AI оплачивается отдельно, если требует подписки",
+    "limitations": "Запись сделки означает изменение учётного портфеля HADL, а не отправку приказа брокеру. При последующей синхронизации возможны дубли. Для перезаписи целевой структуры и учётных сделок требуется подтверждение.",
+    "sources": [
+      "https://docs.hadl.app/ai-chat",
+      "https://docs.hadl.app/ai-assistant",
+      "https://docs.hadl.app/changelog"
+    ],
+    "page": "russia.md#rua03"
+  },
+  {
+    "id": "RUA04",
+    "name": "Bonds-Lab: LLM-анализ эмитентов и MCP",
+    "country": "Россия / сервис анализа российского долгового рынка",
+    "segment": "B2C, скринер и аналитика облигаций; отдельный B2B MCP/API",
+    "status": "Доступны AI-анализ для частного инвестора и отдельный MCP/API",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Первая дата неизвестна; страница AI-анализа обновлена в июле 2026",
+    "ai_type": "LLM для текста кредитного анализа; внешний LLM-клиент через MCP",
+    "model_disclosure": "Первичная документация явно называет LLM, системный промпт и финансовые показатели. Название модели встроенного анализа не раскрыто. Для MCP внешняя модель определяется клиентом",
+    "use_case": "Понятное заключение по кредитным рискам эмитента, поиск выпусков и анализ облигационного портфеля",
+    "features": [
+      "Сбор показателей отчётности МСФО/РСБУ, расчёт мультипликаторов и передача в LLM с системным промптом",
+      "Текстовые выводы о долговой нагрузке, прибыли, ликвидности и рисках",
+      "MCP-инструменты поиска облигаций, отчётности эмитента и портфельных расчётов",
+      "Анализ календаря, целевого дохода и сценариев",
+      "Виртуальные учётные портфели с операциями buy/sell"
+    ],
+    "access": "Розничная веб-платформа имеет платные тарифы; точный тариф AI-анализатора не раскрыт. MCP/API требует отдельной B2B-подписки на 1, 3, 6 или 12 месяцев",
+    "limitations": "MCP/API является профессиональным предложением с отдельной оплатой. Операции покупки и продажи относятся к виртуальному учётному портфелю, а не исполнению у брокера. Мобильное приложение находится в разработке.",
+    "sources": [
+      "https://bonds-lab.ru/features/ai-analysis",
+      "https://bonds-lab.ru/api-docs",
+      "https://bonds-lab.ru/"
+    ],
+    "page": "russia.md#rua04"
+  },
+  {
+    "id": "RUA05",
+    "name": "Первая – Фонд Искусственный интеллект (AIIQ)",
+    "country": "Россия",
+    "segment": "B2C, биржевой ПИФ активного управления; AI внутри процесса инвестирования",
+    "status": "Биржевые торги начаты; AI-агентный отбор акций описан управляющей компанией. Это выпущенный фонд, а не анонс будущего ассистента",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-10-07: дата начала торгов по решению Московской биржи. Официальное объяснение AI-процесса опубликовано 2026-10-08. Правила фонда зарегистрированы 2026-06-11",
+    "ai_type": "Мультиагентный анализ и отбор акций с человеком, принимающим окончательное решение. Точная LLM-реализация в доступной первичной публикации не раскрыта",
+    "model_disclosure": "Официально описаны четыре AI-агента и их роли. Названия и версии моделей не раскрыты; не следует самостоятельно приписывать GigaChat, GPT или другую LLM",
+    "use_case": "Получить через биржевой пай портфель российских акций, при составлении которого используется система AI-агентов",
+    "features": [
+      "Агент конкурентного анализа изучает портфели сопоставимых активных фондов",
+      "Агент фундаментального анализа рассматривает финансовые показатели",
+      "Новостной агент оценивает влияние событий",
+      "Агент-супервайзер сводит выводы в модельный портфель",
+      "Управляющий проверяет модель и принимает окончательные решения о сделках"
+    ],
+    "access": "Биржевой фонд AIIQ, ISIN RU000A10FF36, первый уровень листинга. По официальному сообщению УК статус квалифицированного инвестора для покупки не требуется; покупка через брокера с доступом к инструменту",
+    "limitations": "Не является полностью автономным фондом. Управляющая компания описывает проект как эксперимент; превосходство над бенчмарком является целью, не доказанным результатом. Начало торгов доказано биржей, внутренняя AI-механика подтверждена объяснением УК и не аудитировалась. Это продукт УК «Первая», его нельзя выдавать за запуск SberInvest AI",
+    "sources": [
+      "https://www.moex.com/n104889",
+      "https://t.me/am_first/2001",
+      "https://www.kommersant.ru/doc/9008884"
+    ],
+    "page": "russia.md#rua05"
+  },
+  {
+    "id": "RA01",
+    "name": "PortfolioPilot",
+    "country": "США",
+    "segment": "B2C, персональная портфельная аналитика",
+    "status": "Работает; персонализированные рекомендации и LLM-помощник доступны по подписке",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Текущая инструкция AI Assistant опубликована 1 марта 2025; точный первый запуск не установлен",
+    "ai_type": "LLM поверх портфельного движка, моделей риска и расчётных инструментов",
+    "model_disclosure": "Применение LLM раскрыто; конкретные текущие провайдеры и версии не названы",
+    "use_case": "Объяснить риск портфеля, сравнить фонды и проверить изменение плана",
+    "features": [
+      "Анализ портфеля, диверсификации, ожидаемых показателей и комиссий",
+      "Пенсионные и рыночные стресс-сценарии",
+      "Скрининг акций и сравнение фондов",
+      "Создание чернового портфеля для сопоставления с текущим"
+    ],
+    "access": "Free включает базовый учёт; AI Assistant доступен в Gold, Platinum и Pro с разными лимитами. Gold от $20 в месяц; заявлен 10-дневный пробный период.",
+    "limitations": "Подключённые счета доступны только для чтения; сервис не отправляет сделки и не переводит деньги. Рекомендации формирует гибридная система, а не одна языковая модель. Маркетинговое название Financial AGI не подтверждает универсальную точность.",
+    "sources": [
+      "https://portfoliopilot.com/help/tutorials/tutorial-ai-assistant",
+      "https://portfoliopilot.com/technology",
+      "https://portfoliopilot.com/"
+    ],
+    "page": "research-services.md#ra01"
+  },
+  {
+    "id": "RA02",
+    "name": "Mezzi",
+    "country": "США",
+    "segment": "B2C, портфель и управление личным капиталом",
+    "status": "Работает; обновления продукта продолжаются в ноябре 2026",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Генеративный ассистент с ноября 2024 по исследованию платформы; расширение публично описано 4 февраля 2025",
+    "ai_type": "Генеративный портфельный помощник и исследования по расписанию",
+    "model_disclosure": "В исследовании пользовательских данных указаны семейства ChatGPT и Gemini; актуальная модель конкретного аккаунта не установлена",
+    "use_case": "Сопоставить счета, концентрацию и налоговые последствия инвестиционного решения",
+    "features": [
+      "Объединение брокерских, пенсионных и иных финансовых счетов",
+      "Анализ реальной экспозиции через фонды, комиссий и концентрации",
+      "Обсуждение налоговых возможностей и пенсионных сценариев",
+      "Делегирование мониторинга по расписанию и анализ загруженных документов"
+    ],
+    "access": "Free с ограниченными AI-подсказками; Advisory $399 в год, Concierge $999 в год по отображаемой годовой оплате. Набор агентов и лимиты зависят от плана.",
+    "limitations": "Подключения только для чтения; торговля, переводы и подготовка налоговой декларации не выполняются. Анализ ограничен полнотой доступных счетов и налоговых лотов. Число подключённых активов не является активами под управлением.",
+    "sources": [
+      "https://support.mezzi.com/articles/4231112703-what-mezzi-does-and-what-it-doesn-t",
+      "https://www.mezzi.com/pricing",
+      "https://www.mezzi.com/whats-new",
+      "https://valeriebaldinger.github.io/files/generative_ai_and_retail_investment.pdf"
+    ],
+    "page": "research-services.md#ra02"
+  },
+  {
+    "id": "RA03",
+    "name": "Origin / AI Advisor",
+    "country": "США",
+    "segment": "B2C, финансовое планирование и инвестиции",
+    "status": "Работает; проактивная версия обновлена 8 сентября 2026",
+    "status_as_of": "2026-11-15",
+    "launch_date": "AI Advisor документирован в 2025; проактивное расширение 2026-09-08",
+    "ai_type": "Ансамбль LLM с финансовыми проверками и расчётами",
+    "model_disclosure": "В справке названы Claude Opus, GPT, Gemini и Perplexity Sonar Pro; точные версии не указаны",
+    "use_case": "Увязать инвестиции, риск-профиль и пенсионные цели с полной финансовой картиной",
+    "features": [
+      "Вопросы и моделирование финансовых решений на данных пользователя",
+      "Проактивные проверки по инвестициям, пенсии, денежным потокам и другим областям",
+      "Персональные Actions и Financial Health Score",
+      "Рекомендации учитывают подключённые счета и заполненный профиль риска"
+    ],
+    "access": "Встроен в Origin; доступ и цена зависят от прямой подписки, работодателя или партнёрской программы. Промоусловия меняются.",
+    "limitations": "Actions представляют подсказки для решения, а не подтверждение автоматического исполнения. Продукт Origin Invest и AI Advisor являются разными функциями экосистемы. Результаты тестовых экзаменов не устанавливают качество реальных инвестиционных решений.",
+    "sources": [
+      "https://support.useorigin.com/hc/en-us/articles/39417344659341-Introducing-AI-Advisor-Your-Personal-Financial-Guide",
+      "https://support.useorigin.com/hc/en-us/articles/39417044720397-What-LLM-s-does-AI-Advisor-use",
+      "https://support.useorigin.com/hc/en-us/articles/20957761151757-AI-Advisor-Disclaimers-and-Limitations"
+    ],
+    "page": "research-services.md#ra03"
+  },
+  {
+    "id": "RA04",
+    "name": "ChatGPT / Finances",
+    "country": "США, доступ ограничен регионом",
+    "segment": "B2C, финансовая функция универсального ИИ-продукта",
+    "status": "Работает; с октября 2026 поэтапно расширяется на бесплатные планы",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Preview 15 мая 2026; Plus/Pro 25 июня; расширение Free/Go 2 октября 2026",
+    "ai_type": "LLM-анализ с контекстом подключённых финансовых счетов",
+    "model_disclosure": "Модели OpenAI; отдельная фиксированная модель Finances в релизе не названа",
+    "use_case": "Понять инвестиционные риски и место активов в общей финансовой картине",
+    "features": [
+      "Подключение поддерживаемых счетов через Plaid",
+      "Сводная картина активов, обязательств и инвестиционной информации",
+      "Контекстные финансовые вопросы, сценарии и списки наблюдения за акциями",
+      "Недельные обновления, голосовой режим и ручное добавление счетов"
+    ],
+    "access": "США; веб, iOS и Android. Plus/Pro доступны с июня; Free/Go подключаются поэтапно с октября. Некоторые дополнительные функции имеют собственные тарифные ограничения.",
+    "limitations": "Собственная функция Finances не переводит деньги, не отправляет сделки и не подаёт налоговые декларации. Возможности сторонних брокерских подключений следует оценивать отдельно от Finances. Доступ в России этим релизом не предусмотрен.",
+    "sources": [
+      "https://openai.com/index/personal-finance-chatgpt/",
+      "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+    ],
+    "page": "research-services.md#ra04"
+  },
+  {
+    "id": "ASB01",
+    "name": "Simply Wall St: Charlie AI",
+    "country": "Австралия; международный сервис",
+    "segment": "B2C/prosumer исследовательская платформа и портфельный сервис",
+    "status": "Доступен: официальный сайт Charlie прямо сообщает live для бесплатных и платных пользователей",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Дата первого запуска не раскрыта",
+    "ai_type": "Диалоговый генеративный инвестиционный агент; точная LLM не раскрыта",
+    "model_disclosure": "Провайдер и версии моделей не раскрыты в проверенных первичных страницах",
+    "use_case": "Исследование акций и портфеля в диалоге, поиск возможностей и рисков",
+    "features": [
+      "Вопросы об отчётности и аналитических публикациях",
+      "Портфельный контекст и инвестиционный профиль",
+      "Исследование компаний, поиск возможностей и рисков",
+      "Отдельно у сервиса есть AI Transaction Import; это самостоятельная функция импорта, а не доказательство исполнения сделок"
+    ],
+    "access": "Charlie уже внутри Simply Wall St, для Free и платных тарифов. Текущая сравнительная таблица помечает Charlie AI как Limited во всех трёх планах; точные численные лимиты на открытой странице не указаны.",
+    "limitations": "На маркетинговом сайте есть формулировки об agentic framework, rebalancing и действиях. Они не доказывают доступное исполнение брокерских поручений внутри текущего B2C Charlie; торговые действия здесь не подтверждены. Конкретная дата запуска не установлена.",
+    "sources": [
+      "https://charlieinvest.ai/",
+      "https://simplywall.st/plans"
+    ],
+    "page": "research-services.md#asb01"
+  },
+  {
+    "id": "ASB02",
+    "name": "Mirae Asset Securities MAPS: AI-сводки и генеративная аналитика",
+    "country": "Южная Корея",
+    "segment": "B2C брокерское приложение; аналитический контент",
+    "status": "Текущие AI-сервисы перечислены в официальной карточке MAPS, обновлённой 16.10.2026; генеративные отчёты отдельно подтверждены релизом 07.05.2024",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2024-05-07 для первых AI company-analysis reports; дата запуска текущих модулей MAPS не установлена",
+    "ai_type": "AI-сводки в текущем приложении; генеративный AI в подготовке аналитических отчётов подтверждён отдельно",
+    "model_disclosure": "Собственные AI agents в релизе 2024; базовая LLM и версия не раскрыты. Релиз не позволяет автоматически приписать тот же стек каждому модулю MAPS 2026.",
+    "use_case": "Быстрое чтение рынка, новостей компаний и аналитики в брокерском приложении",
+    "features": [
+      "Market NOW / AI Market Summary",
+      "AI Issue Check",
+      "AI Business Summary",
+      "AI-генерация черновиков аналитических отчётов, графиков и таблиц с проверкой аналитиком перед публикацией"
+    ],
+    "access": "Корейское брокерское приложение MAPS (прежнее название M-STOCK), текущая Google Play карточка официального разработчика Mirae Asset Securities. Тариф и индивидуальные права на AI-модули отдельно не раскрыты.",
+    "limitations": "Текущая карточка приложения подтверждает клиентскую AI-поверхность, но не называет каждый модуль LLM. Старый релиз доказывает GenAI-производство контента с редактурой аналитика. Это не доказательство диалогового автономного трейдера или AI-исполнения ордеров.",
+    "sources": [
+      "https://play.google.com/store/apps/details?id=com.miraeasset.trade&hl=en",
+      "https://securities.miraeasset.com/newir/view/pc/kr/about/newsView.jsp?seq=571"
+    ],
+    "page": "brokers.md#asb02"
+  },
+  {
+    "id": "ASB03",
+    "name": "baraka AI",
+    "country": "ОАЭ; ориентирован на розничных инвесторов GCC",
+    "segment": "B2C брокерское приложение",
+    "status": "Текущая исследовательская AI-функция на официальном сайте и в описании приложения; LLM-архитектура публично не подтверждена",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Дата первого запуска не раскрыта",
+    "ai_type": "Инвестиционный AI-ассистент; принадлежность к LLM не раскрыта",
+    "model_disclosure": "Провайдер, модель и прямое раскрытие LLM/GenAI не найдены в проверенных первичных страницах",
+    "use_case": "Исследование акций, объяснение движений рынка и финансовых тенденций",
+    "features": [
+      "Персональный AI investment research assistant",
+      "Рыночные сведения и AI insights",
+      "Позиционируется как доступный круглосуточно"
+    ],
+    "access": "Внутри baraka для подходящих клиентов GCC; точный тариф AI и индивидуальная доступность по странам не установлены. Текущая официальная Android-карточка перечисляет BARAKA AI.",
+    "limitations": "В строгий список подтверждённых LLM не включать: установлен AI-продукт, но не раскрыта его архитектура. Старый поисковый снимок landing упоминал coming soon Android; текущая Google Play карточка уже перечисляет AI. Это подтверждает актуальное описание Android, но не личное тестирование функции или доступность каждому клиенту. AI-исполнение ордеров не подтверждено.",
+    "sources": [
+      "https://akhbaraka.com/features",
+      "https://play.google.com/store/apps/details?hl=en_US&id=com.baraka.app"
+    ],
+    "page": "brokers.md#asb03"
+  },
+  {
+    "id": "ASB04",
+    "name": "Itaú Investment Intelligence / Inteligência de Investimentos Itaú",
+    "country": "Бразилия",
+    "segment": "B2C инвестиционный агент внутри банковского Super App",
+    "status": "Запущен 05.06.2025 с постепенным расширением; официальный материал, обновлённый 14.05.2026, сообщает примерно 60 тыс. клиентов",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2025-06-05",
+    "ai_type": "Явно заявленный GenAI-агент поверх собственных моделей инвестиционного подбора",
+    "model_disclosure": "GenAI раскрыт, провайдер LLM и версии не раскрыты; инвестиционные рекомендации продолжают опираться на собственные модели и алгоритмы Itaú",
+    "use_case": "Персонализированные инвестиционные вопросы, рекомендации и ограниченные операции в чате",
+    "features": [
+      "Диалог об инвестициях и характеристиках продуктов",
+      "Рекомендации с учётом профиля и целей",
+      "Операции CDB-DI через инвестиционный раздел Super App",
+      "Возможность обратиться к человеку-специалисту"
+    ],
+    "access": "Для выбранных клиентов Itaú в Super App, без отдельной платы за агента. При запуске 10 тыс. клиентов; позднейший официальный материал сообщает около 60 тыс. и расширение в 2026. Всеобщий GA для всей базы на дату среза не подтверждён.",
+    "limitations": "CDB-DI — ограниченный класс банковских инвестиционных продуктов, а не универсальное исполнение торговых стратегий. Размер аудитории является заявлением банка в датированном материале, а не измерением на 15.11.2026. Продуктовый подбор банка ограничивает универсальность рекомендаций.",
+    "sources": [
+      "https://www.itau.com.br/relacoes-com-investidores/noticias/itau-lanca-agente-de-investimentos-baseado-em-inteligencia-artificial-generativa/?lang=en",
+      "https://feito-itau.cloud.itau.com.br/pioneira-ia-do-itau-democratiza-acesso-ao-mundo-dos-investimentos/"
+    ],
+    "page": "brokers.md#asb04"
+  },
+  {
+    "id": "ASB05",
+    "name": "Stock Analysis: AI Analyst",
+    "country": "США; международная исследовательская платформа",
+    "segment": "B2C/prosumer исследовательский терминал",
+    "status": "Запущен 14.11.2026; действующая продуктовая страница с требованием Pro",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-11-14",
+    "ai_type": "Генеративный диалоговый аналитик с инструментами данных, графиков и скрининга; базовая модель не раскрыта",
+    "model_disclosure": "Провайдер и версия LLM не раскрыты в проверенных продуктовых страницах",
+    "use_case": "Исследование акций, фондов и портфеля через естественный язык",
+    "features": [
+      "Ответы на основе финансовых данных, filings и earnings-call transcripts",
+      "Построение графиков и таблиц",
+      "Запуск stock screens",
+      "Анализ портфеля",
+      "Ask AI в веб-интерфейсе и AI tab в мобильном приложении"
+    ],
+    "access": "Включён в Stock Analysis Pro; также Unlimited содержит всё из Pro. Pro $79/год ($6.58/месяц при годовой оплате) или $9.99/месяц по текущему pricing. Продуктовая страница требует Pro/login.",
+    "limitations": "Новейший запуск непосредственно перед датой среза; подтверждён официальным changelog и live product page, но не испытан на платном аккаунте. Не найдено публичного раскрытия модели, AI-квот или брокерского исполнения поручений.",
+    "sources": [
+      "https://stockanalysis.com/changelog/",
+      "https://stockanalysis.com/ai/",
+      "https://stockanalysis.com/pro/"
+    ],
+    "page": "research-services.md#asb05"
+  },
+  {
+    "id": "GBB01",
+    "name": "Intelligent Alpha Atlas ETF (GPT), ранее Intelligent Livermore ETF (LIVR)",
+    "country": "США",
+    "segment": "B2C-accessible LLM-driven ETF",
+    "status": "Действующий биржевой фонд; актуальное имя и тикер GPT",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Начало работы 2024-09-17, публичный биржевой запуск 2024-09-18; переименование и смена тикера 2025-09-29",
+    "ai_type": "LLM участвуют в выборе инвестиционных тем, бумаг и весов; человек проверяет соответствие правилам",
+    "model_disclosure": "Релиз запуска называет GPT, Claude и Gemini. Актуальный проспект 31.10.2026 описывает три отдельные LLM без названий и версий; неизменность поставщиков к ноябрю не установлена.",
+    "use_case": "Купить долю общего портфеля, при формировании которого используются решения LLM.",
+    "features": [
+      "Каждая из трёх моделей предлагает шесть рыночных тем и до пяти бумаг на тему.",
+      "Доли трёх модельных портфелей объединяются по одной трети после проверки человеком; общий портфель обычно содержит 60–90 компаний.",
+      "По проспекту доля одной бумаги ограничена 10%; пересмотр обычно проводится как минимум ежеквартально."
+    ],
+    "access": "ETF на Nasdaq под тикером GPT, доступ через брокера, который предоставляет этот рынок и инструмент. Текущие годовые расходы фонда по проспекту 0,69%; брокерские комиссии возможны отдельно.",
+    "limitations": "Это общий инвестиционный продукт с управляющим, а не личный AI-ассистент инвестора. Человек задаёт процесс и проверяет допустимость активов; проспект не описывает бесконтрольное выполнение любой идеи модели. Сам факт работы фонда не доказывает устойчивое преимущество LLM по доходности. Старый тикер LIVR нельзя выдавать за актуальный.",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004964/intelligentalphaatlasetf.htm",
+      "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004195/ck0001592900-20260630.htm",
+      "https://etfarchitect.com/wp-content/uploads/compliance/etf/press_release/LIVR_Launch.pdf"
+    ],
+    "page": "funds.md#gbb01"
+  },
+  {
+    "id": "GBB02",
+    "name": "Intelligent Alpha: плановая линейка AIWB, ALPA, IA и AISM",
+    "country": "США",
+    "segment": "Planned B2C-accessible LLM-driven ETFs",
+    "status": "Зарегистрированные/описанные продукты, которые по документам 31.10.2026 ещё не начали операции; более поздний запуск не подтверждён",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Дата начала операций не объявлена; по документам 31 октября 2026 продукты ещё не начали работу",
+    "ai_type": "Плановая конструкция портфеля тремя LLM под контролем аналитика",
+    "model_disclosure": "Три large language models описаны прямо; их актуальные названия и версии в проспекте не указаны.",
+    "use_case": "Расширить модель LLM-отбора на несколько инвестиционных стратегий.",
+    "features": [
+      "Intelligent Omaha ETF (AIWB): качественные и стоимостные глобальные компании.",
+      "Intelligent Equal Select ETF (ALPA): широкий портфель крупных компаний.",
+      "Intelligent Tech Focus ETF (IA): технологические компании.",
+      "Intelligent Small Cap Select ETF (AISM): компании малой капитализации."
+    ],
+    "access": "В проспекте и SAI указаны плановые тикеры Nasdaq, но документы прямо сообщают об отсутствии начавшихся операций по состоянию на 31.10.2026. Доступность покупки к 15.11.2026 по рассмотренным источникам не установлена.",
+    "limitations": "Наличие проспекта и тикера не равнозначно фактическому запуску торгов. Эти четыре стратегии сгруппированы в одну плановую инициативу, чтобы не считать их четырьмя работающими B2C-продуктами.",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004781/ck0001592900-20261023.htm"
+    ],
+    "page": "funds.md#gbb02"
+  },
+  {
+    "id": "GBB05",
+    "name": "Defiance LLM Catalyst Momentum ETF (AIED), ранее Qraft AMOM",
+    "country": "США; технология Qraft из Южной Кореи",
+    "segment": "B2C-accessible LLM-assisted ETF",
+    "status": "Действующий ETF; актуальная стратегия включает LLM-сигнал",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Фонд работает с 2019 года; новое имя, тикер и добавление LLM-сигнала: 2026-10-19",
+    "ai_type": "Количественная momentum-стратегия, дополненная LLM-анализом новостей",
+    "model_disclosure": "Технология Qraft; конкретные поставщики и версии LLM не раскрыты.",
+    "use_case": "Участвовать в стратегии, которая сочетает ценовой momentum и интерпретацию корпоративных новостей.",
+    "features": [
+      "Количественная модель оценивает momentum и прогнозирует относительное движение цен.",
+      "LLM-слой читает новости компаний и выделяет необычно положительные или отрицательные события.",
+      "Ожидаемый портфель — 50 компаний; база отбора обновляется каждые четыре недели."
+    ],
+    "access": "NYSE Arca, тикер AIED; покупка через брокеров с доступом к инструменту. Расходы фонда по актуальному проспекту — 0,75% в год.",
+    "limitations": "Управляющий Exchange Traded Concepts сохраняет полную свободу инвестиционного решения и может отклониться от AI-портфеля. Историю старого AMOM нельзя считать историей эффективности нового LLM-слоя: он добавлен в описание стратегии только 19.10.2026. Defiance является спонсором, а не инвестиционным управляющим.",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1547950/000121390026110382/ea0308745-01_497.htm",
+      "https://www.defianceetfs.com/aied/"
+    ],
+    "page": "funds.md#gbb05"
+  },
+  {
+    "id": "GBB06",
+    "name": "Evolve Artificial Intelligence Fund (ARTI)",
+    "country": "Канада",
+    "segment": "B2C-accessible LLM-assisted thematic ETF",
+    "status": "Действующий ETF",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Начало работы 2024-03-22; начало торгов TSX 2024-03-25",
+    "ai_type": "LLM ранжирует компании по связи с AI-темой для последующего выбора управляющим",
+    "model_disclosure": "Собственная технология large language models Boosted.ai; используемая базовая модель и её версия не раскрыты.",
+    "use_case": "Инвестировать в компании, которые могут выиграть от распространения AI; LLM участвует в их тематическом отборе.",
+    "features": [
+      "Boosted.ai определяет и ранжирует связь эмитента с развитием и внедрением AI.",
+      "Evolve рассматривает результат и принимает окончательное решение о составе портфеля.",
+      "Портфель пересматривается ежеквартально."
+    ],
+    "access": "Toronto Stock Exchange, тикер ARTI, доли с хеджированием в CAD. В карточке фонда за май 2026 указана комиссия управления 0,60% плюс применимые налоги; это не полная сумма всех расходов инвестора.",
+    "limitations": "ARTI одновременно тематический AI-фонд и пример применения LLM при отборе. Это более узкая роль модели, чем самостоятельный выбор любых рыночных тем: окончательный состав определяет Evolve. Приобретение доли не даёт инвестору личного чат-советника.",
+    "sources": [
+      "https://evolveetfs.com/2024/03/evolve-artificial-intelligence-fund-begins-trading-today-on-tsx/",
+      "https://evolveetfs.com/wp-content/uploads/2026/05/ARTI-overview_APR_30_2026-EN.pdf"
+    ],
+    "page": "funds.md#gbb06"
+  },
+  {
+    "id": "GBB03",
+    "name": "CMC Markets: подключение счёта к ChatGPT",
+    "country": "Великобритания",
+    "segment": "B2C broker / terminal",
+    "status": "Запущено для британских CFD-счетов",
+    "status_as_of": "2026-11-15",
+    "launch_date": "2026-09-24",
+    "ai_type": "Внешняя LLM получает брокерские и рыночные данные через официальное подключение",
+    "model_disclosure": "ChatGPT; конкретная версия модели не зафиксирована в документах CMC.",
+    "use_case": "Обсуждать свой CFD-счёт, позиции и рынок в ChatGPT.",
+    "features": [
+      "Сводка баланса, стоимости счёта, открытых позиций и поручений.",
+      "Поиск рынков, текущие или отложенные котировки и графики по историческим ценам."
+    ],
+    "access": "Официальное приложение CMC Markets в ChatGPT, подключение поддерживаемого британского CFD-счёта. Счета spread betting не поддерживаются; отдельная плата за коннектор в рассмотренных материалах не указана.",
+    "limitations": "Подключение работает только на чтение. Оно не позволяет подавать, изменять или отменять поручения, открывать/закрывать позиции, переводить деньги или менять счёт. Доступность реального времени зависит от разрешений на рыночные данные; возможны цены с задержкой 15 минут.",
+    "sources": [
+      "https://www.cmcmarkets.com/group/press-releases/cmc-markets-connects-client-accounts-and-market-data-with-chatgpt",
+      "https://www.cmcmarkets.com/en-gb/trading-platforms/ai-integrations"
+    ],
+    "page": "brokers.md#gbb03"
+  },
+  {
+    "id": "GBB04",
+    "name": "ThinkMarkets ChelseaAI в ThinkTrader",
+    "country": "Международный брокер; правовые условия зависят от юридического лица",
+    "segment": "B2C broker / terminal",
+    "status": "По справке доступен на demo и live ThinkTrader; на продуктовой странице также сохранён лист ожидания для доступности на выбранной платформе",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Публичные инструкции и правовые условия: июнь 2026; точная дата первого запуска не установлена",
+    "ai_type": "Внешние LLM выполняют явно запрошенные операции через официальный MCP-сервер",
+    "model_disclosure": "Открытый MCP-интерфейс: Claude, ChatGPT и другие совместимые ассистенты; конкретную модель выбирает клиент.",
+    "use_case": "Управлять торговыми действиями в разговоре с AI вместо меню терминала.",
+    "features": [
+      "Просмотр счёта, позиций, рыночных данных и торговой истории.",
+      "По команде пользователя: рыночные и отложенные поручения, закрытие позиций, изменение stop loss / take profit."
+    ],
+    "access": "Поддерживаемые demo/live счета ThinkTrader. Есть доступ только на чтение и полный доступ; брокер не взимает отдельную плату за ChelseaAI, у внешнего ассистента могут быть свои тарифы. Географию нужно проверять по обслуживающему юридическому лицу.",
+    "limitations": "Не работает автономно, по расписанию или сигналам; не рекомендует сделки и не переводит средства. Британские дополнительные условия прямо требуют проверить и подтвердить каждое поручение перед отправкой. Лист ожидания на продуктовой странице означает, что доступность для всех платформ и клиентов нельзя считать универсальной.",
+    "sources": [
+      "https://www.thinkmarkets.com/en/help-centre/ai-trading/",
+      "https://www.thinkmarkets.com/getmedia/94e7b202-2e04-460b-8daf-56397a30876a/TM_AI_Supplementary_Terms_UK.pdf?ext=.pdf",
+      "https://www.thinkmarkets.com/en/ai-trading/chelsea-ai/"
+    ],
+    "page": "brokers.md#gbb04"
+  },
+  {
+    "id": "RUB01",
+    "name": "ВТБ Мои Инвестиции: ИИ-помощники для новостей",
+    "country": "Россия",
+    "segment": "B2C, AI-функции в брокерском приложении",
+    "status": "Выпущена новостная AI-функция; использование LLM не раскрыто",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Первый запуск функции не установлен; новостной AI-обзор присутствовал в октябрьском релизе 2026",
+    "ai_type": "NLP / AI-анализ новостей и текстовая суммаризация; использование именно LLM не подтверждено",
+    "model_disclosure": "Поставщик называет алгоритмы искусственного интеллекта, но не раскрывает семейство, архитектуру или версию модели. Генеративную/LLM-реализацию нельзя считать установленной",
+    "use_case": "Быстро понять суть новости и предполагаемое направление её влияния на акции",
+    "features": [
+      "Зелёная, красная или серая метка предполагаемого влияния новости на динамику актива",
+      "Переход с метки к графику акции",
+      "AI-выжимка из новости",
+      "Для iPhone-релиза октября 2026 отдельно заявлен обзор главных событий дня"
+    ],
+    "access": "В брокерском приложении ВТБ Мои Инвестиции; Android-карточка доступна в RuStore. Отдельная плата за новостной AI в карточке не указана. Актуальная загрузка iPhone-версии по октябрьскому имени Kafario не подтверждена",
+    "limitations": "Не смешивать с сервисом автоматического инвестконсультирования «Интеллект» RU12. Новостной AI не получает из этого описания торговых прав. Точность классификации влияния и суммаризации не проверялась. В раздел подтверждённых LLM-продуктов не включать. Текущая Android-карточка и октябрьский iPhone-анонс не доказывают полного совпадения интерфейсов",
+    "sources": [
+      "https://www.rustore.ru/catalog/app/ru.vtb.invest",
+      "https://t.me/brokervtb/6701",
+      "https://www.rbc.ru/quote/02/10/2026/6abf77009a794742f0996ecc"
+    ],
+    "page": "russia.md#rub01"
+  },
+  {
+    "id": "RWB01",
+    "name": "Questrade Pro Intelligence и Questrade MCP",
+    "country": "Канада",
+    "segment": "B2C, торговый терминал и внешняя интеграция",
+    "status": "Questrade Pro в открытой beta; Intelligence и MCP документированы как доступные",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Точные первые даты не установлены; текущие документы относятся к платформе 2026",
+    "ai_type": "Встроенный генеративный LLM-помощник и отдельное подключение внешних моделей",
+    "model_disclosure": "Intelligence предоставляется Boosted.ai; раскрыты инфраструктурные провайдеры OpenAI и Anthropic, конкретная модель не названа",
+    "use_case": "Исследовать бумагу в терминале и подготовить действие из внешнего AI-клиента",
+    "features": [
+      "Intelligence отвечает на вопросы об акции, секторе и теме внутри браузерного терминала",
+      "Отдельный MCP использует позиции и историю брокерского счёта",
+      "MCP готовит заявку, а подтверждение приходит в приложение через Push Approval"
+    ],
+    "access": "Pro работает в браузере, Intelligence временно доступен для бесплатной пробы. MCP требует счёт, совместимый AI-клиент и настройку прав; подтверждения через приложение версии 2.0.0 и новее.",
+    "limitations": "Intelligence является информационным инструментом и не соединён с исполнением заявок. Торговые действия относятся к отдельному MCP; каждая заявка требует подтверждения. Автоматическое распознавание графических паттернов является другой функцией и не доказывает использование LLM.",
+    "sources": [
+      "https://www.questrade.com/disclosure/legal-notice-and-disclosures/questrade-ai-assistant-important-disclosures-and-risk-information",
+      "https://invest.questrade.com/questrade-pro",
+      "https://wealth.questrade.com/mcp"
+    ],
+    "page": "terminals.md#rwb01"
+  },
+  {
+    "id": "RWB02",
+    "name": "Wealthsimple / Penny и AI integrations",
+    "country": "Канада",
+    "segment": "B2C, планируемый финансовый и торговый помощник",
+    "status": "Анонс и список ожидания; запуск планируется в начале 2027",
+    "status_as_of": "2026-11-15",
+    "launch_date": "Анонс 5 ноября 2026; продуктовая страница указывает начало 2027",
+    "ai_type": "Диалоговый агентный AI; архитектура встроенной модели не раскрыта",
+    "model_disclosure": "Модель Penny неизвестна; отдельно анонсированы внешние подключения Claude и ChatGPT",
+    "use_case": "Связать финансовую цель с регулярными инвестициями и подтверждаемыми торговыми действиями",
+    "features": [
+      "Планируются вопросы о диверсификации и действия по финансовой цели",
+      "Покупка и продажа акций и ETF, регулярные инвестиции",
+      "Отдельное подключение счетов к Claude и ChatGPT",
+      "Проверка и подтверждение клиентом перед торговым или денежным действием"
+    ],
+    "access": "Список ожидания; фактический общий доступ не подтверждён. География канадского финансового сервиса; тариф AI не объявлен.",
+    "limitations": "Ноябрьская презентация не означает запуск перечисленных AI-функций. Страница продукта явно относит помощника и подключения к началу 2027. Выход обычного торгового Wealthsimple Pro в конце 2026 не устанавливает наличие в нём Penny.",
+    "sources": [
+      "https://newsroom.wealthsimple.com/wealthsimple-announces-ai-assistant-penny-and-11-more-releases-at-wealthsimple-presents-something-good-is-going-to-happen",
+      "https://www.wealthsimple.com/en-ca/presents/something-good",
+      "https://www.wealthsimple.com/en-ca/financial-assistant-notify-me"
+    ],
+    "page": "brokers.md#rwb02"
+  }
+]

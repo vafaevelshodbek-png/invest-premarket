@@ -3,3 +3,6 @@ docs/research/investment-processes/archive/retail-investors-2026-11-15/Russia_Re
 docs/research/ai-investment-products/assets/report.pdf -text
 docs/research/ai-investment-products/assets/research.html -text whitespace=cr-at-eol
 docs/research/ai-investment-products/catalog.csv -text whitespace=cr-at-eol
+docs/archive/** -text whitespace=cr-at-eol
+docs/research/ai-investment-products/archive/** -text whitespace=cr-at-eol
+docs/research/investment-processes/archive/reader-revision-2026-11-15/** -text whitespace=cr-at-eol

@@ -1,0 +1,162 @@
+[
+  {
+    "path": "current-methods-sources.md",
+    "archived_path": "current-methods-sources.md",
+    "sha256": "a638fc6f87e7b70c976321016a0408922e9b17faa2de4ebc5db724e6896fa9cb"
+  },
+  {
+    "path": "current-methods-summary.md",
+    "archived_path": "current-methods-summary.md",
+    "sha256": "11fdaaf82607d610087e779dfe75573cfac7ace149c524452bf7dd550fe4bded"
+  },
+  {
+    "path": "current-methods.md",
+    "archived_path": "current-methods.md",
+    "sha256": "e4f895c55450ffab9c2947e3b73a90ceecb354082238b6dff06a94d43e96ed9b"
+  },
+  {
+    "path": "details.md",
+    "archived_path": "details.md",
+    "sha256": "7361576e216fb2cb6f2cd46b60cc04cc4ae287f5f1b7cfc8b5a88a6783be374b"
+  },
+  {
+    "path": "markets.md",
+    "archived_path": "markets.md",
+    "sha256": "27c4aeecb0495aa0d59c7ec2c1588e0b37440926bf7882d5685208d369735ba8"
+  },
+  {
+    "path": "participant-cases.md",
+    "archived_path": "participant-cases.md",
+    "sha256": "bcdd67f9e4d8a15ddedf0f6bf321d9c7570c8d5374ef0b410f80793e2f23526e"
+  },
+  {
+    "path": "participants-summary.md",
+    "archived_path": "participants-summary.md",
+    "sha256": "a15a4067251715f8e84f640c7f66f70e87684edd4b4b5522a6e4f3957b6c12e5"
+  },
+  {
+    "path": "participants.md",
+    "archived_path": "participants.md",
+    "sha256": "3b4f7e4924af2007ef51cff76c65e7fe9d1ac43a34eacb117e87d29cf1d4cce6"
+  },
+  {
+    "path": "product-formats-sources.md",
+    "archived_path": "product-formats-sources.md",
+    "sha256": "79897f505e8d3687a118494ca44f63c16cf2c5aa3b649a232a42ba4ffc16f875"
+  },
+  {
+    "path": "product-formats-summary.md",
+    "archived_path": "product-formats-summary.md",
+    "sha256": "d6bb77755b1085a80ea9ab78bca3067d820243cb92a14ed32b6bde59da205c26"
+  },
+  {
+    "path": "product-formats.md",
+    "archived_path": "product-formats.md",
+    "sha256": "99ed7146a97c43016db2cf7c2ef4c0e442498789ca46885804746efeaa49ac82"
+  },
+  {
+    "path": "README.md",
+    "archived_path": "README.original.md",
+    "sha256": "19323873d2ba6310fb861c4fd69b2f7930b8f114dacbbab651bb88027445b860"
+  },
+  {
+    "path": "retail-investors-analysis.md",
+    "archived_path": "retail-investors-analysis.md",
+    "sha256": "09a59d106bdc1659cd3fd592a85e2520a9fe27fbb5fd95d1e847001df61dafb4"
+  },
+  {
+    "path": "retail-investors-cases.md",
+    "archived_path": "retail-investors-cases.md",
+    "sha256": "a7e5471179e22f37469bf6d7ba558f076cfcdd06b820acf7d81483b2fab09050"
+  },
+  {
+    "path": "retail-investors-cjm.md",
+    "archived_path": "retail-investors-cjm.md",
+    "sha256": "3e0358a1b70e338b7e69ed5763645640847362aaadbf2fbe0de2b1072fb0f6a5"
+  },
+  {
+    "path": "retail-investors-sources.md",
+    "archived_path": "retail-investors-sources.md",
+    "sha256": "025efd5905da0f3f90cbde25acb3dffe26c81716a9996ea5c999562d05402cd9"
+  },
+  {
+    "path": "retail-investors-summary.md",
+    "archived_path": "retail-investors-summary.md",
+    "sha256": "ce5553916dfec40cd1f33ba2a585ad1f2fa857b614a1eaa4b0bc5cf5223206a8"
+  },
+  {
+    "path": "maintenance/completeness-audit.md",
+    "archived_path": "maintenance/completeness-audit.md",
+    "sha256": "1174328ea50c9160f62eb02fd3eec96b4b54d57d2eaf21f4945f2a126f0403c4"
+  },
+  {
+    "path": "maintenance/original-sha256.json",
+    "archived_path": "maintenance/original-sha256.json",
+    "sha256": "b4750fdab1961c126c89f8a9b471a950a353bf39c36c33e7163e83fea2629f8d"
+  },
+  {
+    "path": "maintenance/process-coverage.md",
+    "archived_path": "maintenance/process-coverage.md",
+    "sha256": "6083dfa9b0243aeebdf54f1967877543579f4c6ca3adbc02c5af50f1e55dac66"
+  },
+  {
+    "path": "maintenance/retail-investors-coverage.md",
+    "archived_path": "maintenance/retail-investors-coverage.md",
+    "sha256": "5a89cd4183d85a276c4b90d54ac4850c58b339bc18ab9fb94f4ce79e5ea46422"
+  },
+  {
+    "path": "maintenance/retail-investors-issue-inputs.json",
+    "archived_path": "maintenance/retail-investors-issue-inputs.json",
+    "sha256": "9217309038260ecd05ea5f18ac77d6e300815f5e0e9accb7b9dfbc8ad7cf074d"
+  },
+  {
+    "path": "maintenance/retail-investors-mapping.json",
+    "archived_path": "maintenance/retail-investors-mapping.json",
+    "sha256": "557da27873c8b7c5b94bfd9d6f211500232f7c0d53c25bd184c0e02942bca6f5"
+  },
+  {
+    "path": "maintenance/retail-investors-publication.md",
+    "archived_path": "maintenance/retail-investors-publication.md",
+    "sha256": "415e799959bc5d64bb504a7afc365f43608580adc22f538157171a81ad0e36cb"
+  },
+  {
+    "path": "maintenance/retail-investors-validation.md",
+    "archived_path": "maintenance/retail-investors-validation.md",
+    "sha256": "4ea761cc5c81c3473eae3a1020dfdd54baa373e6aa8a71e28fb49b7dc1397570"
+  },
+  {
+    "path": "maintenance/revision-plan.md",
+    "archived_path": "maintenance/revision-plan.md",
+    "sha256": "b8340b00d94649d8d1dfaa8a18c549f4c802d38c40c1723d52ed3a1ab4baea5c"
+  },
+  {
+    "path": "maintenance/validate_retail_integration.py",
+    "archived_path": "maintenance/validate_retail_integration.py",
+    "sha256": "d9f05467e4572764ac9f350468a14b1d1dc7e6b135dc8667cff2189465a77930"
+  },
+  {
+    "path": "assets/instruments.svg",
+    "archived_path": "assets/instruments.svg",
+    "sha256": "e317f244743ab9407ebc605f8e158459134b89eac836c8aab62b9ff3d81ecb03"
+  },
+  {
+    "path": "assets/market-routes.svg",
+    "archived_path": "assets/market-routes.svg",
+    "sha256": "757d031fa470dbf03f310031574d3dcdb3e93557827cb581c25d5498b317db13"
+  },
+  {
+    "path": "assets/processes.svg",
+    "archived_path": "assets/processes.svg",
+    "sha256": "bcd5899ce553fca6f9533284f29718605d15b2264e71309b8726011139cef2d9"
+  },
+  {
+    "path": "assets/support.svg",
+    "archived_path": "assets/support.svg",
+    "sha256": "4b845439cd0e16e8023b2d1faf2a3de749d21f18b697c3db7d6c1e2104a9ff12"
+  },
+  {
+    "path": "assets/work.svg",
+    "archived_path": "assets/work.svg",
+    "sha256": "2a1ee4f3dc819411133ef9dd89ba93790ce1666146640acec9031b0b5139133b"
+  }
+]
