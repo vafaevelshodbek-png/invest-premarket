@@ -557,5 +557,17 @@
     "archive": "docs/archive/product-proposals-2026-11-15/README.md",
     "selection_issue": 2,
     "selection_confirmed": false
+  },
+  "current_review_package": {
+    "candidate": "G02: Проверка облигации перед покупкой",
+    "date": "2026-11-16",
+    "branch": "docs/bond-prepurchase-20261116",
+    "status": "prepared_for_review_not_team_accepted",
+    "overview": "docs/product-discovery/iterations/2026-11-16-bond/README.md",
+    "application": "docs/product-discovery/iterations/2026-11-16-bond/application.md",
+    "task_map": "docs/product-discovery/iterations/2026-11-16-bond/task-map.md",
+    "publication": "docs/product-discovery/iterations/2026-11-16-bond/publication.md",
+    "submission_authorized": false,
+    "note": "Поручение пользователя на отдельный PR. Статусы Project, коллективный выбор, закрытая форма, экспертная проверка и отправка не объявляются выполненными."
   }
 }

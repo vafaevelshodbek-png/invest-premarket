@@ -1,0 +1,63 @@
+diff --git a/Hackathon.md b/Hackathon.md
+index ef5d7ee..cd8d8bd 100644
+--- a/Hackathon.md
++++ b/Hackathon.md
+@@ -2,0 +3,4 @@
++## Дополнение по форме, 16 ноября
++
++[Проверка публичных условий и порядок переноса](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/form-notes.md). Текущая страница программы указывает приём по 16 ноября до 15:00 и результаты до 18 ноября, часовой пояс рядом со временем не указан. До передачи на проверку организатор допускает правки, после передачи правки недоступны. Авторизованная форма команды, неизвестные лимиты остальных полей и автосохранение в этой работе не проверены.
++
+diff --git a/Home.md b/Home.md
+index 769ee48..e709a59 100644
+--- a/Home.md
++++ b/Home.md
+@@ -2,0 +3,4 @@
++## Проработка первого кандидата
++
++Подготовлен отдельный [пакет «Проверка облигации перед покупкой»](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/README.md), включая [ответы формы](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/application.md). Основание: поручение пользователя проработать G02. Публикация материала не подтверждает коллективный выбор команды, спрос, работающий MVP или отправку. [Результаты по задачам и открытые критерии](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/task-map.md).
++
+diff --git a/Ideas.md b/Ideas.md
+index 31b8642..8b252e5 100644
+--- a/Ideas.md
++++ b/Ideas.md
+@@ -2,0 +3,4 @@
++## Кандидат по поручению пользователя
++
++G02 «Проверка облигации перед покупкой» из подборки продуктовых связок: [проработка](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/concept.md), [проверка аналогов](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/research.md). Близкие функции уже есть у Финама и Bonds-Lab. Гипотеза отличия относится к проверяемости карточки и времени до корректного сравнения, а не к отсутствию конкурентов. Причины отсрочки G01/G03 сохранены в концепции. Это не восстановление снятых прежних кандидатов.
++
+diff --git a/Materials.md b/Materials.md
+index 5106162..9e07a17 100644
+--- a/Materials.md
++++ b/Materials.md
+@@ -2,0 +3,4 @@
++## Проработка G02
++
++[Пакет первого отбора](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/README.md), [ответы для анкеты](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/application.md), [схема](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/system.md), [расчёт](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/calculation.md), [смета](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/costs.md). Это документы проекта и план проверки, не созданный прототип. Отправленной версии и подтверждения регистрации нет.
++
+diff --git a/Product.md b/Product.md
+index 7ca37a7..fcc126b 100644
+--- a/Product.md
++++ b/Product.md
+@@ -2,0 +3,4 @@
++## Пакет G02
++
++[Проверка облигации перед покупкой](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/README.md): один самостоятельный инвестор, сравнение двух выпусков, подтверждённые факты и изменение концентрации. [Готовые тексты полей 2–10](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/application.md), [условия переноса и неизвестные лимиты](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/form-notes.md), [все задачи](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/task-map.md). Коллективное принятие и проверка личного кабинета не заменяются публикацией документов. Заявка не отправлена.
++
+diff --git a/Research.md b/Research.md
+index c7cb67f..7435f78 100644
+--- a/Research.md
++++ b/Research.md
+@@ -2,0 +3,4 @@
++## Документальная проверка G02, 16 ноября
++
++[Исследование](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/research.md) и [первичные источники](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/sources.md): аналоги, реальные документы X5 и Магнита, граница новизны и проверяемые гипотезы. [Данные и ограничения доступа](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/data.md), [будущий эксперимент](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/experiment.md). Спрос, полный кредитный эталон и преимущество AI не подтверждены. Связь с №18, №19, №20, №22, №37 указана в [таблице работ](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/task-map.md).
++
+diff --git a/Sources.md b/Sources.md
+index e30804a..cb141d5 100644
+--- a/Sources.md
++++ b/Sources.md
+@@ -2,0 +3,4 @@
++## Источники проработки G02
++
++[Реестр первичных документов](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/sources.md) и [проверка рыночных входов](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/data.md). Указаны точные адреса, подтверждения, периоды, единицы и ограничения доступа. Описания поставщиков не доказывают спрос или качество будущего продукта.
++
