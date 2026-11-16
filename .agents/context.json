@@ -556,6 +556,14 @@
     "index": "docs/product-discovery/README.md",
     "archive": "docs/archive/product-proposals-2026-11-15/README.md",
     "selection_issue": 2,
-    "selection_confirmed": false
+    "selection_confirmed": false,
+    "current_proposal": {
+      "overview": "docs/product-discovery/iterations/2026-11-16-bond-mcp/README.md",
+      "application": "docs/product-discovery/iterations/2026-11-16-bond-mcp/application.md",
+      "task_map": "docs/product-discovery/iterations/2026-11-16-bond-mcp/task-map.md",
+      "status": "proposal_in_review_not_submitted",
+      "previous_alternative_pr": 66,
+      "scope": "Full selection, issuer analysis and portfolio scenario; MCP-only broker data; account access unverified"
+    }
   }
 }
