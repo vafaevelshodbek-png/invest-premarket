@@ -1,0 +1,98 @@
+diff --git a/Hackathon.md b/Hackathon.md
+index ef5d7ee..cd8d8bd 100644
+--- a/Hackathon.md
++++ b/Hackathon.md
+@@ -1,5 +1,9 @@
+ # Условия хакатона
+ 
++## Дополнение по форме, 16 ноября
++
++[Проверка публичных условий и порядок переноса](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/form-notes.md). Текущая страница программы указывает приём по 16 ноября до 15:00 и результаты до 18 ноября, часовой пояс рядом со временем не указан. До передачи на проверку организатор допускает правки, после передачи правки недоступны. Авторизованная форма команды, неизвестные лимиты остальных полей и автосохранение в этой работе не проверены.
++
+ ## Официальные ссылки
+ 
+ - [Сайт программы](https://meetup.tbank.ru/invest.premarket)
+diff --git a/Home.md b/Home.md
+index 769ee48..e709a59 100644
+--- a/Home.md
++++ b/Home.md
+@@ -1,5 +1,9 @@
+ # Инвест. Премаркет
+ 
++## Проработка первого кандидата
++
++Подготовлен отдельный [пакет «Проверка облигации перед покупкой»](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/README.md), включая [ответы формы](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/application.md). Основание: поручение пользователя проработать G02. Публикация материала не подтверждает коллективный выбор команды, спрос, работающий MVP или отправку. [Результаты по задачам и открытые критерии](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/task-map.md).
++
+ ## Наш этап
+ 
+ Первый отбор SIGNAL IN, заявка до 16 ноября, 15:00 2026 года. Рабочий срок команды 15 ноября. В команде два участника с бизнес-финансовым профилем и два с ML-техническим.
+diff --git a/Ideas.md b/Ideas.md
+index 31b8642..8b252e5 100644
+--- a/Ideas.md
++++ b/Ideas.md
+@@ -1,5 +1,9 @@
+ # Идеи
+ 
++## Кандидат по поручению пользователя
++
++G02 «Проверка облигации перед покупкой» из подборки продуктовых связок: [проработка](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/concept.md), [проверка аналогов](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/research.md). Близкие функции уже есть у Финама и Bonds-Lab. Гипотеза отличия относится к проверяемости карточки и времени до корректного сравнения, а не к отсутствию конкурентов. Причины отсрочки G01/G03 сохранены в концепции. Это не восстановление снятых прежних кандидатов.
++
+ Продукт пока не выбран. Прежний набор десяти кандидатов снят 15 ноября 2026 года. Новый набор формируется в [задаче поиска вариантов](https://github.com/vafaevelshodbek-png/invest-premarket/issues/18), решение команды фиксируется в [задаче выбора](https://github.com/vafaevelshodbek-png/invest-premarket/issues/2).
+ 
+ ## Основания для нового выбора
+diff --git a/Materials.md b/Materials.md
+index 5106162..9e07a17 100644
+--- a/Materials.md
++++ b/Materials.md
+@@ -1,5 +1,9 @@
+ # Материалы команды
+ 
++## Проработка G02
++
++[Пакет первого отбора](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/README.md), [ответы для анкеты](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/application.md), [схема](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/system.md), [расчёт](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/calculation.md), [смета](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/costs.md). Это документы проекта и план проверки, не созданный прототип. Отправленной версии и подтверждения регистрации нет.
++
+ | Материал | Где находится |
+ |---|---|
+ | Путь частного инвестора и 55 объединённых клиентских задач | [Обзор](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/retail-investors-summary.md), [каталог сценариев](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/retail-investors-cjm.md), [сегменты и поведение](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/retail-investors-analysis.md) |
+diff --git a/Product.md b/Product.md
+index 7ca37a7..fcc126b 100644
+--- a/Product.md
++++ b/Product.md
+@@ -1,5 +1,9 @@
+ # Продукт и заявка
+ 
++## Пакет G02
++
++[Проверка облигации перед покупкой](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/README.md): один самостоятельный инвестор, сравнение двух выпусков, подтверждённые факты и изменение концентрации. [Готовые тексты полей 2–10](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/application.md), [условия переноса и неизвестные лимиты](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/form-notes.md), [все задачи](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/task-map.md). Коллективное принятие и проверка личного кабинета не заменяются публикацией документов. Заявка не отправлена.
++
+ ## Текущее состояние
+ 
+ Продукт ещё не выбран, заявка не отправлена. Принятые [исследования](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Research) дают основания для выбора, но не заменяют решение команды. Прежняя подборка кандидатов снята. Ранние концепции и черновики ответов находятся в [архиве предложений](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/archive/product-proposals-2026-11-15/README.md).
+diff --git a/Research.md b/Research.md
+index c7cb67f..7435f78 100644
+--- a/Research.md
++++ b/Research.md
+@@ -1,5 +1,9 @@
+ # Исследования
+ 
++## Документальная проверка G02, 16 ноября
++
++[Исследование](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/research.md) и [первичные источники](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/sources.md): аналоги, реальные документы X5 и Магнита, граница новизны и проверяемые гипотезы. [Данные и ограничения доступа](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/data.md), [будущий эксперимент](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/experiment.md). Спрос, полный кредитный эталон и преимущество AI не подтверждены. Связь с №18, №19, №20, №22, №37 указана в [таблице работ](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/task-map.md).
++
+ ## Текущая картина
+ 
+ Исследование организовано вокруг частного инвестора. [Обзор пути](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/retail-investors-summary.md) объясняет основные выводы, [каталог 55 клиентских задач](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/research/investment-processes/retail-investors-cjm.md) связывает работу клиента с текущими способами решения, затруднениями, возможной автоматизацией и ограничениями. Все 50 исходных сценариев приняты; единый каталог дополнен пятью самостоятельными клиентскими задачами из прежних материалов. Все 11 прежних клиентских ситуаций сопоставлены с каталогом, 15 профессиональных ситуаций вынесены в архив; новые интервью и проверенный спрос этим не заявлены.
+diff --git a/Sources.md b/Sources.md
+index e30804a..cb141d5 100644
+--- a/Sources.md
++++ b/Sources.md
+@@ -1,5 +1,9 @@
+ # Источники
+ 
++## Источники проработки G02
++
++[Реестр первичных документов](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/sources.md) и [проверка рыночных входов](https://github.com/vafaevelshodbek-png/invest-premarket/blob/main/docs/product-discovery/iterations/2026-11-16-bond/data.md). Указаны точные адреса, подтверждения, периоды, единицы и ограничения доступа. Описания поставщиков не доказывают спрос или качество будущего продукта.
++
+ Источники относятся к конкретным результатам. Дата публикации материала, дата его чтения и дата принятия исследования различаются. Историю принятия см. в [исследованиях](https://github.com/vafaevelshodbek-png/invest-premarket/wiki/Research).
+ 
+ | Тема | Источники и границы |
